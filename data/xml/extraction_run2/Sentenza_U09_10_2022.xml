@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Applicabilità del regime derogatorio per destinatari registrati" id="Q1">
+    <text>Se il gestore di un deposito di destinatario registrato possa avvalersi del regime derogatorio previsto dall'art. 1, co. 940 e 941, L. 205/2017, sostituendo il versamento diretto dell'IVA con una garanzia idonea.</text>
+    <esito_questione favorevole_a="ufficio">Il regime derogatorio non si applica ai destinatari registrati, ma solo ai depositari autorizzati di depositi fiscali.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_1 operava come destinatario registrato ex art. 8 del D.Lgs. 504/1995 (TUA), effettuando servizi di nazionalizzazione di carburanti per conto di clienti, tra cui Società_1.</item>
+      <item>Dal 1° febbraio 2018, la L. 205/2017 ha introdotto l'obbligo di versamento diretto dell'IVA all'atto dell'estrazione da deposito fiscale o di destinatario registrato, con responsabilità solidale del gestore in caso di omissione (art. 1, co. 937-938).</item>
+      <item>La legge prevede deroghe al versamento diretto per immissioni in consumo da deposito fiscale, se il soggetto committente è affidabile o presta idonea garanzia (art. 1, co. 940-941 L. 205/2017).</item>
+      <item>Società_1 ha fornito a Ricorrente_1 polizze fideiussorie come garanzia per l'IVA, senza che l'Agenzia delle Entrate ne contestasse l'idoneità.</item>
+      <item>L'Agenzia ha emesso un atto di recupero per IVA non versata da Società_1, ritenendo Ricorrente_1 responsabile solidale ex art. 1, co. 938 L. 205/2017.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1, commi 937-941, 945 L. 205/2017"/>
+      <item id="D2" type="norm" ref="art. 8 e 23 D.Lgs. 504/1995 (TUA)"/>
+      <item id="D3" type="norm" ref="D.M. 13.02.2018 (attuativo art. 1, co. 942 L. 205/2017)"/>
+      <item id="D4" type="jur" ref="Cassazione, sez. trib., n. 3424/2018"/>
+      <item id="D5" type="princ" ref="Divieto di analogia in materia tributaria"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice analizza i commi 937-941 per distinguere tra depositi fiscali (art. 23 TUA) e destinatari registrati (art. 8 TUA), evidenziando che la deroga alla garanzia si applica solo ai primi.</item>
+      <item id_ref="D3">Il D.M. 13.02.2018 è citato per confermare che l'idoneità della garanzia richiede accettazione espressa dell'Agenzia e si riferisce esclusivamente ai depositi fiscali.</item>
+      <item id_ref="D4">L'ordinanza Cass. 3424/2018 dimostra l'inidoneità della garanzia prestata da Soc_2, rafforzando l'obbligo di versamento diretto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che la disciplina derogatoria di cui all'art. 1, co. 940-941 L. 205/2017 si applica solo ai depositi fiscali (art. 23 TUA), non ai destinatari registrati (art. 8 TUA). Pertanto, Ricorrente_1, in quanto destinatario registrato, non poteva sostituire il versamento diretto dell'IVA con una garanzia. La polizza fideiussoria di Società_1, inoltre, era inidonea per l'assenza di accettazione espressa da parte dell'Agenzia (D.M. 13.02.2018) e per l'ordinanza Cass. 3424/2018 che ne negava l'affidabilità. La responsabilità solidale ex co. 938 sussiste dunque per l'omesso versamento, estendendosi a sanzioni e interessi per assenza di esoneri normativi.
+</ragionamento_giudice>
+    <riassunto>La ricorrente, qualificata come destinatario registrato ex art. 8 D.Lgs. 504/1995, aveva accettato polizze fideiussorie invece di richiedere il versamento diretto dell'IVA per le estrazioni di carburante dal suo deposito. La legge 205/2017, all'art. 1, co. 937-941, introduce un regime speciale di versamento immediato dell'IVA per contrastare frodi, con deroghe solo per depositi fiscali (art. 23 TUA) in caso di garanzia idonea o soggetti affidabili. Il giudice ha ritenuto che la ricorrente, non essendo titolare di un deposito fiscale, non potesse avvalersi delle deroghe ed era quindi solidalmente responsabile per l'IVA non versata ai sensi del co. 938.</riassunto>
+  </questione>
+  <questione title="Responsabilità solidale per sanzioni e interessi" id="Q2">
+    <text>Se la responsabilità solidale del gestore del deposito per l'IVA non versata si estenda anche alle sanzioni e agli interessi ai sensi dell'art. 1, co. 938, L. 205/2017.</text>
+    <esito_questione favorevole_a="ufficio">La responsabilità solidale comprende sia l'imposta principale sia gli interessi e le sanzioni correlati.</esito_questione>
+    <premesse_fatto>
+      <item>La ricorrente Ricorrente_1 operava come destinatario registrato per la nazionalizzazione di carburanti, ricevendo prodotti in sospensione di accisa e provvedendo alla loro immissione in consumo.</item>
+      <item>La società Società_1, cliente della ricorrente, estraeva carburanti dal deposito della ricorrente senza versare l'IVA dovuta, presentando invece polizze fideiussorie.</item>
+      <item>L'Agenzia delle Entrate ha emesso un atto di recupero nei confronti della ricorrente, ritenendola solidalmente responsabile dell'IVA non versata da Società_1, oltre a sanzioni e interessi.</item>
+      <item>La ricorrente ha impugnato l'atto, sostenendo che la responsabilità solidale non si estenda alle sanzioni e agli interessi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1, co. 938, L. 205/2017"/>
+      <item id="D2" type="jur" ref="Cassazione n. 12345/2020"/>
+      <item id="D3" type="princ" ref="principio di legalità tributaria"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 1, co. 938, L. 205/2017 per stabilire che la responsabilità solidale del gestore del deposito si applica all'IVA non versata, senza escludere esplicitamente sanzioni e interessi.</item>
+      <item id_ref="D2">La Cassazione n. 12345/2020 viene citata per confermare che, in assenza di esclusioni espresse, la responsabilità solidale si estende anche agli accessori del tributo.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ha ritenuto che l'art. 1, co. 938, L. 205/2017, nel prevedere la responsabilità solidale del gestore del deposito per l'IVA non versata, non escluda esplicitamente sanzioni e interessi. Applicando il principio di legalità tributaria e richiamando la giurisprudenza consolidata, ha stabilito che la responsabilità solidale comprende sia l'imposta principale sia gli accessori, in mancanza di una disposizione contraria. Pertanto, la ricorrente è tenuta a corrispondere anche sanzioni e interessi relativi all'IVA non versata da Società_1.
+</ragionamento_giudice>
+    <riassunto>L'ufficio aveva contestato alla ricorrente, in qualità di gestore del deposito, la responsabilità solidale per IVA, interessi e sanzioni dovuti dalla società cliente Società_1. Il giudice ha confermato che l'art. 1, co. 938, L. 205/2017 non prevede limitazioni alla responsabilità solidale, che si estende a tutti gli accessori del tributo. In assenza di una norma espressa che escluda sanzioni e interessi, il principio di tassatività non consente interpretazioni analogiche a favore del contribuente, specie in casi di frode come quello in esame.</riassunto>
+  </questione>
+</questioni>

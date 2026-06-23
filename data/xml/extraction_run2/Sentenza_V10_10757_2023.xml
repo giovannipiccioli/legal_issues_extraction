@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Estensione delle indagini bancarie ai conti dei soci" id="Q1">
+    <text>Se l'Agenzia delle Entrate sia legittimata ad estendere le indagini bancarie ai conti correnti intestati ai soci e familiari della società contribuente ai fini dell'accertamento fiscale.</text>
+    <esito_questione favorevole_a="ufficio">L'estensione delle indagini bancarie ai conti dei soci è legittima</esito_questione>
+    <premesse_fatto>
+      <item>La Guardia di Finanza ha redatto un processo verbale di constatazione nei confronti della società Ricorrente_1, contestando costi indeducibili, versamenti e prelevamenti non giustificati per un importo complessivo di € 1.269.317,92 per l'anno 2015.</item>
+      <item>Le indagini finanziarie sono state attivate sui conti correnti della società, del socio rappresentante Rappresentante_1 e dell'altro socio Nominativo_2.</item>
+      <item>L'Agenzia delle Entrate ha notificato un avviso di accertamento basato sui risultati delle indagini, quantificando maggiori ricavi, imposte e sanzioni per un totale di € 514.769,01.</item>
+      <item>La società ha impugnato l'avviso, contestando in particolare l'estensione delle indagini bancarie ai conti dei soci.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 32 comma 1 n. 2 D.P.R. n. 600/1973"/>
+      <item id="D2" type="norm" ref="art. 39 comma 2 D.P.R. n. 600/1973"/>
+      <item id="D3" type="norm" ref="art. 51 comma 2 n. 7 D.P.R. n. 633/1972"/>
+      <item id="D4" type="jur" ref="Cassazione, sentenza n. 13391/2003; Cassazione, sentenza n. 6910/2003; Cassazione, sentenza n. 8683/2002; Cassazione, sentenza n. 2738/2001"/>
+      <item id="D5" type="jur" ref="Cassazione, sentenza n. 19493/2010"/>
+      <item id="D6" type="jur" ref="Cassazione, sentenza n. 20197/2010"/>
+      <item id="D7" type="princ" ref="onere della prova"/>
+      <item id="D8" type="prassi_amm" ref="circolare n. 32/E del 19/10/2006 Agenzia delle Entrate"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 32 D.P.R. 600/73 per stabilire che i dati bancari possono essere posti a base degli accertamenti se il contribuente non dimostra la loro irrilevanza fiscale.</item>
+      <item id_ref="D4">Il giudice richiama la giurisprudenza consolidata per affermare che un rapporto qualificato tra soci e società inverte l'onere della prova a carico del contribuente.</item>
+      <item id_ref="D5">La sentenza n. 19493/2010 è citata per confermare che l'estensione delle indagini ai conti dei soci è legittima in presenza di una compagine societaria a base familiare ristretta.</item>
+      <item id_ref="D8">La circolare 32/E è utilizzata per sostenere che i poteri di indagine possono riguardare anche soggetti terzi legati al contribuente da vincoli familiari o commerciali.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene legittima l'estensione delle indagini bancarie ai conti dei soci, applicando l'art. 32 D.P.R. 600/73 e la giurisprudenza citata. La ristretta base azionaria e i vincoli familiari giustificano la presunzione di riferibilità delle operazioni bancarie dei soci alla società, invertendo l'onere della prova. Il contribuente non ha fornito prove specifiche per contestare le singole movimentazioni, confermando così la legittimità dell'accertamento.</ragionamento_giudice>
+    <riassunto>L'Agenzia delle Entrate aveva basato l'accertamento fiscale anche su movimentazioni bancarie rilevate su conti intestati ai soci e familiari della società contribuente. La ricorrente contestava tale estensione come illegittima. Il giudice ha ritenuto che, sulla base dell'art. 32 DPR 600/73 e della consolidata giurisprudenza (Cass. 19493/2010, Cass. 18868/2007), quando esiste un ristretto nucleo societario familiare, le indagini possono legittimamente estendersi ai conti dei soci. La riferibilità delle movimentazioni alla società è presunta, spettando al contribuente provare il contrario con giustificazioni specifiche per ogni operazione, prova che nella specie non è stata fornita.</riassunto>
+  </questione>
+  <questione title="Presunzione di riferibilità delle movimentazioni bancarie" id="Q2">
+    <text>Se le movimentazioni bancarie non giustificate rilevate sui conti dei soci possano presumersi riferibili all'attività della società.</text>
+    <esito_questione favorevole_a="ufficio">Le movimentazioni bancarie non giustificate si presumono riferibili all'attività della società</esito_questione>
+    <premesse_fatto>
+      <item>La G.d.F. di Castellammare di Stabia ha redatto un processo verbale di constatazione nei confronti della società Ricorrente_1, contestando movimentazioni bancarie non giustificate sui conti della società e dei soci per l'anno 2015.</item>
+      <item>L'Agenzia delle Entrate ha notificato un avviso di accertamento basato su tali movimentazioni, presunte riferibili all'attività della società, quantificando maggiori imposte e sanzioni.</item>
+      <item>La società ha impugnato l'avviso, contestando l'estensione delle indagini bancarie ai conti dei soci e la presunzione di riferibilità delle movimentazioni all'attività societaria.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 32 comma 1 n. 2 DPR n. 600/1973"/>
+      <item id="D2" type="jur" ref="Cassazione n. 13391/2003, Cassazione n. 6910/2003, Cassazione n. 8683/2002, Cassazione n. 2738/2001"/>
+      <item id="D3" type="jur" ref="Cassazione n. 19493/2010"/>
+      <item id="D4" type="norm" ref="art. 39 comma 2 DPR n. 600/1973"/>
+      <item id="D5" type="jur" ref="Cassazione n. 20197/2010"/>
+      <item id="D6" type="princ" ref="onere della prova"/>
+      <item id="D7" type="prassi_amm" ref="Circolare n. 32/E del 19/10/2006 Agenzia delle Entrate"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'articolo stabilisce la presunzione di riferibilità delle movimentazioni bancarie non giustificate all'attività della società, invertendo l'onere della prova.</item>
+      <item id_ref="D3">La sentenza afferma la legittimità dell'estensione delle indagini bancarie ai conti dei soci in società a base familiare ristretta, salva prova contraria.</item>
+      <item id_ref="D5">La sentenza consolida il principio che la riferibilità dei conti "estranei" può essere provata tramite presunzioni semplici.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica l'art. 32 DPR 600/73 e la giurisprudenza consolidata (Cass. 19493/2010 e 20197/2010) per ritenere legittima la presunzione di riferibilità delle movimentazioni bancarie non giustificate dei soci all'attività della società, data la ristretta base azionaria e l'assenza di prova contraria specifica da parte della società. L'onere della prova incombe sul contribuente, che non ha fornito giustificazioni puntuali sulle singole operazioni contestate.</ragionamento_giudice>
+    <riassunto>L'Agenzia aveva considerato come ricavi non dichiarati le movimentazioni bancarie non giustificate rilevate sui conti dei soci (€101.949,36 in versamenti e €1.167.358,56 in prelevamenti). Il giudice ha affermato che, ex art. 32 DPR 600/73 e secondo la giurisprudenza citata (Cass. 13391/2003, Cass. 8683/2002), in presenza di uno stretto legame societario-familiare, sussiste una presunzione di riferibilità delle movimentazioni all'attività della società. Il contribuente poteva fornire prova contraria giustificando le singole operazioni, ma non l'ha fatto. Pertanto, l'accertamento basato su tali presunzioni è stato ritenuto legittimo.</riassunto>
+  </questione>
+</questioni>

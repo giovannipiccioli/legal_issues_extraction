@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità dell\'avviso di contestazione per violazione del termine di 60 giorni e del contraddittorio endoprocedimentale" id="Q1">
+    <text>Se l\'avviso di contestazione IVA notificato prima dello scadere del termine di 60 giorni previsto dall\'art. 12, comma 7, legge 212/2000 e senza attivazione del contraddittorio endoprocedimentale sia nullo.</text>
+    <esito_questione favorevole_a="contribuente">L\'avviso è nullo poiché la violazione del contraddittorio endoprocedimentale per tributi armonizzati (IVA) invalida l\'atto, essendo stato omesso l\'obbligo di cooperazione.</esito_questione>
+    <premesse_fatto>
+      <item>L'atto di contestazione n. TVPCOP101961/2015 per l'anno 2009 è stato notificato il 24.12.2015, meno di 60 giorni dopo la notifica del PVC della Guardia di Finanza di Taranto avvenuta il 4.12.2015.</item>
+      <item>L'avviso di contestazione riguardava violazioni relative all'omesso versamento trimestrale IVA, un tributo armonizzato.</item>
+      <item>Il contribuente ha eccepito la violazione del termine di 60 giorni previsto dall'art. 12, comma 7, legge 212/2000 e l'omissione del contraddittorio endoprocedimentale, ritenendo l'atto nullo.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione S.U. n. 24823/2015"/>
+      <item id="D2" type="norm" ref="art. 12, comma 7, legge 212/2000"/>
+      <item id="D3" type="jur" ref="Cassazione n. 19328/2018, Cassazione n. 20036/2018, Cassazione n. 218/2019, Cassazione n. 34409/2019, Cassazione n. 2043/2021"/>
+      <item id="D4" type="jur" ref="Cassazione Sez. VI, n. 9084/2021"/>
+      <item id="D5" type="princ" ref="principio di cooperazione tra amministrazione e contribuente"/>
+      <item id="D6" type="princ" ref="principio di lealtà processuale"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza delle Sezioni Unite afferma che, per i tributi armonizzati, l'omissione del contraddittorio endoprocedimentale comporta la nullità dell'atto impositivo, purché il contribuente abbia dedotto concretamente le ragioni difensive.</item>
+      <item id_ref="D2">L'articolo stabilisce il termine di 60 giorni per le osservazioni del contribuente e vieta l'emissione dell'avviso di accertamento prima della scadenza, salvo casi di urgenza motivata.</item>
+      <item id_ref="D3">Le sentenze ribadiscono il principio del contraddittorio endoprocedimentale per i tributi armonizzati e il relativo regime di invalidità in caso di violazione.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il Collegio rileva che l'IVA è un tributo armonizzato, pertanto si applica l'obbligo generale di contraddittorio endoprocedimentale sancito dalla giurisprudenza comunitaria e interna (Cass. S.U. 24823/2015). La violazione di tale obbligo, unitamente alla mancata dimostrazione di urgenza valida per derogare al termine di 60 giorni (art. 12, comma 7, legge 212/2000), rende nullo l'atto impositivo. Il contribuente non ha articolato specifiche ragioni difensive, ma la nullità discende dalla violazione oggettiva del principio di cooperazione, essenziale per i tributi armonizzati. La decorrenza autonoma del termine di 60 giorni e l'assenza di urgenza giustificata confermano l'invalidità dell'avviso.
+</ragionamento_giudice>
+    <riassunto>L\'Agenzia ha notificato un avviso di contestazione IVA dopo soli 20 giorni dal PVC, violando il termine di 60 giorni (art. 12, comma 7, legge 212/2000) e senza instaurare il contraddittorio endoprocedimentale, previsto per i tributi armonizzati dalla giurisprudenza (Cass. S.U. 24823/2015). Il giudice ha rilevato che, trattandosi di IVA (tributo armonizzato), la violazione del contraddittorio comporta la nullità dell\'atto, nonostante l\'eccezione dell\'urgenza (fondata sul rischio di perdita del credito erariale e su contestazioni penali) fosse ritenuta legittima. La nullità è stata affermata per mancato bilanciamento degli interessi ex ante.</riassunto>
+  </questione>
+  <questione title="Decadenza del potere di accertamento per mancato raddoppio dei termini" id="Q2">
+    <text>Se l\'avviso di contestazione IVA notificato dopo il termine ordinario (31.12.2014) sia nullo per decadenza, stante la mancata presentazione della denuncia penale entro tale termine.</text>
+    <esito_questione favorevole_a="contribuente">L\'avviso è nullo poiché il raddoppio dei termini non opera per mancata denuncia penale entro il 31.12.2014, requisito essenziale ex D.lgs. 128/2015.</esito_questione>
+    <premesse_fatto>
+      <item>L'avviso di contestazione n. TVPCOP101961/2015 per l’anno 2009 è stato notificato il 24.12.2015.</item>
+      <item>Il termine ordinario di decadenza per l’accertamento IVA relativo all’anno 2009 era il 31.12.2014.</item>
+      <item>Il processo verbale di constatazione (PVC) della Guardia di Finanza è stato notificato il 4.12.2015.</item>
+      <item>Non è documentata la presentazione della denuncia penale da parte dell’Agenzia delle Entrate entro il termine ordinario di decadenza (31.12.2014).</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 57, comma 3, DPR 633/1972 (come modificato dal D.lgs. 128/2015)"/>
+      <item id="D2" type="jur" ref="Corte Costituzionale n. 247/2011"/>
+      <item id="D3" type="jur" ref="Cassazione n. 20043/2015, Cassazione n. 9974/2015"/>
+      <item id="D4" type="norm" ref="D.lgs. 128/2015, art. 2, commi 1 e 2"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina il raddoppio dei termini di accertamento in caso di violazioni penali, richiedendo la denuncia entro il termine ordinario.</item>
+      <item id_ref="D4">Modifica il regime del raddoppio, introducendo l'obbligo di denuncia penale entro il termine ordinario.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il Collegio osserva che il raddoppio dei termini di accertamento ex art. 57 DPR 633/1972, come modificato dal D.lgs. 128/2015, opera solo se la denuncia penale è presentata entro il termine ordinario (31.12.2014). Non essendo stata dimostrata tale presentazione, l’avviso di contestazione notificato il 24.12.2015 è tardivo e quindi nullo per decadenza. La giurisprudenza costituzionale e di legittimità conferma che il raddoppio presuppone l’adempimento dell’obbligo di denuncia entro i termini ordinari.</ragionamento_giudice>
+    <riassunto>L\'Agenzia aveva eccepito il raddoppio dei termini per accertamenti (art. 57, comma 3, DPR 633/72) dovuto a violazioni penali, ma il giudice ha rilevato che, dopo il D.lgs. 128/2015, il raddoppio richiedeva la denuncia penale entro il termine ordinario (31.12.2014). Poiché la denuncia non era documentata e l\'informativa penale citata riguardava un altro anno, il termine non era raddoppiato. L\'avviso, notificato il 24.12.2015, era quindi tardivo e nullo per decadenza.</riassunto>
+  </questione>
+</questioni>

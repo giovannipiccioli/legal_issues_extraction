@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimità della richiesta di pagamento del contributo consortile di bonifica" id="Q1">
+    <text>Se la richiesta di pagamento di un contributo consortile di bonifica, priva di motivazione esplicita, possa considerarsi legittima quando il contribuente abbia comunque contestato il merito senza dimostrare un pregiudizio concreto al diritto di difesa.</text>
+    <esito_questione favorevole_a="ufficio">L'atto è legittimo nonostante il difetto di motivazione formale, poiché il contribuente ha contestato il merito senza provare un pregiudizio al diritto di difesa.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha impugnato l'informativa n. 9639296 del 17/08/2021 relativa al contributo consortile per l'anno 2020, lamentando la mancanza di motivazione nell'atto e contestando il merito del tributo.</item>
+      <item>Il contribuente ha contestato il merito della pretesa contributiva senza dimostrare un pregiudizio concreto al diritto di difesa derivante dal difetto di motivazione formale.</item>
+      <item>Il Consorzio di Bonifica ha emesso l'avviso di pagamento n. 8295725 del 21/10/2020, precedente alla notifica dell'atto impugnato.</item>
+      <item>Il piano di classifica, approvato con delibera del Consiglio Regionale n.198 del 04/05/2017 e delibera della Deputazione Amministrativa n.166 del 15/09/2020, non è stato specificamente impugnato dal contribuente.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 10"/>
+      <item id="D2" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 21"/>
+      <item id="D3" type="norm" ref="art. 860 c.c."/>
+      <item id="D4" type="norm" ref="art. 2697 c.c."/>
+      <item id="D5" type="jur" ref="Cass. civ., Sez. Unite, Sent. 14/05/2010, n. 11722"/>
+      <item id="D6" type="jur" ref="Cass. civ., Sez. VI - 5, Ordinanza, 11/07/2018, n. 18224"/>
+      <item id="D7" type="jur" ref="Cass. civ., Sez. V, Sentenza, 08/10/2014, n. 21177"/>
+      <item id="D8" type="jur" ref="Cass. civ., Sez. VI - 5, Ordinanza, 18/04/2017, n. 9778"/>
+      <item id="D9" type="jur" ref="Cass. sez. un. n. 26009 del 2008"/>
+      <item id="D10" type="jur" ref="Cass. n. 9511 del 2018"/>
+      <item id="D11" type="jur" ref="Cass. n. 24356 del 2016"/>
+      <item id="D12" type="jur" ref="Cass. n. 24070 del 2014"/>
+      <item id="D13" type="jur" ref="Cass. n. 654 del 2012"/>
+      <item id="D14" type="jur" ref="Cass. sez. trib. n. 7366 del 2012"/>
+      <item id="D15" type="jur" ref="Cass. sez. trib. n. 7365 del 2012"/>
+      <item id="D16" type="jur" ref="Cass. sez. trib. n. 7364 del 2012"/>
+      <item id="D17" type="jur" ref="Cass. sez. un. n. 26009 del 2008"/>
+      <item id="D18" type="jur" ref="Cass. n. 9099 del 2012"/>
+      <item id="D19" type="jur" ref="Cass. n. 4671 del 2012"/>
+      <item id="D20" type="jur" ref="Cass. sez. V, Ordinanza, 24/07/2023, n. 22176"/>
+      <item id="D21" type="jur" ref="Cass. Sentenza dell’08/04/2022, n. 11431"/>
+      <item id="D22" type="jur" ref="Cass. civ., Sez. I, Sentenza, 20/11/2015, n. 23815"/>
+      <item id="D23" type="norm" ref="legge regionale Calabria n. 13 del 2017"/>
+      <item id="D24" type="jur" ref="Corte costituzionale n. 188 del 2018"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 10 del R.D. n. 215/1933 per stabilire che la trascrizione del provvedimento di perimetrazione della contribuenza assolve a una funzione di mera pubblicità-notizia, non essendo un requisito fondamentale per la validità dell'atto.</item>
+      <item id_ref="D2">L'art. 21 del R.D. n. 215/1933 è citato per affermare che i contributi consortili di bonifica costituiscono oneri reali dovuti dal proprietario del fondo incluso nel perimetro consortile.</item>
+      <item id_ref="D3">L'art. 860 c.c. è richiamato per la presunzione di vantaggio derivante dall'inclusione nel piano di classifica, salva prova contraria del contribuente.</item>
+      <item id_ref="D5">La sentenza n. 11722/2010 delle Sezioni Unite è citata per affermare che il difetto di motivazione formale non comporta la nullità dell'atto se il contribuente ha contestato il merito senza dimostrare un pregiudizio al diritto di difesa.</item>
+      <item id_ref="D20">L'ordinanza n. 22176/2023 è utilizzata per chiarire che il consorzio è esonerato dalla prova del beneficio fondiario se esiste un piano di classifica approvato, spettando al contribuente provare l'inadempimento.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene legittima la richiesta di pagamento nonostante il difetto di motivazione formale, poiché il contribuente ha contestato il merito senza dimostrare un pregiudizio al diritto di difesa. Applicando gli artt. 860 c.c. e 10 del R.D. n. 215/1933, conferma la presunzione di vantaggio derivante dall'inclusione nel piano di classifica, non impugnato dal contribuente. Grava su quest'ultimo l'onere di provare l'inadempimento del consorzio, onere non assolto nel caso concreto. La giurisprudenza citata (in particolare Cass. n. 11722/2010 e n. 22176/2023) consolida il principio per cui la legittimità dell'atto non è inficiata dal vizio formale se il contribuente ha potuto esercitare pienamente il diritto di difesa.</ragionamento_giudice>
+    <riassunto>Il ricorrente impugnava un avviso di mora per contributi consortili, sostenendo la sua illegittimità per difetto di motivazione. Il giudice ha rilevato che, ai sensi dell'art. 7 della L. 212/2000 (Statuto del contribuente), un atto impositivo deve essere adeguatamente motivato. Tuttavia, ha applicato i principi della Cassazione (Sent. n. 11722/2010 e altre), secondo cui l'assenza di motivazione non comporta la nullità se il contribuente ha pienamente contestato il merito senza dimostrare un pregiudizio concreto. Nella fattispecie, il contribuente era a conoscenza del Piano di classifica (approvato con Delibera Regionale n. 198/2017), rendendo superflua la ripetizione della motivazione nell'avviso. La richiesta è stata quindi ritenuta valida.</riassunto>
+  </questione>
+  <questione title="Onere della prova sul beneficio fondiario per i contributi di bonifica" id="Q2">
+    <text>Se, in caso di mancata impugnazione del piano di classifica consortile, spetti al contribuente dimostrare l'assenza di vantaggi diretti derivanti dalle opere di bonifica per sottrarsi all'obbligo contributivo.</text>
+    <esito_questione favorevole_a="ufficio">L'onere della prova grava sul contribuente, il quale non ha impugnato il piano né fornito elementi idonei a confutare la presunzione di vantaggio.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato l'informativa n. 9639296 del 17/08/2021 relativa al contributo consortile per l'anno 2020, sostenendo l'insussistenza del dovere contributivo.</item>
+      <item>Il Piano di classifica è stato approvato con delibera del Consiglio Regionale n.198 del 04/05/2017 e pubblicato, senza essere impugnato dal contribuente.</item>
+      <item>Il contribuente non ha fornito elementi probatori per dimostrare l'assenza di vantaggi diretti derivanti dalle opere di bonifica.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. sez. un. n. 26009/2008, Cass. sez. un. n. 11722/2010, Cass. n. 17066/2010, Cass. n. 20681/2014, Cass. n. 21176/2014, Cass. n. 3602/2017, Cass. n. 6839/2020"/>
+      <item id="D2" type="norm" ref="art. 860 c.c."/>
+      <item id="D3" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 10"/>
+      <item id="D4" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 21"/>
+      <item id="D5" type="jur" ref="Cass. n. 2241/2015"/>
+      <item id="D6" type="jur" ref="Cass. n. 9511/2018, Cass. n. 24356/2016, Cass. n. 24070/2014, Cass. n. 654/2012"/>
+      <item id="D7" type="jur" ref="Cass. sez. trib. n. 7366/2012, Cass. sez. trib. n. 7365/2012, Cass. sez. trib. n. 7364/2012"/>
+      <item id="D8" type="jur" ref="Cass. sez. un. n. 26009/2008, Cass. n. 9099/2012, Cass. n. 4671/2012"/>
+      <item id="D9" type="jur" ref="Cass. Sez. V, Ordinanza, 24/07/2023, n. 22176"/>
+      <item id="D10" type="jur" ref="Cass. Sentenza 08/04/2022, n. 11431"/>
+      <item id="D11" type="jur" ref="Cass. civ., Sez. I, Sentenza, 20/11/2015, n. 23815"/>
+      <item id="D12" type="norm" ref="art. 2697 c.c."/>
+      <item id="D13" type="princ" ref="presunzione di vantaggio juris tantum"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La giurisprudenza consolidata afferma che l'adozione del piano di classifica ingenera una presunzione di vantaggio, spostando l'onere della prova sul contribuente se il piano non è stato impugnato.</item>
+      <item id_ref="D2">L'art. 860 c.c. stabilisce il principio del beneficio fondiario come presupposto per l'obbligo contributivo.</item>
+      <item id_ref="D3">L'art. 10 del R.D. n. 215/1933 disciplina la presunzione di beneficio per i fondi inclusi nel perimetro consortile.</item>
+      <item id_ref="D12">L'art. 2697 c.c. regola l'onere della prova, applicabile solo se il piano di classifica è stato impugnato.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice rileva che, in assenza di impugnazione del piano di classifica, grava sul contribuente l'onere di provare l'assenza di vantaggi diretti dalle opere di bonifica, ai sensi degli artt. 860 c.c. e 10 R.D. n. 215/1933. La giurisprudenza (D1, D6, D8) conferma che la presunzione di vantaggio (D13) opera automaticamente per fondi inclusi nel perimetro consortile, salvo prova contraria. Poiché il contribuente non ha impugnato il piano né fornito elementi probatori idonei, la presunzione non è superata. L’atto impugnato è quindi legittimo, e il ricorso va rigettato.
+</ragionamento_giudice>
+    <riassunto>Il giudice ha affrontato il tema dell'onere probatorio riguardo al beneficio fondiario, presupposto del contributo ai sensi degli artt. 860 c.c. e 10 R.D. n. 215/1933. Richiamando la giurisprudenza (Cass. n. 26009/2008, n. 22176/2023), ha confermato che l'approvazione del Piano di classifica (Delibera n. 166/2020) genera una presunzione di vantaggio per i fondi inclusi nel perimetro consortile. Tale presunzione, di natura juris tantum, deve essere superata dal contribuente se non ha impugnato il piano. Nel caso concreto, il ricorrente si è limitato ad affermazioni generiche senza provare l'assenza di benefici, rendendo legittimo l'addebito. La sentenza ha dunque ribadito la correttezza dell'imposizione.</riassunto>
+  </questione>
+</questioni>

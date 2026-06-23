@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimità dell'accertamento induttivo del reddito d'impresa" id="Q1">
+    <text>Se l'Ufficio, in mancanza di risposta ai questionari da parte del contribuente, possa legittimamente procedere a un accertamento induttivo del reddito d'impresa basato su presunzioni generiche e senza elementi indiziari concreti.</text>
+    <esito_questione favorevole_a="contribuente">L'accertamento induttivo è illegittimo per mancanza di elementi gravi, precisi e concordanti che dimostrino l'inattendibilità delle scritture contabili.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente (ditta individuale in contabilità semplificata) non ha risposto ai questionari inviati dall'Agenzia, motivando l'inadempienza con difficoltà legate alla pandemia Covid.</item>
+      <item>L'Agenzia ha rideterminato il reddito d'impresa applicando una percentuale di ricarico media (73.25%) e argomentando che il sovradimensionamento delle rimanenze è "sintomatico di ricavi non dichiarati".</item>
+      <item>Il contribuente ha prodotto in giudizio tutte le fatture passive e gli estratti conto bancari a dimostrazione dei pagamenti effettuati.</item>
+      <item>L'Agenzia non ha fornito prove o elementi indiziari concreti che dimostrassero l'effettiva esistenza di ricavi non dichiarati.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 39, comma 2, lett. d-bis, d.P.R. n. 600/1973" />
+      <item id="D2" type="norm" ref="art. 32, comma 1, n. 3 e 4, d.P.R. n. 600/1973" />
+      <item id="D3" type="norm" ref="art. 51, comma 2, n. 3 e 4, d.P.R. n. 633/1972" />
+      <item id="D4" type="jur" ref="Cass., Sez. V, 11 aprile 2018, n. 8923" />
+      <item id="D5" type="jur" ref="Cass., Sez. V, 12 dicembre 2018, n. 32129" />
+      <item id="D6" type="jur" ref="Cass., Sez. V, 13 luglio 2018, n. 18695" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina il ricorso all'accertamento induttivo in caso di mancata risposta ai questionari.</item>
+      <item id_ref="D4">Definisce i criteri per l'utilizzo della metodologia analitico-induttiva quando le scritture contabili sono formalmente regolari ma sostanzialmente inattendibili.</item>
+      <item id_ref="D5">Ribadisce che la legittimità dell'accertamento induttivo dipende dalla gravità degli elementi indiziari riscontrati.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che l'Agenzia, pur potendo procedere all'accertamento indutivo ex art. 39 d.P.R. 600/1973, deve comunque basarsi su elementi indiziari gravi, precisi e concordanti. La generica affermazione sul "sovradimensionamento delle rimanenze" non costituisce una prova presuntiva valida, specie quando il contribuente ha documentato tutte le operazioni con fatture e pagamenti. Le sentenze della Cassazione citate confermano che l'inattendibilità delle scritture deve essere dimostrata con elementi concreti, assenti nella motivazione dell'ufficio. Pertanto, l'accertamento è illegittimo.
+    </ragionamento_giudice>
+    <riassunto>
+      L'Agenzia ha disposto un accertamento induttivo del reddito d'impresa di una ditta individuale, basandosi sulla mancata risposta ai questionari e su una presunta anomalia nelle rimanenze di magazzino. Il contribuente ha dimostrato la regolarità delle operazioni con documentazione contabile. Il giudice, richiamando l'art. 39 d.P.R. 600/1973 e la giurisprudenza della Cassazione, osserva che l'Agenzia non ha fornito elementi gravi e concordanti per giustificare l'inattendibilità delle scritture. L'accertamento è quindi annullato per carenza di presupposti legittimi.
+    </riassunto>
+  </questione>
+</questioni>

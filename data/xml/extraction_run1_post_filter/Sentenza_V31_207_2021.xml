@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimità della revoca della definizione agevolata per mancata compensazione" id="Q1">
+    <text>Se il contribuente abbia diritto a compensare un credito ottenuto da una precedente sentenza con i ratei della definizione agevolata, onde evitare la revoca della stessa e l'emissione di una intimazione di pagamento.</text>
+    <esito_questione favorevole_a="ufficio">La revoca della definizione agevolata è legittima.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha aderito a una definizione agevolata dei ruoli fiscali per le cartelle di pagamento relative agli anni 2010 e 2011.</item>
+      <item>Il contribuente ha ottenuto un credito dalla sentenza n. 5382/15 della Commissione Tributaria provinciale di Reggio Calabria.</item>
+      <item>Egli ha richiesto di compensare tale credito con i ratei della definizione agevolata, sostenendo che l'Agenzia delle Entrate avesse acconsentito tramite mail del 20.02.2017.</item>
+      <item>L'Agenzia delle Entrate non ha effettuato la compensazione e ha dichiarato il contribuente inadempiente, notificando una intimazione di pagamento.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice osserva che il contribuente non ha dimostrato l’avvenuta giudicatura della sentenza da cui deriva il credito, né ha fornito elementi sufficienti per stabilire la compensabilità automatica. Inoltre, l’art. 19 del d.lgs. n. 546/1992 impone di contestare solo i vizi propri dell’atto impositivo, non condotte esterne. Pertanto, l’intimazione di pagamento resta valida, e l’eventuale omissione dell’Agenzia non ne inficia la legittimità. La revoca della definizione agevolata è dunque giustificata dall’inadempimento del contribuente.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente, dopo aver aderito a una definizione agevolata, ha ottenuto un credito da una sentenza e ne ha chiesto la compensazione con i ratei. L'Agenzia delle Entrate ha rifiutato e revocato la definizione, emettendo un'intimazione. Il giudice rileva che il contribuente non ha provato la giudicatura del credito né la sua compensabilità automatica, e che l'atto impositivo va impugnato solo per vizi propri (art. 19 d.lgs. n. 546/1992). Conclude che la revoca è legittima, rigettando il ricorso.
+    </riassunto>
+  </questione>
+</questioni>

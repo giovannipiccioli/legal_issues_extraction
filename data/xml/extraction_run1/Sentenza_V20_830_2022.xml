@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Assoggettabilità di aree con vincoli idrogeologici a IMU" id="Q1">
+    <text>Se un'area destinata a insediamenti produttivi, ma soggetta a vincoli idrogeologici di varia intensità, sia assoggettabile all'IMU nonostante la presunta inedificabilità assoluta.</text>
+    <esito_questione favorevole_a="ufficio">L'area è assoggettabile all'IMU.</esito_questione>
+    <premesse_fatto>
+      <item>Le ricorrenti possiedono al 50% aree destinate a insediamenti produttivi con vincoli idrogeologici (alta, media e bassa intensità).</item>
+      <item>Il Comune ha emesso avvisi di accertamento IMU per tali aree, basandosi su valori determinati da delibera comunale.</item>
+      <item>Le ricorrenti hanno contestato l'accertamento sostenendo l'inedificabilità assoluta per mancanza di strumenti urbanistici attuativi e vincoli idrogeologici.</item>
+      <item>Non è stata prodotta alcuna perizia o stima tecnica che dimostri un minor valore di mercato delle aree.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 5 DLgs 504/1992"/>
+      <item id="D2" type="norm" ref="art. 59 DLgs 504/1992"/>
+      <item id="D3" type="norm" ref="art. 7 DLgs 504/1992"/>
+      <item id="D4" type="prassi_amm" ref="Delibera di Giunta Comunale n. 90/2003"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina la base impositiva per le aree fabbricabili.</item>
+      <item id_ref="D4">Determina i valori di riferimento per le aree fabbricabili nel Comune di Faggiano.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice osserva che l'IMU si applica alle aree fabbricabili per disposizione di legge (art. 5 DLgs 504/1992), e che la delibera comunale n. 90/2003 determina i valori impositivi in conformità all'art. 59 dello stesso decreto. 
+      L'eccezione di inedificabilità assoluta non è sostenuta da prove tecniche (come perizie) e non rientra nelle esenzioni di cui all'art. 7. Pertanto, i vincoli idrogeologici non escludono l'assoggettabilità, ma eventualmente influenzano solo il valore di mercato, su cui le ricorrenti non hanno fornito elementi contrari.
+    </ragionamento_giudice>
+    <riassunto>
+      Il caso riguarda l'applicabilità dell'IMU a due aree comproprietà destinate a insediamenti produttivi, ma soggette a vincoli idrogeologici. Le ricorrenti contestavano l'accertamento affermando che i vincoli rendevano le aree inedificabili. Il giudice ha respinto la tesi, ritenendo che: (1) la normativa (art. 5 DLgs 504/1992) e la delibera comunale n. 90/2003 impongano la tassazione; (2) l'inedificabilità non sia provata da documentazione tecnica; (3) i vincoli non rientrino nelle esenzioni di legge (art. 7 DLgs 504/1992). La CTP ha quindi confermato l'accertamento, rigettando il ricorso.
+    </riassunto>
+  </questione>
+</questioni>

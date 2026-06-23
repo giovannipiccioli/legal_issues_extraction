@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Inammissibilità del ricorso per mancata notifica" id="Q1">
+    <text>Se un contribuente impugnasse un avviso di accertamento fiscale senza aver notificato il ricorso all'Agenzia delle Entrate, il ricorso sarebbe inammissibile?</text>
+    <esito_questione favorevole_a="ufficio">Sì, il ricorso è inammissibile per mancata notifica.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato un avviso di accertamento fiscale relativo agli anni 2015-2019.</item>
+      <item>Durante l'udienza di primo grado, il contribuente ha dichiarato di non aver notificato il ricorso all'Agenzia delle Entrate.</item>
+      <item>La Commissione Tributaria Provinciale ha dichiarato il ricorso inammissibile per tale motivo.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 22 comma 2 d.lgs n. 546/1992"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L’articolo stabilisce che l'inammissibilità del ricorso è rilevabile d'ufficio in ogni stato e grado del giudizio, anche se la parte resistente si costituisce.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha rilevato che il ricorso è inammissibile per mancata notifica, conformemente all'art. 22, comma 2, del D.Lgs. 546/92. Tale inammissibilità è rilevabile d'ufficio e non è stata sanata in nessuna fase del giudizio. Pertanto, conferma la sentenza di primo grado.</ragionamento_giudice>
+    <riassunto>Un contribuente ha impugnato un avviso di accertamento fiscale ma non ha notificato il ricorso all'Agenzia delle Entrate. Durante l'udienza, tale omissione è stata dichiarata e la Commissione Tributaria Provinciale ha dichiarato inammissibile il ricorso. La Corte di Giustizia Tributaria di secondo grado ha confermato la decisione, applicando l'art. 22, comma 2, del D.Lgs. 546/92, che consente di rilevare d'ufficio l'inammissibilità del ricorso per mancata notifica. Il ricorso è stato pertanto rigettato.</riassunto>
+  </questione>
+</questioni>

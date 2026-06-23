@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità dell'intimazione di pagamento per mancata compensazione del credito" id="Q1">
+    <text>Se il contribuente abbia diritto alla compensazione di un credito derivante da una precedente sentenza favorevole per estinguere gli obblighi di pagamento nella definizione agevolata, rendendo così illegittima l'intimazione di pagamento.</text>
+    <esito_questione favorevole_a="ufficio">L'intimazione di pagamento è valida e il ricorso è rigettato.</esito_questione>
+    <premesse_fatto>
+      <item>Ricorrente_1 aveva ottenuto una sentenza favorevole (CTP RC n. 5382/15) che gli dava diritto a un credito di € 689,00 nei confronti dell'Agenzia Riscossione.</item>
+      <item>Ricorrente_1 aveva richiesto la compensazione di tale credito per pagare le rate della definizione agevolata, richiesta apparentemente avallata da una mail dell'Agenzia Riscossione del 20.02.2017.</item>
+      <item>L'Agenzia non ha applicato il credito per la compensazione e ha dichiarato Ricorrente_1 inadempiente, procedendo con l'intimazione di pagamento.</item>
+      <item>Ricorrente_1 ha impugnato l'intimazione, sostenendone l'illegittimità per il mancato utilizzo del credito.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 19 d.lgs. n. 546/1992"/>
+      <item id="D2" type="princ" ref="principio di autonomia degli atti impositivi"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 19 per sottolineare che un atto impositivo (come l'intimazione) va impugnato solo per vizi propri, non per comportamenti omissivi derivati.</item>
+      <item id_ref="D2">Il giudice richiama il principio per affermare che l'intimazione rimane valida indipendentemente da eventuali omissioni dell'Agenzia nella gestione del credito.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che il contribuente non abbia dimostrato l’effettiva esistenza di un credito liquido ed esigibile, poiché ha prodotto solo il dispositivo (non la sentenza integra né l’attestazione di giudicato). Inoltre, osserva che l’intimazione di pagamento è autonoma rispetto alla condotta dell’Agenzia e va contestata solo per vizi propri. La mancata compensazione non inficia la validità dell’atto impositivo, che resta legittimo.</ragionamento_giudice>
+    <riassunto>Ricorrente_1, ottenuto un credito da una sentenza (CTP RC n. 5382/15), chiedeva di compensarlo con le rate della definizione agevolata, ma l'Agenzia Riscossione non lo applicò, dichiarandolo inadempiente. Il giudice rigetta il ricorso: il contribuente non ha provato l’esigibilità del credito (mancanza di sentenza completa e giudicato), e l’intimazione è valida ai sensi dell’art. 19 d.lgs. 546/1992, poiché i vizi derivati da omissioni non ne inficiano la legittimità. La compensazione non era dunque dovuta.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Responsabilità solidale del gestore del deposito per mancato versamento IVA" id="Q1">
+    <text>Se il gestore di un deposito di destinatario registrato, non avendo ottenuto la ricevuta di versamento dell'IVA da parte del soggetto per conto del quale estrae prodotti petroliferi, sia solidalmente responsabile dell'imposta non versata ai sensi dell'art. 1, comma 938, L. 205/2017.</text>
+    <esito_questione favorevole_a="ufficio">Il gestore del deposito è solidalmente responsabile dell'IVA non versata.</esito_questione>
+    <premesse_fatto>
+      <item>La ricorrente Ricorrente_1 operava come destinatario registrato per l'immissione in consumo di prodotti petroliferi in sospensione di accisa, su commissione di terzi, tra cui Società_1.</item>
+      <item>Società_1 estraeva prodotti petroliferi dal deposito della ricorrente senza consegnare la ricevuta di versamento dell'IVA, fornendo invece polizze fideiussorie.</item>
+      <item>L’Agenzia delle Entrate ha contestato a Ricorrente_1 la responsabilità solidale per l'IVA non versata da Società_1, ai sensi dell'art. 1, comma 938, L. 205/2017.</item>
+      <item>La ricorrente sosteneva che le polizze fideiussorie fornite da Società_1 costituissero garanzia idonea, escludendo la responsabilità solidale.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1, comma 938, L. 205/2017" />
+      <item id="D2" type="norm" ref="art. 1, comma 940, L. 205/2017" />
+      <item id="D3" type="norm" ref="art. 8, D.Lgs. n. 504/1995 (TUA)" />
+      <item id="D4" type="prassi_amm" ref="D.M. 13.2.2018" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 1, comma 938, L. 205/2017 per verificare se la responsabilità solidale del gestore del deposito sussista in caso di mancata ricevuta di versamento dell'IVA.</item>
+      <item id_ref="D2">Il giudice analizza l'art. 1, comma 940, L. 205/2017 per valutare se le polizze fideiussorie possano escludere la responsabilità solidale, limitando tale deroga ai depositi fiscali e non ai destinatari registrati.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che l'art. 1, comma 938, L. 205/2017 impone la responsabilità solidale del gestore del deposito in mancanza della ricevuta di versamento dell'IVA. La deroga di cui al comma 940, che consente l'uso di garanzie alternative, si applica solo ai depositi fiscali (art. 23 TUA), non ai destinatari registrati (art. 8 TUA). Poiché Ricorrente_1 operava come destinatario registrato, non poteva avvalersi della deroga. La mancata consegna della ricevuta di versamento comporta quindi la responsabilità solidale, indipendentemente dalle polizze fideiussorie. La condotta della ricorrente, inoltre, evidenziava consapevolezza del rischio frode, consolidando l'applicazione della norma.
+</ragionamento_giudice>
+    <riassunto>La controversia riguarda l'applicazione dell'art. 1, comma 938, L. 205/2017, che impone al gestore di un deposito di destinatario registrato la responsabilità solidale per l'IVA non versata dal soggetto per conto del quale vengono estratti prodotti petroliferi. La ricorrente, operante come destinatario registrato, aveva consentito l'estrazione di carburante senza ricevere le ricevute di versamento dell'IVA, affidandosi a polizze fideiussorie ritenute inidonee. Il giudice ha ribadito che la normativa speciale (L. 205/2017) prevale sul regime ordinario, escludendo deroghe per i destinatari registrati e confermando la responsabilità solidale del gestore per l'evasione dell'IVA.</riassunto>
+  </questione>
+  <questione title="Determinazione della base imponibile IVA in assenza di documentazione" id="Q2">
+    <text>Se, in mancanza di documentazione contabile idonea, l'Ufficio possa determinare la base imponibile IVA con criteri induttivi basati sui prezzi di mercato dei prodotti petroliferi.</text>
+    <esito_questione favorevole_a="ufficio">L'Ufficio può legittimamente utilizzare criteri induttivi per determinare la base imponibile.</esito_questione>
+    <premesse_fatto>
+      <item>La ricorrente Ricorrente_1 S.p.a., operante come destinatario registrato ex art. 8 D.Lgs. 504/1995, ha consentito a Società_1 di estrarre carburanti dal proprio deposito senza versare l’IVA dovuta, basandosi su polizze fideiussorie di dubbia idoneità.</item>
+      <item>L’Agenzia delle Entrate, in assenza di documentazione contabile idonea da parte della ricorrente, ha determinato la base imponibile IVA con criteri induttivi basati sui prezzi di mercato dei prodotti petroliferi.</item>
+      <item>La ricorrente non ha monitorato l’adeguatezza delle garanzie fideiussorie rispetto all’IVA dovuta, né ha verificato l’avvenuto versamento dell’imposta da parte di Società_1.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1, commi 937-945 L. 205/2017" />
+      <item id="D2" type="norm" ref="art. 8 D.Lgs. 504/1995 (TUA)" />
+      <item id="D4" type="prassi_amm" ref="Circolare Agenzia Entrate n. 18/E/2019" />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita gli artt. 937-945 L. 205/2017 per delineare il regime speciale di versamento IVA per i carburanti, la responsabilità solidale del gestore del deposito e le eccezioni (garanzie/idoneità).</item>
+      <item id_ref="D2">L’art. 8 TUA è essenziale per chiarire il ruolo del "destinatario registrato" e i suoi obblighi, distinti dai depositari fiscali.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice rileva che, in assenza di documentazione contabile, l’Ufficio possa legittimamente determinare la base imponibile IVA con criteri induttivi basati sui prezzi di mercato, ex art. 1, co. 937 L. 205/2017 e giurisprudenza consolidata. La ricorrente, quale destinatario registrato, avrebbe dovuto acquisire la ricevuta di versamento IVA o verificare l’idoneità delle garanzie, incorrendo in responsabilità solidale per l’imposta non versata. La mancata tenuta di registri analitici giustifica il ricorso a criteri presumtivi, coerenti con il principio di solidarietà tributaria e la finalità antitruffa della normativa citata.
+</ragionamento_giudice>
+    <riassunto>La questione concerne la legittimità della determinazione induttiva della base imponibile IVA da parte dell'Ufficio, in assenza di documentazione contabile fornita dalla ricorrente. Il giudice ha ritenuto ammissibile il metodo analitico-induttivo adottato, fondato sui prezzi praticati dai missing-traders e sul confronto con i valori di mercato, in conformità ai principi generali in materia di accertamento induttivo (art. 39, D.P.R. 633/1972). La sentenza sottolinea l'obbligo del contribuente di conservare elementi probatori e l'irrilevanza della pretesa "doppia imposizione", essendo l'atto volto a recuperare l'IVA mai effettivamente versata.</riassunto>
+  </questione>
+</questioni>

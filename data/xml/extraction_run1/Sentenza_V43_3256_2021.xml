@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimità della notifica dell'intimazione di pagamento TARI" id="Q1">
+    <text>Se la notifica dell'intimazione di pagamento della TARI per gli anni 2015-2016 sia da considerarsi valida nonostante la mancanza di firma autografa e l'esecuzione nel 2020.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è valida.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente non ha versato la TARI per gli anni 2015 e 2016.</item>
+      <item>L'intimazione di pagamento è stata notificata nel 2020.</item>
+      <item>La firma sull'atto è meccanizzata, non autografa.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 82 legge 54/1995"/>
+      <item id="D2" type="norm" ref="art. 72 comma 1 D.Lgs 507/1993"/>
+      <item id="D3" type="jur" ref="CT.P. Messina n. 2951/2020"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La norma consente la sostituzione della firma autografa con una firma meccanizzata.</item>
+      <item id_ref="D2">La norma disciplina la riscossione del tributo e i relativi termini.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la notifica sia valida poiché eseguita entro il termine quinquennale previsto dalla legge. La firma meccanizzata è conforme all'art. 82 legge 54/1995, che permette tale modalità di sottoscrizione. La tempestiva impugnazione dell'atto da parte del ricorrente dimostra che la notifica è stata effettivamente ricevuta, rendendo infondate le eccezioni sollevate.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato la notifica dell'intimazione di pagamento della TARI per gli anni 2015-2016, eccependo l'invalidità per mancanza di firma autografa e notifica tardiva. Il giudice ha ritenuto valida la notifica, eseguita entro il termine quinquennale, e ha confermato la legittimità della firma meccanizzata ai sensi dell'art. 82 legge 54/1995. La decisione si basa sulla conformità alle norme vigenti e sulla ricezione effettiva dell'atto, rigettando il ricorso.</riassunto>
+  </questione>
+  <questione title="Obbligo di denuncia di variazione per modifiche ai locali" id="Q2">
+    <text>Se il contribuente sia tenuto a presentare denuncia di variazione per modifiche alle caratteristiche dei locali che influiscano sulla tassabilità TARI.</text>
+    <esito_questione favorevole_a="ufficio">Il contribuente è obbligato a presentare denuncia di variazione.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente non ha presentato denuncia di variazione per modifiche ai locali.</item>
+      <item>Il Comune ha calcolato il tributo sulla base dei dati disponibili.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 70 comma 2 D.Lgs 507/1993"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La norma impone al contribuente l'obbligo di comunicare variazioni che influiscano sulla tassabilità.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha applicato l'art. 70 comma 2 D.Lgs 507/1993, che obbliga il contribuente a comunicare variazioni alle caratteristiche dei locali. Poiché il ricorrente non ha presentato alcuna denuncia, il Comune ha agito correttamente nel calcolare il tributo sulla base dei dati esistenti. L'assenza di comunicazioni rende infondate le contestazioni sul calcolo delle somme richieste.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha eccepito l'erroneità del calcolo della TARI per gli anni 2015-2016. Il giudice ha stabilito che, ai sensi dell'art. 70 comma 2 D.Lgs 507/1993, il contribuente era obbligato a presentare denuncia di variazione per modifiche ai locali. L'omessa comunicazione giustifica il calcolo effettuato dal Comune, rendendo infondate le doglianze del ricorrente. Il ricorso è stato quindi rigettato.</riassunto>
+  </questione>
+</questioni>

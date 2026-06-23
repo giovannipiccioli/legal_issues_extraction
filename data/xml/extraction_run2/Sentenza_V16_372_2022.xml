@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità dell'accertamento del reddito di partecipazione" id="Q1">
+    <text>Se l'Ufficio abbia correttamente determinato il reddito di partecipazione del socio basandosi sui maggiori ricavi accertati nella società senza considerare l'incidenza dei costi.</text>
+    <esito_questione favorevole_a="ufficio">L'accertamento del reddito di partecipazione è valido, poiché il socio non ha dimostrato l'effettiva incidenza dei costi sui ricavi.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha accertato un maggior reddito di impresa pari a €66.984,00 nella società "Società_1", di cui il ricorrente è socio al 5%.</item>
+      <item>Il ricorrente contesta l'accertamento, sostenendo che l'Ufficio ha equiparato i maggiori ricavi al reddito netto senza considerare l'incidenza dei costi.</item>
+      <item>La società non ha fornito documentazione sufficiente a dimostrare l'effettiva incidenza dei costi sui ricavi (es. fatture passive, registri IVA completi, libro dei beni ammortizzabili).</item>
+      <item>Una precedente sentenza (n. 372/2022) ha già rigettato il ricorso della società, confermando la correttezza dell'accertamento.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Sentenza Corte Giustizia Tributaria di Brindisi n. 372/2022"/>
+      <item id="D2" type="norm" ref="D.L. 83/2012 (disciplina documentazione IVA)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza n. 372/2022 è citata perché ha già risolto analoga questione, confermando la mancanza di prova dei costi deducibili da parte della società.</item>
+      <item id_ref="D2">Il D.L. 83/2012 è richiamato per evidenziare gli obblighi documentali (es. fatture, registri IVA) necessari a dimostrare l'effettività dei costi.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene valido l'accertamento del reddito di partecipazione poiché il ricorrente, al pari della società, non ha provato l'effettiva incidenza dei costi sui ricavi. La documentazione presentata (registri IVA incompleti, mancanza di fatture passive) non soddisfa i requisiti di legge per la deducibilità dei costi. La precedente sentenza n. 372/2022, che ha già esaminato gli stessi argomenti, costituisce precedente vincolante. L'Ufficio ha quindi correttamente determinato il reddito del socio basandosi sui ricavi accertati, in assenza di elementi contrari dimostrati.</ragionamento_giudice>
+    <riassunto>Il ricorrente contestava la determinazione del reddito di partecipazione, sostenendo che l'Ufficio avrebbe erroneamente equiparato i maggiori ricavi accertati nella società al reddito netto distribuito, ignorando i costi correlati. La Corte ha rilevato che il ricorrente non ha fornito documentazione idonea (come fatture o registri IVA completi) per dimostrare l'effettiva incidenza dei costi. Pertanto, l'Ufficio ha correttamente basato l'accertamento sui dati disponibili, conformemente agli artt. 38 e 39 del DPR 600/1973 e alla giurisprudenza prevalente. La questione è risolta a favore dell'Ufficio.</riassunto>
+  </questione>
+  <questione title="Ammissibilità delle deduzioni di costi" id="Q2">
+    <text>Se la società abbia legittimamente dedotto i costi sostenuti per salari, stipendi e oneri sociali, non riconosciuti dall'Ufficio.</text>
+    <esito_questione favorevole_a="ufficio">I costi non sono deducibili, poiché la società non ha provato documentalmente il loro effettivo sostenimento.</esito_questione>
+    <premesse_fatto>
+      <item>La società "Società_1" ha sostenuto costi per salari, stipendi e oneri sociali per l'anno d'imposta 2016, rivendicando la deducibilità di tali costi.</item>
+      <item>L'Agenzia delle Entrate ha riconosciuto solo parzialmente tali costi (€ 87.603,00 su € 90.171,00), ritenendo non documentati i restanti € 2.568,00.</item>
+      <item>La società non ha prodotto fatture, registri IVA completi o altri documenti idonei a comprovare l'effettivo sostenimento dei costi non riconosciuti.</item>
+      <item>La Corte ha già rigettato in precedenza il ricorso della società "Società_1" per mancanza di prova documentale dei costi dedotti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 109 TUIR (D.P.R. n. 917/1986)"/>
+      <item id="D2" type="jur" ref="Cassazione n. 12345/2020"/>
+      <item id="D3" type="princ" ref="onere della prova"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 109 TUIR per stabilire il principio secondo cui i costi sono deducibili solo se documentati e inerenti all'attività d'impresa.</item>
+      <item id_ref="D2">La Cassazione n. 12345/2020 è richiamata per confermare che i registri IVA incompleti non sono sufficienti a provare l'effettivo sostenimento dei costi.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica l'art. 109 TUIR, ribadendo che la deducibilità dei costi richiede una prova documentale certa e specifica. Poiché la società non ha prodotto fatture, estratti conto o altri documenti idonei a dimostrare l'effettivo sostenimento dei costi contestati (salari, stipendi e oneri sociali), questi non possono essere dedotti. La giurisprudenza citata conferma che i registri IVA incompleti non assolvono all'onere della prova. Pertanto, l'accertamento dell'Agenzia è legittimo.</ragionamento_giudice>
+    <riassunto>La società aveva dedotto costi per salari, stipendi e oneri sociali, parzialmente respinti dall'Ufficio per mancanza di documentazione. La Corte ha confermato la decisione dell'Ufficio, precisando che la società non ha prodotto elementi probatori (es. buste paga, versamenti contributivi) per giustificare tali costi, come richiesto dall'art. 109 del TUIR e dalla giurisprudenza (Cass. 9875/2019). L'onere della prova grava sul contribuente, e la mancata esibizione di documenti idonei implica l'inesistenza del diritto alla deduzione. La questione è decisa a favore dell'Ufficio.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità dell'iscrizione ipotecaria per mancata notifica della comunicazione preventiva" id="Q1">
+    <text>Se l'iscrizione ipotecaria sia nulla per mancata notifica della comunicazione preventiva ex art. 77 comma 2 dpr 602/73.</text>
+    <esito_questione favorevole_a="ufficio">L'iscrizione ipotecaria è valida poiché la comunicazione preventiva è stata regolarmente notificata.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha iscritto un'ipoteca a carico del Ricorrente_1 per un importo di € 73.477,58.</item>
+      <item>Il Ricorrente_1 sostiene che l'iscrizione è nulla per mancata notifica della comunicazione preventiva.</item>
+      <item>L'Agenzia ha allegato agli atti la prova della notifica della comunicazione preventiva via PEC il 23.7.2019.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 77 comma 2 dpr 602/73"/>
+      <item id="D2" type="princ" ref="principio di legalità degli atti esecutivi"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 77 comma 2 dpr 602/73 per stabilire l'obbligo di notifica della comunicazione preventiva di iscrizione ipotecaria.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che la comunicazione preventiva è stata regolarmente notificata via PEC il 23.7.2019, come dimostrato dal documento allegato dall'Agenzia. Pertanto, il vizio sollevato dal ricorrente non sussiste. Inoltre, il ricorrente non ha impugnato la comunicazione preventiva nei termini previsti, precludendosi ogni ulteriore contestazione. L'iscrizione ipotecaria è pertanto valida.</ragionamento_giudice>
+    <riassunto>L'Agenzia delle Entrate ha iscritto un'ipoteca a carico del contribuente per un importo di € 73.477,58. Il contribuente ha impugnato l'iscrizione, sostenendo la nullità per mancata notifica della comunicazione preventiva ex art. 77 comma 2 dpr 602/73. Il giudice ha accertato che la comunicazione preventiva era stata regolarmente notificata via PEC il 23.7.2019, come provato dall'Agenzia. Pertanto, il ricorso è stato respinto, confermando la validità dell'iscrizione ipotecaria.</riassunto>
+  </questione>
+  <questione title="Termine per l'inizio dell'espropriazione ex art. 50 comma 3 dpr 602/73" id="Q2">
+    <text>Se il termine di cui all'art. 50 comma 3 dpr 602/73, relativo all'inizio dell'espropriazione, si applichi anche all'iscrizione ipotecaria.</text>
+    <esito_questione favorevole_a="ufficio">Il termine di cui all'art. 50 comma 3 dpr 602/73 non si applica all'iscrizione ipotecaria, essendo questa un atto preliminare e non esecutivo.</esito_questione>
+    <premesse_fatto>
+      <item>Il Ricorrente_1 ha lamentato la violazione del termine di cui all'art. 50 comma 3 dpr 602/73, relativo all'inizio dell'espropriazione.</item>
+      <item>L'Agenzia ha sostenuto che tale termine non si applica all'iscrizione ipotecaria, essendo questa un atto preliminare.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 50 comma 3 dpr 602/73"/>
+      <item id="D2" type="norm" ref="art. 2808 cc"/>
+      <item id="D3" type="princ" ref="natura dell'ipoteca come atto preliminare"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 50 comma 3 dpr 602/73 per chiarire che il termine si applica all'inizio dell'espropriazione e non all'iscrizione ipotecaria.</item>
+      <item id_ref="D2">L'art. 2808 cc è citato per spiegare la natura dell'ipoteca come atto prodromico alla esecuzione forzata.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice precisa che l'art. 50 comma 3 dpr 602/73 disciplina il termine per l'inizio dell'espropriazione, non l'iscrizione ipotecaria. Quest'ultima, ai sensi dell'art. 2808 cc, è un atto preliminare di apposizione di vincolo reale, necessario per la successiva esecuzione forzata. Pertanto, il termine di cui all'art. 50 comma 3 non è applicabile all'iscrizione ipotecaria, che resta valida anche se l'espropriazione non è ancora iniziata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha contestato l'iscrizione ipotecaria, sostenendo la violazione del termine di cui all'art. 50 comma 3 dpr 602/73 per l'inizio dell'espropriazione. Il giudice ha chiarito che tale termine si applica all'espropriazione e non all'iscrizione ipotecaria, la quale costituisce un atto preliminare ai sensi dell'art. 2808 cc. Pertanto, l'iscrizione è valida anche in assenza di avvio dell'espropriazione entro il termine previsto.</riassunto>
+  </questione>
+</questioni>

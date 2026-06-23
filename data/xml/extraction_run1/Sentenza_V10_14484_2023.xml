@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimazione alla sottoscrizione dell'atto di accertamento" id="Q1">
+    <text>Se il contribuente eccepisca la illegittimità della sottoscrizione dell'atto di accertamento da parte di un funzionario delegato, l'Amministrazione finanziaria debba dimostrare la regolarità della delega.</text>
+    <esito_questione favorevole_a="ufficio">L'Ufficio ha validamente dimostrato la regolarità della delega di firma tramite la produzione del provvedimento delegatorio.</esito_questione>
+    <premesse_fatto>
+      <item>L'atto di accertamento n. TF3033M01673/2022 è stato sottoscritto da un funzionario delegato (Capo Area Imprese minori) tramite disposizione di servizio n. 0116364/20 del 26/5/2021.</item>
+      <item>La società ricorrente ha eccepito la illegittimità della sottoscrizione per mancata produzione della delega all’atto di accertamento.</item>
+      <item>L’Agenzia delle Entrate ha prodotto nel corso del giudizio il provvedimento delegatorio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. trib., 07/08/2020, n. 16844"/>
+      <item id="D2" type="jur" ref="Cass. 13/12/2021, n. 39747, Cass. sez. trib., 21/02/2022, n. 5516"/>
+      <item id="D3" type="princ" ref="principio di vicinanza della prova"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione stabilisce che l’Amministrazione finanziaria debba dimostrare la regolarità della delega di firma in caso di contestazione, anche producendola nel corso del giudizio.</item>
+      <item id_ref="D2">La giurisprudenza afferma che la delega di firma può avvenire tramite ordini di servizio e non richiede l’indicazione nominativa né della durata.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che l’Ufficio ha adempiuto all’onere probatorio producendo la delega di firma, conforme alla qualifica del sottoscrittore. Rileva inoltre che la delega di firma, distinta dalla delega di funzioni, non altera l’ordine delle competenze e può essere conferita con modalità semplificate. Pertanto, l’eccezione di nullità è infondata.</ragionamento_giudice>
+    <riassunto>La società ricorrente ha eccepito la nullità dell’avviso di accertamento per vizio di sottoscrizione, poiché firmato da un funzionario senza allegata delega. L’Amministrazione ha prodotto la delega di firma (disposizione di servizio n. 0116364/20 del 26/5/2021), confermando la legittimazione del sottoscrittore. Il giudice, richiamando la giurisprudenza (Cass. trib. n. 16844/2020, n. 39747/2021, n. 5516/2022), ha affermato che la delega di firma non richiede forma specifica né durata indicata e può essere dimostrata anche successivamente. Pertanto, l’eccezione di nullità è infondata.</riassunto>
+  </questione>
+  <questione title="Detrazione IVA per operazione successivamente esente" id="Q2">
+    <text>Se l’IVA detratta in fase di acquisto di un immobile in reverse charge rimanga detraibile nonostante la successiva cessione in esenzione nello stesso giorno.</text>
+    <esito_questione favorevole_a="ufficio">L’IVA non è detraibile poiché l’operazione di acquisto è stata neutralizzata dalla cessione esente nello stesso giorno.</esito_questione>
+    <premesse_fatto>
+      <item>Acquisto in data 18/11/2016 di un immobile ad uso commerciale in regime di reverse charge, con imposizione IVA.</item>
+      <item>Cessione dello stesso immobile nello stesso giorno (18/11/2016) in regime di esenzione IVA.</item>
+      <item>Detrazione da parte della società dell'IVA relativa all'acquisto dell'immobile.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 19, comma 2, D.P.R. 633/72"/>
+      <item id="D2" type="jur" ref="Cass. sez. trib., 03/08/2022, n. 24160; Cass. sez. trib., 18/10/2021, n. 28628"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 19, comma 2, D.P.R. 633/72 per stabilire il principio generale secondo cui l'IVA non è detraibile per operazioni esenti o non soggette all'imposta.</item>
+      <item id_ref="D2">Il giudice richiama la giurisprudenza della Cassazione per consolidare il principio che l'IVA detratta in fase di acquisto diventa non detraibile se l'operazione è neutralizzata da una successiva cessione esente nello stesso giorno.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica l'art. 19, comma 2, D.P.R. 633/72, ritenendo che l'IVA detraibile al momento dell'acquisto in reverse charge perda la sua detraibilità a seguito della successiva cessione esente nello stesso giorno, neutralizzando l'operazione. Ciò è coerente con la natura neutrale dell'IVA, che non può essere oggetto di detrazione se l'operazione finale è esente. La giurisprudenza citata conferma che l'immediata cessione esente impedisce la detrazione dell'IVA inizialmente applicata.</ragionamento_giudice>
+    <riassunto>L’Ufficio ha contestato la detrazione di IVA (€ 46.118) relativa all’acquisto di un immobile in reverse charge (18/11/2016), poiché lo stesso giorno la società lo ha ceduto in esenzione. Il giudice ha confermato l’accertamento, ritenendo applicabile l’art. 19, co. 2, DPR 633/72, che vieta la detrazione per operazioni esenti. La neutralizzazione dell’IVA è esclusa dalla successiva cessione esente, rendendo indebita la detrazione iniziale. La contestazione è giudicata fondata e adeguatamente motivata.</riassunto>
+  </questione>
+  <questione title="Esistenza di operazioni commerciali contestate" id="Q3">
+    <text>Se l’Amministrazione possa dimostrare l’inesistenza di operazioni commerciali attraverso presunzioni semplici, spettando al contribuente provarne l’effettività.</text>
+    <esito_questione favorevole_a="ufficio">L’Ufficio ha validamente provato l’inesistenza delle operazioni tramite presunzioni concordanti, mentre il contribuente non ha fornito prove sufficienti.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha impugnato l'avviso di accertamento n. TF3033M01673/2022 relativo a IRES, IRAP e IVA per l'anno 2016.</item>
+      <item>L'Amministrazione ha contestato l'utilizzo di fatture per operazioni inesistenti tra la società ricorrente e la ditta individuale del socio unico.</item>
+      <item>La società ha prodotto solo le fatture senza ulteriore documentazione probatoria.</item>
+      <item>L'Amministrazione ha rilevato presunzioni di inesistenza delle operazioni, tra cui segnalazioni dalla DP di Caserta e coincidenza soggettiva tra il titolare della ditta e il socio unico della società.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. sez. trib., 03/08/2022, n. 24160"/>
+      <item id="D2" type="jur" ref="Cass. sez. trib., 18/10/2021, n. 28628"/>
+      <item id="D3" type="norm" ref="art. 19, comma 2, D.P.R. 633/72"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita la sentenza per affermare che la prova della fittizietà può essere presuntiva, purché dotata di gravità, precisione e concordanza.</item>
+      <item id_ref="D2">La sentenza è citata per ribadire che l'onere di provare l'effettività delle operazioni grava sul contribuente, non bastando la sola esibizione delle fatture.</item>
+      <item id_ref="D3">La norma è applicata per escludere la detraibilità dell'IVA su operazioni esenti o non soggette a tale imposta.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che l'Amministrazione abbia validamente provato l'inesistenza delle operazioni mediante presunzioni concordanti (segnalazioni e coincidenza soggettiva). La società, pur invitata a produrre documentazione probatoria, si è limitata alle fatture, elemento insufficiente secondo la giurisprudenza citata. Pertanto, l'accertamento è fondato e correttamente motivato, rigettando il ricorso.</ragionamento_giudice>
+    <riassunto>L’accertamento ha contestato l’utilizzo di fatture inesistenti (€ 22.530 + IVA 22%) per operazioni tra la società ricorrente e una ditta legata al suo socio unico. L’Ufficio ha prodotto indici presuntivi (segnalazione della DP di Caserta e coincidenza soggettiva), mentre la società ha solo esibito le fatture, ritenute insufficienti a prova dell’effettività (Cass. trib. nn. 24160/2022 e 28628/2021). Il giudice ha confermato che la prova della fittizietà può essere presuntiva, gravando sul contribuente l’onere di dimostrare l’esistenza delle operazioni, non assolto con la mera esibizione di documenti formali.</riassunto>
+  </questione>
+</questioni>

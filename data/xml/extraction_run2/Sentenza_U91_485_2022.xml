@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Calcolo del contributo unificato" id="Q1">
+    <text>Se il contributo unificato sia da calcolare solo sul valore dell'intimazione di pagamento oppure includendo anche il valore delle cartelle esattoriali collegate.</text>
+    <esito_questione favorevole_a="ufficio">L'ufficio ha correttamente calcolato il contributo considerando sia l'intimazione che le cartelle</esito_questione>
+    <premesse_fatto>
+      <item>Ricorso presentato contro intimazione di pagamento di €270 per contributo unificato</item>
+      <item>La Commissione aveva incluso nel calcolo 4 cartelle esattoriali collegate alla pratica</item>
+      <item>Il contribuente contestava questo metodo di calcolo</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 14 comma 3 bis D.P.R. n. 115/2002"/>
+      <item id="D2" type="norm" ref="art. 13 comma 6 quater D.P.R. n. 115/2002"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina il metodo di calcolo del contributo unificato per atti impugnati</item>
+      <item id_ref="D2">Indica gli scaglioni di valore da applicare per determinare l'importo</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che l'atto impugnato includeva sia l'intimazione principale che le connesse cartelle esattoriali, tutte contestate nel ricorso. Pertanto, applica l'art. 14 comma 3 bis che prevede il calcolo "per ciascun atto impugnato" secondo gli scaglioni dell'art. 13 comma 6 quater. La questione verte sull'interpretazione di "atto impugnato" che comprende l'intero contesto procedimentale, non solo l'atto formale principale.</ragionamento_giudice>
+    <riassunto>Il contribuente impugnava il calcolo del contributo unificato relativo a un'intimazione di pagamento, sostenendo che dovesse comprendere solo l'atto principale. La Commissione aveva invece considerato anche 4 cartelle esattoriali collegate. Il giudice applica gli art. 14 comma 3 bis e 13 comma 6 quater DPR 115/2002, interpretando "atto impugnato" come comprensivo dell'intero procedimento. Pertanto, conferma la correttezza del calcolo effettuato includendo tutti gli atti rilevanti.</riassunto>
+  </questione>
+  <questione title="Regolarità della notifica delle cartelle" id="Q2">
+    <text>Se la mancata contestazione specifica della notifica delle cartelle nella precedente sentenza impedisca di sollevare ora l'eccezione.</text>
+    <esito_questione favorevole_a="ufficio">L'eccezione è improponibile per tardività</esito_questione>
+    <premesse_fatto>
+      <item>Precedente sentenza (n. 581/2020) aveva già esaminato la contestazione sulle cartelle</item>
+      <item>Il contribuente aveva eccepito la mancata notifica delle cartelle in quel procedimento</item>
+      <item>Nell'attuale ricorso ripropone la stessa eccezione</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D3" type="princ" ref="Principio di preclusione"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D3">Impedisce di riproporre eccezioni già esaminate e decisive in precedenti gradi</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la questione della notifica era già stata esaminata e risolta nel precedente giudizio (RGA 5519/2020) e costituiva parte integrante della controversia. Applica il principio di preclusione processuale, per cui non è consentito riproporre identiche questioni già decise in sede di appello, salvo casi eccezionali non ricorrenti nella specie.</ragionamento_giudice>
+    <riassunto>Il contribuente eccepiva la mancata notifica delle cartelle esattoriali. Tuttavia, tale questione era già stata esaminata e risolta nel precedente giudizio di appello (RGA 5519/2020). Il giudice applica il principio di preclusione, ritenendo improponibile la riproposizione dell'identica eccezione in questo grado del giudizio, essendo la materia già decisa in via definitiva nel procedimento precedente.</riassunto>
+  </questione>
+</questioni>

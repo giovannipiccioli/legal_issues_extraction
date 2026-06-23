@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Nullità della notifica dell'appello presso la sede sociale anziché il difensore" id="Q1">
+    <text>Se la notifica dell'appello sia nulla per essere stata eseguita presso la sede della società anziché il difensore costituito.</text>
+    <esito_questione favorevole_a="contribuente">La nullità è sanabile con la costituzione in giudizio della parte destinataria.</esito_questione>
+    <premesse_fatto>
+      <item>L'appello è stato notificato presso la sede sociale anziché presso il difensore costituito</item>
+      <item>La notifica è avvenuta a mezzo posta</item>
+      <item>La società appellata ha eccepito l'irregolarità della notifica</item>
+      <item>Entrambe le parti si sono costituite telematicamente in giudizio</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione Sezioni Unite n. 14539/2001"/>
+      <item id="D2" type="jur" ref="Cassazione n. 7329/2003"/>
+      <item id="D3" type="jur" ref="Cassazione Sezioni Unite n. 10012/2021"/>
+      <item id="D4" type="norm" ref="art. 330 cod. proc. civ."/>
+      <item id="D5" type="norm" ref="art. 370 cod. proc. civ."/>
+      <item id="D6" type="norm" ref="art. 58 comma 2 d.lgs. n. 546/1992"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione stabilisce che la nullità della notifica per violazione dell'art. 330 c.p.c. è sanabile con la costituzione in giudizio della parte destinataria</item>
+      <item id_ref="D3">La Cassazione chiarisce i requisiti per la prova della notifica postale, richiedendo l'avviso di ricevimento dell'avvenuto deposito</item>
+      <item id_ref="D6">Il giudice richiama la facoltà di depositare nuovi documenti in appello ai sensi dell'art. 58 d.lgs. 546/1992</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che la notifica irregolare (presso la sede sociale anziché il difensore) è nulla ma sanabile ex tunc con la costituzione in giudizio della parte, conforme alla giurisprudenza D1. Considera inoltre la notifica postale valida, dato il contraddittorio effettivo. Sulla documentazione in appello, richiama D6 per ammetterla. Infine, verificata l'insufficienza della prova della notifica dell'ingiunzione (mancanza dell'avviso di ricevimento completo), dichiara irrituale tale notifica e rigetta l'appello, compensando le spese.
+</ragionamento_giudice>
+    <riassunto>
+      La sentenza affronta la questione della notifica dell'appello avvenuta presso la sede della società appellata anziché presso il difensore costituito. La Commissione rileva che tale modalità di notifica, seppure nulla ai sensi dell'art. 330 c.p.c., è sanabile secondo il principio stabilito dalle Sezioni Unite (Cass. SU n. 14539/2001), poiché la società si è ugualmente costituita, esercitando pienamente il contraddittorio. Pertanto, la nullità è sanata ex tunc, senza pregiudicare la validità del procedimento.
+    </riassunto>
+  </questione>
+  <questione title="Validità della notifica dell'ingiunzione tramite servizio postale" id="Q2">
+    <text>Se la notifica dell'ingiunzione tramite servizio postale sia valida nonostante il mancato ritiro dell'atto.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è irrituale per mancata prova del perfezionamento.</esito_questione>
+    <premesse_fatto>
+      <item>Notifica dell'ingiunzione tramite servizio postale, con annotazione sul plico di deposito presso l'Ufficio Postale e spedizione di raccomandata contenente comunicazione di avvenuto deposito.</item>
+      <item>Mancato ritiro dell'atto da parte del destinatario, con annotazione "atto in giacenza ... trascorsa giacenza" e timbro dell'Ufficio Postale.</item>
+      <item>Assenza di produzione dell'avviso di ricevimento della raccomandata che comunica l'avvenuto deposito dell'atto presso l'ufficio postale.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 10012/2021 (Sezioni Unite)"/>
+      <item id="D2" type="norm" ref="legge n. 890 del 1982"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza delle Sezioni Unite chiarisce che la prova del perfezionamento della notifica postale richiede la produzione dell'avviso di ricevimento della raccomandata che comunica l'avvenuto deposito dell'atto, non essendo sufficiente la sola prova della spedizione.</item>
+      <item id_ref="D2">La legge disciplina la procedura di notifica tramite servizio postale, stabilendo i requisiti per la validità della notifica stessa.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica il principio stabilito dalle Sezioni Unite (Cass. n. 10012/2021), secondo cui la notifica postale si perfeziona solo con la prova della consegna della comunicazione di deposito dell'atto, mediante avviso di ricevimento. Nella fattispecie, mancando tale prova (nonostante la produzione della cartolina postale con annotazioni), la notifica è irrituale. Pertanto, l'appello è rigettato per mancanza di validità della notifica dell'ingiunzione, essenziale per la legittimità del procedimento impositivo.</ragionamento_giudice>
+    <riassunto>
+      La questione riguarda la validità della notifica di un'ingiunzione fiscale eseguita per compiuta giacenza postale, poiché l'atto non fu ritirato dal destinatario. La Commissione applica il principio delle Sezioni Unite (Cass. SU n. 10012/2021), secondo il quale il perfezionamento della notifica postale richiede la produzione dell'avviso di ricevimento (CAD) della raccomandata che comunica il deposito dell'atto. Poiché l'appellante non ha prodotto tale documento completo, la notifica è ritenuta irrituale, portando al rigetto dell'appello.
+    </riassunto>
+  </questione>
+</questioni>

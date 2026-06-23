@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità della notifica della cartella di pagamento tramite PEC non registrata" id="Q1">
+    <text>Se la notifica di una cartella di pagamento avvenga tramite un indirizzo PEC non presente nei pubblici registri, essa sia da considerarsi nulla o inesistente.</text>
+    <esito_questione favorevole_a="ufficio">La notifica tramite PEC non registrata non è inesistente né nulla, purché sia dimostrabile l'effettiva conoscenza dell'atto da parte del destinatario.</esito_questione>
+    <premesse_fatto>
+      <item>La cartella di pagamento è stata notificata tramite un indirizzo PEC non presente nei pubblici registri.</item>
+      <item>Il contribuente ha avuto effettiva conoscenza della cartella, come dimostrato dalla proposizione del ricorso.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 26 DPR n. 602/1973"/>
+      <item id="D2" type="norm" ref="art. 160 c.p.c."/>
+      <item id="D3" type="norm" ref="art. 156 comma 3 c.p.c."/>
+      <item id="D4" type="jur" ref="Cassazione n. 15979/2022"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina la notifica tramite PEC come procedura ammessa dalla legge.</item>
+      <item id_ref="D4">Afferma che la notifica tramite PEC non registrata non è nulla se non vi è incertezza sulla provenienza e sull'oggetto del messaggio.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la notifica tramite PEC, sebbene non registrata, non sia inesistente poiché l'inesistenza si verifica solo in casi estremi. La notifica è valida se effettuata da un soggetto legittimato, in luogo riferibile al destinatario, e se quest'ultimo ne ha avuto effettiva conoscenza. Eventuali vizi di forma possono essere sanati dalla tempestiva proposizione del ricorso. La sentenza della Cassazione n. 15979/2022 conferma che la mancata registrazione dell'indirizzo PEC non inficia la validità della notifica se non vi è incertezza sulla sua provenienza e oggetto.</ragionamento_giudice>
+    <riassunto>La ricorrente contestava la validità della notifica della cartella di pagamento, effettuata tramite un indirizzo PEC non registrato, sostenendone l'inesistenza giuridica. Il giudice ha respinto questa tesi, affermando che la notifica tramite PEC è ammessa dalla legge e che l'inesistenza si applica solo a vizi estremi. La Cassazione ha stabilito che la mancata registrazione dell'indirizzo PEC non rende nulla la notifica, purché non vi sia incertezza sulla provenienza e sull'oggetto. Poiché il contribuente ha avuto effettiva conoscenza dell'atto, la notifica è valida e il ricorso è stato rigettato.</riassunto>
+  </questione>
+  <questione title="Dovuta dell'imposta comunale di pubblicità per insegne di esercizio" id="Q2">
+    <text>Se un'insegna di esercizio con superficie inferiore a cinque metri quadrati e non finalizzata a promuovere l'attività economica sia soggetta all'imposta comunale di pubblicità.</text>
+    <esito_questione favorevole_a="ufficio">L'insegna è soggetta all'imposta comunale di pubblicità, poiché il contribuente non ha dimostrato l'assenza di finalità promozionale né ha presentato denuncia di cessazione.</esito_questione>
+    <premesse_fatto>
+      <item>La ricorrente sostiene che l'insegna installata abbia una superficie inferiore a cinque metri quadrati e non sia finalizzata a promuovere l'attività economica.</item>
+      <item>Il Comune ha verificato la presenza di impianti pubblicitari installati senza autorizzazione e ha emesso avvisi di accertamento regolarmente notificati.</item>
+      <item>La ricorrente non ha presentato denuncia di cessazione dell'insegna né ha contestato gli avvisi di accertamento negli anni precedenti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 17 comma 1 bis d.lgs. n. 507/1993"/>
+      <item id="D2" type="princ" ref="principio di inerzia del contribuente"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina derogatoria per le insegne di esercizio con superficie inferiore a cinque metri quadrati, ma non esclude l'imposta se l'insegna ha finalità promozionale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la ricorrente non ha fornito documentazione a sostegno della tesi secondo cui l'insegna non avesse finalità promozionale. Inoltre, la mancata denuncia di cessazione dell'insegna e l'inerzia nel contestare gli avvisi di accertamento precedenti dimostrano l'accettazione tacita dell'obbligo tributario. L'art. 17 comma 1 bis del d.lgs. n. 507/1993 non si applica in assenza di prova dell'assenza di finalità promozionale. Pertanto, l'imposta è dovuta.</ragionamento_giudice>
+    <riassunto>La ricorrente sosteneva che l'insegna installata, di superficie inferiore a cinque metri quadrati e non finalizzata a promuovere l'attività economica, non fosse soggetta all'imposta comunale di pubblicità. Il giudice ha rigettato questa tesi, rilevando che la ricorrente non ha fornito prove della mancanza di finalità promozionale e non ha presentato denuncia di cessazione dell'insegna. Inoltre, la mancata contestazione degli avvisi di accertamento precedenti ha dimostrato l'inerzia del contribuente. L'art. 17 comma 1 bis del d.lgs. n. 507/1993 non si applica in assenza di prove, e l'imposta è stata confermata.</riassunto>
+  </questione>
+</questioni>

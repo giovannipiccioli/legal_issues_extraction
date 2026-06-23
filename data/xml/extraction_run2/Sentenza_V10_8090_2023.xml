@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Prescrizione del debito per tasse automobilistiche" id="Q1">
+    <text>Se il termine di prescrizione per il recupero delle tasse automobilistiche relative all'anno 2013 fosse già decorso al momento dell'iscrizione del fermo amministrativo.</text>
+    <esito_questione favorevole_a="contribuente">Il termine di prescrizione era già decorso per i veicoli Targa_4 e Targa_5, ma non per Targa_7</esito_questione>
+    <premesse_fatto>
+      <item>Il fermo amministrativo riguardava tasse auto 2013 per veicoli Targa_4, Targa_5 e Targa_7</item>
+      <item>Sentenza del 26/9/2020 aveva dichiarato la perdita di possesso dei veicoli Targa_4 e Targa_5 dal 21/6/2010</item>
+      <item>Sentenza del 14/12/2021 aveva dichiarato prescritto l'accertamento relativo al veicolo Targa_5</item>
+      <item>Notifica avviso di accertamento avvenuta il 17/10/2016</item>
+      <item>Notifica ingiunzione di pagamento avvenuta il 09/04/2019</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art.3 Legge n°60 del 07.03.1986"/>
+      <item id="D2" type="jur" ref="Sentenza 26/9/2020"/>
+      <item id="D3" type="jur" ref="Sentenza 14/12/2021"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina il termine triennale di prescrizione per il recupero delle tasse automobilistiche</item>
+      <item id_ref="D2">Accertamento della perdita di possesso dei veicoli prima dell'anno impositivo</item>
+      <item id_ref="D3">Dichiarazione di prescrizione già intervenuta per uno dei veicoli</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che per i veicoli Targa_4 e Targa_5 la prescrizione era già stata accertata da precedenti sentenze, essendo intervenuta la perdita di possesso prima dell'anno fiscale 2013 e essendo già stato dichiarato prescritto uno degli accertamenti. Per il veicolo Targa_7 invece applica l'art.3 legge n.60/1986, stabilendo che il termine triennale (entro il 31/12/2016) era stato interrotto dalla notifica dell'avviso di accertamento nel 2016 e successivamente dall'ingiunzione nel 2019, impedendo quindi la prescrizione.</ragionamento_giudice>
+    <riassunto>Il ricorrente contestava il fermo amministrativo per tasse auto 2013 su tre veicoli. Il giudice ha rilevato che per due veicoli (Targa_4 e Targa_5) il debito era prescritto, essendo già stato accertato in precedenti sentenze la perdita di possesso prima del 2013 e la prescrizione dell'accertamento. Per il terzo veicolo (Targa_7) invece ha applicato la legge n.60/1986 che prevede la prescrizione triennale, constatando che questa era stata interrotta dalle notifiche tempestive dell'avviso nel 2016 e dell'ingiunzione nel 2019. La sentenza ha quindi parzialmente accolto il ricorso.</riassunto>
+  </questione>
+  <questione title="Validità dell'iscrizione del fermo amministrativo" id="Q2">
+    <text>Se l'iscrizione del fermo amministrativo fosse legittima considerando i precedenti accertamenti giudiziali.</text>
+    <esito_questione favorevole_a="contribuente">Il fermo era infondato per i veicoli Targa_4 e Targa_5</esito_questione>
+    <premesse_fatto>
+      <item>Precedente sentenza del 26/9/2020 sulla perdita di possesso dei veicoli</item>
+      <item>Precedente sentenza del 14/12/2021 sulla prescrizione dell'accertamento</item>
+      <item>Mancato pagamento tasse auto 2013 alla base del fermo</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Sentenza 26/9/2020"/>
+      <item id="D2" type="jur" ref="Sentenza 14/12/2021"/>
+      <item id="D3" type="princ" ref="Principio di legalità"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Dimostra che il ricorrente non era proprietario dei veicoli nell'anno impositivo</item>
+      <item id_ref="D2">Attesta la prescrizione già dichiarata per uno dei veicoli</item>
+      <item id_ref="D3">Richiamato per valutare la legittimità del provvedimento coercitivo</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha considerato che le precedenti sentenze avevano già accertato sia la perdita di possesso dei veicoli (rendendo infondato il presupposto stesso del debito) sia la prescrizione dell'accertamento per uno di essi. Applicando il principio di legalità, ha quindi ritenuto illegittimo mantenere il fermo amministrativo per veicoli rispetto ai quali erano già intervenute queste pronunce giudiziali definitive.</ragionamento_giudice>
+    <riassunto>Il giudice ha esaminato la legittimità del fermo amministrativo alla luce di precedenti sentenze che avevano già stabilito la perdita di possesso di due veicoli (Targa_4 e Targa_5) prima dell'anno fiscale 2013 e la prescrizione dell'accertamento per uno di essi. Ritenendo che queste pronunce definitive privassero di fondamento giuridico l'iscrizione del fermo per tali veicoli, in applicazione del principio di legalità ha dichiarato infondato il fermo per Targa_4 e Targa_5, confermandolo solo per Targa_7 dove invece non sussistevano analoghe preclusioni.</riassunto>
+  </questione>
+</questioni>

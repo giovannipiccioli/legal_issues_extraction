@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Ammissibilità dell'appello" id="Q1">
+    <text>Se l'appello sia ammissibile nonostante la mancanza di nuove argomentazioni rispetto a quelle già esaminate in primo grado.</text>
+    <esito_questione favorevole_a="ufficio">L'appello è ammissibile.</esito_questione>
+    <premesse_fatto>
+      <item>L'appellante ha presentato ricorso contro l'atto di recupero emesso dall'Agenzia delle Entrate, impugnando la sentenza di primo grado senza introdurre nuove argomentazioni rispetto a quelle già esaminate.</item>
+      <item>L'Agenzia delle Entrate ha sostenuto la correttezza del proprio operato e chiesto il rigetto dell'appello.</item>
+      <item>La sentenza di primo grado aveva dichiarato legittima la cartella di pagamento, confermando la validità dell'atto impositivo.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 3115/2018"/>
+      <item id="D2" type="jur" ref="Cassazione n. 24464/2020"/>
+      <item id="D3" type="norm" ref="art. 345 c.p.c."/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita Cassazione n. 3115/2018 per affermare che l'appellante può chiedere una nuova valutazione delle prove senza introdurre nuovi argomenti, senza che ciò comporti l'inammissibilità dell'appello.</item>
+      <item id_ref="D2">Cassazione n. 24464/2020 viene citata per confermare che l'appello è ammissibile anche senza nuove argomentazioni, in linea con il principio di revisione del giudizio di primo grado.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il Collegio ritiene ammissibile l'appello, seguendo la giurisprudenza della Cassazione che interpreta gli articoli 342 e 434 c.p.c. nel senso che l'impugnazione deve individuare chiaramente le questioni contestate senza necessità di nuove argomentazioni. L'appellante può limitarsi a chiedere una nuova valutazione delle prove già raccolte, senza violare il divieto di nova di cui all'art. 345 c.p.c. Pertanto, l'appello è dichiarato ammissibile nonostante la mancanza di nuove argomentazioni.
+</ragionamento_giudice>
+    <riassunto>Il contribuente ha proposto appello senza introdurre nuove argomentazioni rispetto a quelle già esaminate in primo grado. Il giudice ha ritenuto che l'appello sia ammissibile in base alla giurisprudenza prevalente, secondo cui l'impugnazione non richiede particolari formalità né l'introduzione di elementi nuovi (artt. 342 e 434 c.p.c.). Il giudice ha confermato che l'appellante può limitarsi a chiedere una nuova valutazione delle prove già raccolte, senza violare il divieto di nova di cui all'art. 345 c.p.c. (Cass. civ. 3115/18 e 24464/20). La questione è stata risolta a favore dell'Ufficio.</riassunto>
+  </questione>
+  <questione title="Motivazione della sentenza di primo grado" id="Q2">
+    <text>Se la sentenza di primo grado sia sufficientemente motivata.</text>
+    <esito_questione favorevole_a="ufficio">La sentenza è sufficientemente motivata.</esito_questione>
+    <premesse_fatto>
+      <item>Ricorrente impugna la cartella di pagamento n. 07120190085077005 IRES-ALIQUOTE 2016 per difetto di motivazione.</item>
+      <item>La C.T.P. di Napoli con sentenza n. 1192/21 rigetta il ricorso, ritenendo la cartella legittima.</item>
+      <item>Ricorrente propone appello, deducendo tra l'altro carenza di motivazione della sentenza di primo grado.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 3989/2003"/>
+      <item id="D2" type="jur" ref="Cassazione n. 6765/2001, Cassazione n. 10589/2001, Cassazione n. 2602/2001"/>
+      <item id="D3" type="jur" ref="Cassazione n. 14966/2000, Cassazione n. 6765/2002, Cassazione n. 6023/2000, Cassazione n. 3904/2000"/>
+      <item id="D4" type="jur" ref="Cassazione n. 14700/2001"/>
+      <item id="D5" type="princ" ref="Principio di sufficienza della motivazione"/>
+      <item id="D6" type="princ" ref="Principio di irrilevanza dei vizi di invalidità del provvedimento (art. 21-octies l. 241/1990)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione n. 3989/2003 è citata per definire i criteri di sufficienza della motivazione, che deve consentire la verifica della congruità della valutazione.</item>
+      <item id_ref="D3">Le sentenze Cassazione n. 14966/2000 e seguenti sono richiamate per affermare che la motivazione può essere implicita o superflua quando consegue logicamente alla motivazione esplicita.</item>
+      <item id_ref="D4">La Cassazione n. 14700/2001 è citata per stabilire che la motivazione degli atti amministrativi deve consentire al destinatario di valutare l'opportunità di ricorrere.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che la sentenza di primo grado è sufficientemente motivata, in quanto consente di comprendere l'iter logico-giuridico seguito senza necessità di ulteriori atti. La motivazione non deve confutare ogni argomento difensivo, ma solo indicare il criterio adottato. Il giudice di appello, applicando i principi di sufficienza motivazionale e irrilevanza dei vizi formali, conferma la sentenza impugnata, ritenendo infondate le doglianze dell'appellante.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito il difetto di motivazione della sentenza di primo grado. Il giudice ha rilevato che la motivazione è sufficiente se consente di comprendere l'iter logico-giuridico seguito e i criteri adottati, senza necessità di confutare ogni argomento delle parti (Cass. 3989/2003, 6765/2001). La sentenza impugnata è stata ritenuta correttamente motivata, poiché chiarisce la vicenda processuale e le ragioni della decisione. La doglianza è stata dichiarata infondata.</riassunto>
+  </questione>
+  <questione title="Legittimità della cartella di pagamento" id="Q3">
+    <text>Se la cartella di pagamento sia legittima nonostante il disconoscimento del credito utilizzato in compensazione.</text>
+    <esito_questione favorevole_a="ufficio">La cartella di pagamento è legittima.</esito_questione>
+    <premesse_fatto>
+      <item>La Ric_1 ha utilizzato crediti inesistenti per compensazioni nell'annualità 2016, relativi alle annualità d'imposta 2004, 2005, 2007, 2008.</item>
+      <item>L'Agenzia delle Entrate ha emesso un atto di recupero (n. TF3CR0500182/2018) per € 146.995,03, seguito da una cartella di pagamento (n. 07120190085077005) per € 156.666,02.</item>
+      <item>La C.T.P. di Napoli ha rigettato il ricorso della Ric_1, confermando la legittimità della cartella di pagamento.</item>
+      <item>La Ric_1 ha proposto appello, sostenendo la nullità della cartella per difetto di motivazione, violazione del contraddittorio, e altre irregolarità procedurali.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. civ. n. 3115/2018, Cass. civ. n. 24464/2020"/>
+      <item id="D2" type="norm" ref="art. 27 dlgs n. 185/2008"/>
+      <item id="D3" type="jur" ref="Cass. n. 14700/2001"/>
+      <item id="D4" type="norm" ref="art. 15 d.p.r. n. 602/1973"/>
+      <item id="D5" type="norm" ref="art. 68 dlgs n. 546/1992"/>
+      <item id="D6" type="jur" ref="Cass. n. 7800/2020, Cass. n. 8081/2020"/>
+      <item id="D7" type="norm" ref="art. 50 comma 2 d.p.r. n. 602/1973"/>
+      <item id="D8" type="princ" ref="principio di irrilevanza dei vizi di invalidità del provvedimento"/>
+      <item id="D9" type="norm" ref="art. 21-octies l. n. 241/1990"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita queste sentenze per confermare che l’appello è ammissibile anche se non introduce nuovi argomenti rispetto al primo grado.</item>
+      <item id_ref="D2">Il giudice cita l’art. 27 dlgs n. 185/2008 per spiegare che l’Avviso di recupero è provvisoriamente esecutivo e che l’Ufficio ha agito correttamente.</item>
+      <item id_ref="D3">Il giudice cita Cass. n. 14700/2001 per affermare che la motivazione della cartella di pagamento è sufficiente se permette al contribuente di contestarla efficacemente.</item>
+      <item id_ref="D6">Il giudice cita Cass. n. 7800/2020 e Cass. n. 8081/2020 per sostenere che la mancata sottoscrizione della cartella non ne inficia la legittimità.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice rigetta l’appello confermando la legittimità della cartella di pagamento. Ritiene che l’Avviso di recupero sia provvisoriamente esecutivo (art. 27 dlgs n. 185/2008) e che la motivazione della cartella sia sufficiente (Cass. n. 14700/2001). La mancata sottoscrizione non ne inficia la validità (Cass. n. 7800/2020), e l’onere della prova contraria spetta al contribuente (art. 21-octies l. n. 241/1990). L’Ufficio ha correttamente iscritto a ruolo l’intero importo, essendo il credito disconosciuto (art. 15 d.p.r. n. 602/1973, art. 68 dlgs n. 546/1992). Le altre doglianze sono infondate per mancanza di elementi concreti.
+</ragionamento_giudice>
+    <riassunto>L'Ufficio ha disconosciuto un credito utilizzato in compensazione dal contribuente, iscrivendo a ruolo l'intero importo. Il giudice ha confermato la legittimità dell'iscrizione a ruolo, poiché il recupero di crediti inesistenti non è soggetto a riscossione frazionata (art. 27 D.Lgs. 185/2008). La cartella è stata ritenuta conforme alla normativa, in linea con le precedenti sentenze favorevoli all'Ufficio (C.T.P. Napoli n. 7441/2019, C.T.R. Campania n. 3498/2021). La questione è stata risolta a favore dell'Ufficio.</riassunto>
+  </questione>
+  <questione title="Sottoscrizione del ruolo esattoriale" id="Q4">
+    <text>Se la mancata sottoscrizione del ruolo esattoriale ne determini la nullità.</text>
+    <esito_questione favorevole_a="ufficio">La mancata sottoscrizione non determina nullità.</esito_questione>
+    <premesse_fatto>
+      <item>La cartella esattoriale n. 07120190085077005 è stata emessa senza sottoscrizione da parte del responsabile del procedimento.</item>
+      <item>La società contribuente ha dedotto la nullità del ruolo esattoriale per mancata sottoscrizione.</item>
+      <item>L'Agenzia delle Entrate ha contestato la fondatezza della deduzione, sostenendo la legittimità formale dell'atto.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 12 D.P.R. n. 602/1973"/>
+      <item id="D2" type="norm" ref="art. 21-octies l. n. 241/1990"/>
+      <item id="D3" type="jur" ref="Cass. civ., sez. V, ord. n. 28272/2020"/>
+      <item id="D4" type="jur" ref="Cass. sen. n. 7800/2020, conforme n. 8081/2020"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 12 D.P.R. n. 602/1973 per evidenziare che non prevede sanzioni per l'omessa sottoscrizione del ruolo, escludendo quindi la nullità.</item>
+      <item id_ref="D2">L'art. 21-octies l. n. 241/1990 è richiamato per applicare il principio di irrilevanza dei vizi formali in atti a contenuto vincolato, come il ruolo esattoriale.</item>
+      <item id_ref="D3">La Cassazione n. 28272/2020 è citata per confermare l'onere della prova contraria a carico del contribuente in caso di contestazione della provenienza dell'atto.</item>
+      <item id_ref="D4">Le sentenze n. 7800/2020 e 8081/2020 sono utilizzate per affermare che la sottoscrizione non è requisito essenziale per la validità della cartella esattoriale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che l'art. 12 D.P.R. n. 602/1973 non sanziona l'omessa sottoscrizione del ruolo, escludendone la nullità. Applica il principio di irrilevanza dei vizi formali (art. 21-octies l. n. 241/1990) data la natura vincolata del ruolo. La Cassazione (n. 28272/2020) conferma che l'onere di provare l'illegittimità spetta al contribuente, il quale non ha fornito elementi concreti. Infine, le sentenze n. 7800/2020 e 8081/2020 precisano che la sottoscrizione non è requisito essenziale, essendo sufficiente la riferibilità all'ente impositivo. La doglianza è quindi infondata.
+</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito la nullità del ruolo per mancata sottoscrizione. Il giudice ha osservato che l'art. 12 D.P.R. 602/1973 non prevede sanzioni per tale omissione e che la natura vincolata del ruolo rende irrilevanti i vizi formali (art. 21-octies L. 241/1990). Il contribuente non ha fornito prove concrete a sostegno della sua tesi (Cass. civ. n. 28272/2020). La doglianza è stata dichiarata infondata.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Tempestività del ricorso contro il fermo amministrativo" id="Q1">
+    <text>Se il contribuente non abbia adeguatamente comprovato la tempestività del ricorso, allegando solo la fotografia del provvedimento impugnato senza indicare la data di notifica della comunicazione di iscrizione del fermo amministrativo.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è inammissibile per mancanza di prova della tempestività.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato il provvedimento di fermo amministrativo emesso il 30.12.2019 per omesso versamento della tassa automobilistica relativa al 2012.</item>
+      <item>Il ricorrente ha allegato solo la fotografia del provvedimento impugnato, senza indicare la data di notifica della comunicazione di iscrizione del fermo amministrativo.</item>
+      <item>La data di notifica del ricorso è il 17.3.2020, ma non è chiaro se rientri nei 60 giorni dalla notifica dell'atto impugnato.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 d.lgs. n. 546 del 1992"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 21 del d.lgs. n. 546/1992 per stabilire il termine di 60 giorni entro cui il ricorso deve essere presentato dalla data di notifica dell'atto impugnato.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il ricorrente non ha fornito prova della data di notifica dell'atto impugnato, elemento essenziale per verificare la tempestività del ricorso. L'allegazione della sola fotografia del provvedimento, senza indicazione della data di notifica, non consente di accertare il rispetto del termine di 60 giorni previsto dalla legge. Pertanto, in assenza di tale prova, il ricorso deve essere dichiarato inammissibile.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato un fermo amministrativo emesso per omesso versamento della tassa automobilistica, ma non ha allegato la prova della data di notifica dell'atto impugnato, limitandosi a fornire una fotografia del provvedimento. Secondo l'art. 21 del d.lgs. n. 546/1992, il ricorso deve essere presentato entro 60 giorni dalla notifica dell'atto. Il giudice, non potendo verificare la tempestività del ricorso per mancanza di prova della data di notifica, lo dichiara inammissibile e condanna il ricorrente al pagamento delle spese di giudizio.</riassunto>
+  </questione>
+</questioni>

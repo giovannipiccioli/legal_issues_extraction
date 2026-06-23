@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità della notifica dell'avviso di accertamento" id="Q1">
+    <text>Se l'avviso di accertamento sia stato regolarmente notificato al contribuente</text>
+    <esito_questione favorevole_a="ufficio">L'avviso è stato regolarmente notificato</esito_questione>
+    <premesse_fatto>
+      <item>Cartella di pagamento emessa per mancato pagamento tassa automobilistica 2015</item>
+      <item>Avviso di accertamento notificato il 10 settembre 2018</item>
+      <item>Ricorso proposto il 13 luglio 2022</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 d.lgs. n. 546/1992"/>
+      <item id="D2" type="jur" ref="Cassazione sez. trib. n. 4587/2022"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Termine perentorio di 60 giorni per impugnazione</item>
+      <item id_ref="D2">Giurisprudenza consolidata sulla validità delle notifiche</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice accerta che l'atto prodromico (avviso di accertamento) è stato regolarmente notificato "a mani proprie" il 10/09/2018, come dimostrato dalla documentazione prodotta dall'Agenzia. Pertanto, il ricorso risulta tardivo avendo superato il termine perentorio di 60 giorni stabilito dall'art. 21 d.lgs. 546/1992. La questione della prescrizione triennale non può essere sollevata in questa sede per la stessa ragione di tardività. Inoltre, il giudice rileva che eventuali sospensioni dei termini dovute a provvedimenti emergenziali (come il decreto Cura Italia) non sono rilevanti nella fattispecie.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente ha impugnato una cartella di pagamento relativa alla tassa automobilistica 2015, contestando la validità della notifica dell'avviso di accertamento. Il giudice ha accertato che l'avviso era stato regolarmente notificato nel 2018 e che il ricorso, presentato nel 2022, risultava quindi tardivo rispetto al termine di 60 giorni previsto dalla legge. La questione della prescrizione triennale non è stata ritenuta rilevante per la tardività dell'impugnazione. La Corte ha dunque rigettato il ricorso, condannando il contribuente al pagamento delle spese processuali.
+    </riassunto>
+  </questione>
+  <questione title="Applicazione dei provvedimenti emergenziali sulla sospensione dei termini" id="Q2">
+    <text>Se i provvedimenti emergenziali (decreto Cura Italia) abbiano sospeso i termini nella fattispecie</text>
+    <esito_questione favorevole_a="ufficio">I provvedimenti non sono rilevanti nella fattispecie</esito_questione>
+    <premesse_fatto>
+      <item>Avviso di accertamento notificato il 10/09/2018</item>
+      <item>Decreto Cura Italia (d.l. n. 18/2020) e successivi provvedimenti</item>
+      <item>Termine originario di prescrizione triennale</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="d.l. n. 18/2020 (Decreto Cura Italia)"/>
+      <item id="D2" type="jur" ref="Giurisprudenza emergenziale COVID-19"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disposizioni sulla sospensione dei termini processuali e fiscali</item>
+      <item id_ref="D2">Interpretazione giurisprudenziale delle sospensioni emergenziali</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice riconosce che i provvedimenti emergenziali hanno sospeso i termini fino al 31 agosto 2021, ma osserva che nella fattispecie il termine triennale sarebbe comunque decorrente dal 10 settembre 2018. Pertanto, anche considerando le sospensioni, il ricorso risulta comunque tardivo. Inoltre, i provvedimenti emergenziali non incidono sulla validità della notifica già avvenuta prima dell'emergenza COVID-19.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente aveva eccepito l'applicabilità dei provvedimenti emergenziali COVID-19 (come il decreto Cura Italia) che sospendevano i termini processuali e fiscali. Il giudice ha ritenuto che, pur considerando le sospensioni fino al 31 agosto 2021, il termine originario decorrente dalla notifica del 2018 rendeva comunque tardivo il ricorso presentato nel 2022. La Corte ha quindi escluso l'incidenza delle misure emergenziali sulla fattispecie in esame.
+    </riassunto>
+  </questione>
+</questioni>

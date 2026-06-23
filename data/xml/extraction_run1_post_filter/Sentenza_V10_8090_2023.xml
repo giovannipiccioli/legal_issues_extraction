@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Prescrizione del debito per tassa automobilistica relativa al veicolo Targa_7" id="Q1">
+    <text>Se il termine di prescrizione per il recupero della tassa automobilistica relativa all'anno 2013 per il veicolo targato Targa_7 sia stato interrotto dalla notifica tempestiva dell'avviso di accertamento e dell'ingiunzione di pagamento.</text>
+    <esito_questione favorevole_a="ufficio">La prescrizione non si è verificata in quanto il termine è stato interrotto dalla notifica tempestiva degli atti.</esito_questione>
+    <premesse_fatto>
+      <item>L'anno fiscale in questione è il 2013.</item>
+      <item>L'avviso di accertamento è stato notificato il 17/10/2016.</item>
+      <item>L'ingiunzione di pagamento è stata notificata il 09/04/2019.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="Legge n. 60 del 07.03.1986, art. 3" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La norma stabilisce che l'azione per il recupero delle tasse automobilistiche si prescrive col decorso del terzo anno successivo a quello del pagamento dovuto, a meno che non sia interrotta da atti amministrativi validi.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il termine di prescrizione triennale per la tassa automobilistica del 2013 sarebbe scaduto il 31/12/2016. Tuttavia, la notifica dell'avviso di accertamento nel 2016 e dell'ingiunzione di pagamento nel 2019 ha interrotto il termine, impedendo la prescrizione. Pertanto, l'azione dell'amministrazione per il recupero del debito è ancora valida.</ragionamento_giudice>
+    <riassunto>La controversia riguarda la prescrizione del debito per la tassa automobilistica del 2013 relativa al veicolo targato Targa_7. Secondo la legge n. 60/1986, art. 3, il termine di prescrizione è di tre anni dall'anno del pagamento dovuto. L'avviso di accertamento notificato il 17/10/2016 e l'ingiunzione di pagamento notificata il 09/04/2019 hanno interrotto il termine, evitando la prescrizione. Il giudice conclude che il debito è ancora esigibile.</riassunto>
+  </questione>
+</questioni>

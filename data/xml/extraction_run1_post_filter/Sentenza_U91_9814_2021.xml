@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Nullità dell'avviso di intimazione per illegittimità del sottoscrittore" id="Q1">
+    <text>Se il soggetto che ha sottoscritto l'avviso di intimazione fiscale, ex dipendente di Equitalia Servizi di Riscossione S.p.A. trasferito all'Agenzia delle Entrate-Riscossione senza concorso pubblico, sia legittimato a rappresentare l'Amministrazione Pubblica e a sottoscrivere atti impositivi.</text>
+    <esito_questione favorevole_a="ufficio">Il soggetto è legittimato ai sensi del D.L. 193/2016</esito_questione>
+    <premesse_fatto>
+      <item>L'avviso di intimazione n. 09720199075410868 000 è stato sottoscritto da Nominativo_1, ex dipendente di Equitalia Servizi di Riscossione S.p.A.</item>
+      <item>Il ricorrente ha eccepito la nullità dell'atto per illegittimazione del sottoscrittore, non avendo quest'ultimo superato un concorso pubblico per il trasferimento all'AER.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1 comma 9 D.L. 22/10/2016 n.193 (convertito in L. 1/12/2016 n.225)" />
+      <item id="D2" type="norm" ref="art. 2112 c.c." />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita la norma per dimostrare che il trasferimento del personale dalle società del Gruppo Equitalia all'AER avviene senza soluzione di continuità e con garanzia delle posizioni maturate.</item>
+      <item id_ref="D2">Richiamato per analogia in relazione alla tutela delle condizioni lavorative nel passaggio di gestione.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il D.L. 193/2016 disciplina espressamente il trasferimento del personale da Equitalia all'AER senza concorso pubblico, mantenendo inalterati i diritti acquisiti. La specifica deroga alla procedura concorsuale è giustificata dalla necessità di continuità nel servizio di riscossione, rendendo legittima la sottoscrizione dell'atto da parte del dipendente trasferito.</ragionamento_giudice>
+    <riassunto>Il ricorrente aveva eccepito la nullità dell'avviso di intimazione per illegittimità del sottoscrittore, ex dipendente Equitalia trasferito all'AER senza concorso. Il giudice ha ritenuto infondata l'eccezione, applicando l'art. 1 comma 9 D.L. 193/2016 che consente il trasferimento diretto del personale per garantire la continuità del servizio, con conservazione dei diritti acquisiti. La norma costituisce deroga al principio generale del concorso pubblico, legittimando gli atti sottoscritti dal soggetto trasferito.</riassunto>
+  </questione>
+  <questione title="Validità della notifica delle cartelle esattoriali" id="Q2">
+    <text>Se le cartelle esattoriali alla base dell'avviso di intimazione siano state validamente notificate al contribuente ai sensi della normativa vigente.</text>
+    <esito_questione favorevole_a="ufficio">Le notifiche sono regolari secondo le modalità previste</esito_questione>
+    <premesse_fatto>
+      <item>La cartella n.09720160050135250000 (IRPEF 2011) è stata notificata il 20/12/2016 al portiere dello stabile del contribuente con successiva comunicazione via raccomandata</item>
+      <item>Le cartelle ICI 2009 e 2011 sono state notificate via PEC agli indirizzi risultanti da visura camerale</item>
+      <item>Il ricorrente aveva eccepito la nullità dell'atto per vizi nella notifica</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 139 c.p.c." />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Richiamato per la validità della notifica al portiere con integrazione della raccomandata</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il collegio accerta la regolarità delle notifiche: la prima è valida per consegna al portiere (art. 139 c.p.c.) con perfezionamento della comunicazione, mentre le PEC sono state inviate all'indirizzo istituzionale risultante dagli atti ufficiali. La documentazione prodotta dall'AER dimostra l'avvenuta notifica nei termini, non essendo state impugnate tempestivamente le singole cartelle.</ragionamento_giudice>
+    <riassunto>Il contribuente contestava la validità della notifica delle cartelle esattoriali. Per la cartella IRPEF, il giudice ha riconosciuto la validità della notifica al portiere ex art. 139 c.p.c., integrata da raccomandata. Per le cartelle ICI, ha verificato l'avvenuta trasmissione PEC all'indirizzo ufficiale del contribuente rilevato da visura camerale. In assenza di impugnazione tempestiva delle singole cartelle e con prova documentale della loro regolare notifica, il giudice ha escluso i vizi dedotti.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Questione sulla legittimità dell'avviso di intimazione per presunta nullità del sottoscrittore" id="Q1">
+    <text>Se il sottoscrittore di un avviso di intimazione fiscale, ex dipendente di Equitalia Servizi di Riscossione S.p.A. trasferito all'Agenzia delle Entrate-Riscossione senza concorso pubblico, abbia la legittimazione necessaria per sottoscrivere atti amministrativi.</text>
+    <esito_questione favorevole_a="ufficio">Il sottoscrittore è legittimato a sottoscrivere l'avviso di intimazione.</esito_questione>
+    <premesse_fatto>
+      <item>L'avviso di intimazione n. 09720199075410868 000 è stato sottoscritto da un ex dipendente di Equitalia Servizi di Riscossione S.p.A. trasferito all'AER senza concorso pubblico.</item>
+      <item>Il ricorrente ha eccepito la nullità dell'atto per mancata legittimazione del sottoscrittore, sostenendo la violazione degli artt. 35 D.Lgs. 165/2001, 39 L. 449/1997, 2112 c.c., e 97 Cost.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 1 comma 9 D.L. 193/2016, convertito in L. 225/2016"/>
+      <item id="D2" type="norm" ref="art. 2112 c.c."/>
+      <item id="D3" type="norm" ref="art. 35 D.Lgs. 165/2001"/>
+      <item id="D4" type="norm" ref="art. 39 L. 449/1997"/>
+      <item id="D5" type="norm" ref="art. 97 Cost."/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il D.L. 193/2016 per dimostrare che il trasferimento del personale da Equitalia all'AER avviene per legge e senza necessità di concorso pubblico, garantendo la continuità delle funzioni.</item>
+      <item id_ref="D2">L'art. 2112 c.c. è applicato per confermare la conservazione della posizione giuridica ed economica del dipendente trasferito.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che il trasferimento del sottoscrittore era previsto dal D.L. 193/2016, che autorizza il passaggio diretto del personale da Equitalia all'AER senza concorso pubblico, purché in servizio alla data di entrata in vigore del decreto. La normativa garantisce la continuità delle funzioni e conserva i diritti del dipendente (art. 2112 c.c.). Pertanto, il sottoscrittore era legittimato a rappresentare l'AER e a sottoscrivere l'atto, rendendo infondata l'eccezione di nullità.</ragionamento_giudice>
+    <riassunto>Un contribuente ha impugnato un avviso di intimazione fiscale, eccependo la nullità per illegittimazione del sottoscrittore, ex dipendente di Equitalia trasferito all'AER senza concorso. Il giudice ha ritenuto infondata l'eccezione, basandosi sul D.L. 193/2016 (convertito in L. 225/2016), che disciplina il trasferimento automatico del personale di Equitalia all'AER per garantire la continuità della riscossione, senza necessità di concorso. L'art. 2112 c.c. conferma la validità del trasferimento, conservando i diritti del dipendente. La questione è stata risolta a favore dell'Amministrazione, rigettando il ricorso.</riassunto>
+  </questione>
+  <questione title="Questione sulla validità della notifica delle cartelle esattoriali" id="Q2">
+    <text>Se le cartelle esattoriali siano state regolarmente notificate al contribuente, ai sensi delle norme procedurali vigenti.</text>
+    <esito_questione favorevole_a="ufficio">Le cartelle sono state regolarmente notificate.</esito_questione>
+    <premesse_fatto>
+      <item>Le cartelle n. 09720160050135250000, n. 09720160115521227001 e n. 09720170168834062001 sono state impugnate dal contribuente per presunta irregolarità nella notifica.</item>
+      <item>L'AER ha fornito documentazione attestante la notifica delle cartelle tramite messo notificatore (art. 139 c.p.c.) e PEC.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D6" type="norm" ref="art. 139 c.p.c."/>
+      <item id="D7" type="princ" ref="principio di collaborazione processuale"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D6">L'art. 139 c.p.c. è citato per confermare la validità della notifica presso il portiere dello stabile, integrata da comunicazione raccomandata.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice accerta, in base alla documentazione prodotta dall'AER, che la cartella n. 09720160050135250000 è stata notificata tramite messo notificatore al portiere dello stabile (art. 139 c.p.c.), con successiva comunicazione raccomandata. Le altre due cartelle sono state notificate tramite PEC all'indirizzo risultante da visura camerale. Poiché il contribuente non ha impugnato le cartelle nei termini, la loro validità è confermata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha contestato la regolarità della notifica di tre cartelle esattoriali, ma il giudice ha verificato che la prima era stata notificata tramite messo notificatore al portiere dello stabile (art. 139 c.p.c.), mentre le altre due erano state inviate tramite PEC all'indirizzo rilevato da visura camerale. La mancata impugnazione tempestiva delle cartelle da parte del contribuente e la documentazione fornita dall'AER hanno portato alla conclusione che le notifiche erano valide, determinando il rigetto dell'eccezione.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Tassazione dei canoni di locazione non percepiti per risoluzione contrattuale" id="Q1">
+    <text>Se un contratto di locazione venga risolto con effetto retroattivo (ex tunc), sia il contribuente tenuto a dichiarare i canoni di locazione relativi al periodo successivo alla risoluzione?</text>
+    <esito_questione favorevole_a="contribuente">No, il contribuente non è tenuto a dichiarare i canoni di locazione per il periodo successivo alla risoluzione contrattuale con effetto retroattivo.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha dichiarato solo i canoni effettivamente percepiti da Gennaio a Luglio 2011 (€ 9.800,00), omettendo quelli da Agosto a Dicembre 2011 (€ 7.000,00).</item>
+      <item>L'Agenzia delle Entrate ha recuperato a tassazione i canoni non percepiti, sostenendo che la morosità del conduttore non esimeva dal dichiararli fino alla risoluzione del contratto.</item>
+      <item>Il Tribunale di Bari con sentenza n. 5387/2015 ha dichiarato risolto il contratto di locazione con effetto retroattivo (ex tunc) a partire da Agosto 2011, legittimando il recesso della conduttrice già comunicato nel 2010.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 651/2012 e n. 11158/2013"/>
+      <item id="D2" type="norm" ref="art. 26 del d.lgs n. 917/1986 (Testo Unico delle Imposte sui Redditi)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione aveva stabilito che i redditi fondiari vanno dichiarati anche se non percepiti, salvo risoluzione del contratto. Il giudice distingue il caso in esame poiché la risoluzione è stata dichiarata con effetto retroattivo.</item>
+      <item id_ref="D2">L'art. 26 attribuisce natura figurativa ai redditi fondiari, ma il giudice rileva che tale obbligo cessa con la risoluzione contrattuale, specie se retroattiva.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la sentenza del Tribunale di Bari ha accertato la risoluzione contrattuale con effetto ex tunc (Agosto 2011), legittimando il recesso già comunicato nel 2010. Pertanto, i canoni non percepiti dopo tale data non sono fiscalmente rilevanti, poiché il contratto era già terminato. La Cassazione (D1) e l'art. 26 (D2) si applicano solo fino alla risoluzione, che in questo caso è retroattiva. L'errore della CTP è stato ignorare questa circostanza documentale.</ragionamento_giudice>
+    <riassunto>Il contribuente aveva omesso di dichiarare i canoni di locazione per Agosto-Dicembre 2011, non percepiti a causa della morosità del conduttore. L'Agenzia delle Entrate li ha recuperati a tassazione, ritenendoli dovuti fino alla risoluzione contrattuale (avvenuta nel 2015). Tuttavia, il Tribunale di Bari aveva dichiarato la risoluzione con effetto retroattivo ad Agosto 2011, legittimando il recesso anticipato. Il giudice di appello, rilevando l'errore della CTP nell'ignorare tale circostanza, ha annullato l'accertamento: i canoni non percepiti dopo la risoluzione ex tunc non sono imponibili, essendo venuto meno l'obbligo dichiarativo. La sentenza è stata riformata a favore del contribuente.</riassunto>
+  </questione>
+</questioni>

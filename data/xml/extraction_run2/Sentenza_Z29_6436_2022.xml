@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Esenzione IMU per destinazione culturale dell'immobile" id="Q1">
+    <text>Se l'immobile, dichiarato esente dall'IMU per destinazione ad uso culturale ai sensi dell'art. 7, lett. c) D.L.vo 504/1992, richieda un vincolo permanente e giuridicamente efficace sulla destinazione d'uso per beneficiare dell'esenzione.</text>
+    <esito_questione favorevole_a="ufficio">L'esenzione non sussiste in mancanza di un vincolo giuridico permanente sulla destinazione culturale dell'immobile.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha dichiarato l'esenzione IMU per l'immobile in questione, sostenendo una destinazione ad uso culturale ai sensi dell'art. 7, lett. c) D.L.vo 504/1992.</item>
+      <item>L'Amministrazione comunale ha emesso un avviso di accertamento IMU per l'anno 2016, negando l'esenzione.</item>
+      <item>Il contribuente ha impugnato l'avviso, sostenendo l'errore del giudice di primo grado nel valutare l'esenzione sotto il profilo della lett. i) anziché della lett. c) dell'art. 7 D.L.vo 504/1992.</item>
+      <item>Non risulta alcun provvedimento vincolistico del Comune o dello Stato, né una convenzione, che attesti una destinazione permanente e vincolata dell'immobile ad uso culturale per l'anno 2016.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7, comma 1, lett. c) D.L.vo 504/1992"/>
+      <item id="D2" type="jur" ref="Cass. Civ., sez. II, 22 marzo 1995 n. 3260, Cass. Civ., sez. V, 16 maggio 2012 n. 7663"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 7, lett. c) D.L.vo 504/1992 per chiarire che l'esenzione richiede una destinazione permanente e vincolata dell'immobile ad uso culturale, non una mera destinazione di fatto.</item>
+      <item id_ref="D2">Il giudice richiama la giurisprudenza costante per affermare il principio di corrispondenza tra il chiesto e il pronunciato, applicandolo al caso concreto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che l'esenzione di cui all'art. 7, lett. c) D.L.vo 504/1992 presuppone una destinazione permanente e vincolata dell'immobile ad uso culturale, non una mera destinazione di fatto. Nel caso concreto, manca un provvedimento vincolistico o una convenzione che attesti tale destinazione per l'anno 2016. Pertanto, l'esenzione non può essere riconosciuta. Il giudice rigetta l'appello, confermando la decisione di primo grado.</ragionamento_giudice>
+    <riassunto>La società appellante aveva dichiarato esenti dall'IMU per il 2016 due immobili, ritenendoli destinati ad uso culturale ai sensi dell'art. 7, lett. c) D.L.vo 504/1992. Il Giudice di primo grado aveva erroneamente valutato la questione sotto il profilo della lettera i) dello stesso articolo, anziché della lettera c). La Corte ha però chiarito che per l'esenzione di cui alla lett. c) non è sufficiente la destinazione di fatto, ma occorre una destinazione vincolata e permanente per legge, convenzione o provvedimento amministrativo. Poiché non risultavano tali vincoli per l'anno 2016, l'esenzione è stata rigettata. La prova non può desumersi dagli strumenti urbanistici senza un atto concreto di vincolo.</riassunto>
+  </questione>
+  <questione title="Possesso fiscale in caso di comodato" id="Q2">
+    <text>Se, in caso di comodato di un immobile a un soggetto terzo, il possessore fiscale ai fini IMU sia il comodatario anziché il proprietario.</text>
+    <esito_questione favorevole_a="ufficio">Il possessore fiscale rimane il proprietario, non il comodatario.</esito_questione>
+    <premesse_fatto>
+      <item>L'immobile oggetto della controversia è stato concesso in comodato a una Fondazione onlus per attività culturali.</item>
+      <item>Il contribuente ha dichiarato l'esenzione IMU per l'immobile, invocando l'art. 7, lett. c) del D.Lgs. 504/1992.</item>
+      <item>Il Comune di Napoli ha emesso un avviso di accertamento IMU per l'anno 2016, negando l'esenzione.</item>
+      <item>La sentenza di primo grado ha rigettato il ricorso del contribuente, ritenendo infondata la richiesta di esenzione.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7, comma 1, lett. c) e i) del D.Lgs. n. 504/1992"/>
+      <item id="D2" type="norm" ref="art. 12 del D.Lgs. n. 472/1997"/>
+      <item id="D3" type="jur" ref="Cass. Civ., sez. II, 22 marzo 1995 n. 3260, Cass. Civ., sez. V, 16 maggio 2012 n. 7663"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 7 del D.Lgs. 504/1992 per esaminare i requisiti dell'esenzione IMU, distinguendo tra la destinazione culturale vincolata (lett. c) e il possesso fiscale (lett. i).</item>
+      <item id_ref="D3">Il giudice richiama la giurisprudenza costante per confermare il principio di corrispondenza tra chiesto e pronunciato, applicabile anche in sede tributaria.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che l'esenzione di cui all'art. 7, lett. c) D.Lgs. 504/1992 richiede una destinazione vincolata e permanente a usi culturali, non dimostrata nel caso concreto. Inoltre, conferma che il possesso fiscale ai fini IMU rimane in capo al proprietario anche in caso di comodato, poiché il comodatario non assume la qualifica di possessore fiscale. La sentenza di primo grado, pur avendo travisato la norma invocata, ha correttamente negato l'esenzione per mancanza dei presupposti soggettivi e oggettivi richiesti.</ragionamento_giudice>
+    <riassunto>In subordine, la società appellante sosteneva che il possesso fiscale degli immobili (requisito per l'esenzione di cui all'art. 7, lett. i) D.L.vo 504/1992) spettasse alla Fondazione onlus comodataria, non alla stessa società proprietaria. La Corte ha rigettato l'argomento, precisando che il comodato non trasferisce il possesso fiscale, il quale permane in capo al titolare del diritto reale (proprietario). Pertanto, anche sotto questo profilo, l'esenzione non poteva essere riconosciuta.</riassunto>
+  </questione>
+</questioni>

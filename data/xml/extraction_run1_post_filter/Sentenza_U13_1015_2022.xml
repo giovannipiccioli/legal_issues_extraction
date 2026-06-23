@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Titolarità del diritto al rimborso IRBA" id="Q1">
+    <text>Se la società ricorrente, in qualità di soggetto erogatore della benzina, fosse legittimata a richiedere il rimborso dell'IRBA versata alla Regione, nonostante il soggetto passivo dell'imposta fossero i consumatori finali.</text>
+    <esito_questione favorevole_a="ufficio">La società ricorrente non è titolare del diritto al rimborso.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_1 ha presentato un'istanza di rimborso dell'IRBA versata per gli anni 2012-2020, successivamente respinta dalla Regione Piemonte.</item>
+      <item>La ricorrente sosteneva che l'IRBA sia incompatibile con la direttiva 2008/118/CE e quindi le norme nazionali e regionali dovessero essere disapplicate per i versamenti anteriori alla sua abrogazione.</item>
+      <item>La Regione Piemonte ha contestato la procedibilità del ricorso, sostenendo che il diritto al rimborso spetti ai consumatori finali, essendo questi ultimi i soggetti passivi dell'imposta, e che la ricorrente agisse senza aver prima rimborsato i consumatori.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 6, comma 1 lett. c) primo periodo, legge 14 giugno 1990 n. 158" />
+      <item id="D2" type="norm" ref="art. 3 legge regionale Piemonte 31 agosto 1993, n. 47" />
+      <item id="D3" type="jur" ref="Cassazione, Sezione III civ., 15 maggio 2018, n. 11744" />
+      <item id="D4" type="jur" ref="Cassazione, Sezione V civ., 29 ottobre 2020, n. 23883" />
+      <item id="D5" type="jur" ref="Cassazione, SS.UU. civili, 16 febbraio 2016, n. 2951" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Per chiarire che il soggetto passivo dell'IRBA è il consumatore finale e il ruolo dell'erogatore è limitato alla riscossione e al versamento dell'imposta alla Regione.</item>
+      <item id_ref="D2">Per confermare che la Regione Piemonte ha recepito la normativa nazionale, ribadendo che l'imposta è dovuta dai consumatori e riscossa dagli erogatori.</item>
+      <item id_ref="D5">Per stabilire che la legittimazione ad agire dipende dalla titolarità del diritto prospettato nella domanda, e non dalla legittimazione processuale in senso stretto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha rilevato che la normativa nazionale e regionale attribuisce il ruolo di soggetto passivo dell'IRBA esclusivamente ai consumatori finali, mentre l'erogatore svolge una mera funzione di riscossione e trasferimento del tributo. Pertanto, la ricorrente, in quanto soggetto erogatore, non può rivendicare il diritto al rimborso, poiché non è titolare del diritto azionato. La contestazione riguardava la titolarità sostanziale del diritto e non la legittimazione processuale. Per queste ragioni, il ricorso è stato rigettato.</ragionamento_giudice>
+    <riassunto>La società ricorrente, esattrice dell’IRBA, ha chiesto il rimborso delle somme versate alla Regione Piemonte per gli anni 2012-2020. L’art. 6, comma 1 lett. c) della legge 158/1990 e la l.r. Piemonte n. 47/1993 stabilivano che il soggetto passivo dell’IRBA fosse il consumatore finale, mentre il soggetto erogatore aveva solo il ruolo di esattore. Il giudice ha quindi concluso che la ricorrente, non essendo il soggetto passivo, non aveva titolo per richiedere il rimborso, rigettando la domanda per infondatezza nel merito. La contestazione della Regione riguardava la carenza di titolarità del diritto azionato, non la legittimazione ad agire in senso processuale.</riassunto>
+  </questione>
+</questioni>

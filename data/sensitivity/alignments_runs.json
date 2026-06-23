@@ -1,0 +1,960 @@
+{ "Sentenza_U09_10_2022.xml": {
+    "done": true,
+    "issueLinks": [],
+    "refLinks": {},
+    "refManual": {}
+  },
+  "Sentenza_U13_1015_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "5",
+        "x": "5"
+      }
+    }
+  },
+  "Sentenza_U17_119_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "2",
+        "n": "2",
+        "x": "2"
+      },
+      "1-1": {
+        "o": "3",
+        "n": "2",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_U24_1913_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "5",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_U75_247_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      },
+      "1-1": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_U91_11131_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      },
+      "1-1": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_U91_485_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_U91_5452_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "6",
+        "n": "8",
+        "x": "5"
+      }
+    }
+  },
+  "Sentenza_U91_9814_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      },
+      "1-1": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_U93_56_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      },
+      "1-1": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V06_822_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V10_10757_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-1": {
+        "o": "10",
+        "n": "10",
+        "x": "7"
+      }
+    }
+  },
+  "Sentenza_V10_14484_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      },
+      {
+        "o": 2,
+        "n": 2
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "4",
+        "n": "4",
+        "x": "4"
+      },
+      "1-1": {
+        "o": "3",
+        "n": "3",
+        "x": "3"
+      },
+      "2-2": {
+        "o": "3",
+        "n": "3",
+        "x": "3"
+      }
+    }
+  },
+  "Sentenza_V10_14619_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "5",
+        "n": "4",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_V10_14727_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "3",
+        "x": "3"
+      }
+    }
+  },
+  "Sentenza_V10_3453_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "2",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V10_4293_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "1",
+        "n": "1",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_V10_7264_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_V10_7817_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "2",
+        "n": "2",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V10_8090_2023.xml": {
+    "done": true,
+    "issueLinks": [],
+    "refLinks": {},
+    "refManual": {}
+  },
+  "Sentenza_V12_962_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      },
+      "1-1": {
+        "o": "",
+        "n": "",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V16_372_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "2",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_V20_830_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "",
+        "n": "",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_V20_943_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "8",
+        "n": "8",
+        "x": "8"
+      }
+    }
+  },
+  "Sentenza_V22_1763_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "3",
+        "x": "3"
+      },
+      "1-1": {
+        "o": "4",
+        "n": "4",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_V22_3848_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "7",
+        "n": "7",
+        "x": "7"
+      }
+    }
+  },
+  "Sentenza_V22_4978_2023.xml": {
+    "done": true,
+    "issueLinks": [],
+    "refLinks": {},
+    "refManual": {}
+  },
+  "Sentenza_V22_5547_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-1": {
+        "o": "11",
+        "n": "26",
+        "x": "11"
+      }
+    }
+  },
+  "Sentenza_V31_1512_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "2",
+        "n": "2",
+        "x": "2"
+      },
+      "1-1": {
+        "o": "2",
+        "n": "1",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_V31_207_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "2",
+        "n": "2",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V31_2235_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "2",
+        "x": "0"
+      }
+    }
+  },
+  "Sentenza_V40_2713_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 1,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "1-0": {
+        "o": "",
+        "n": "",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_V40_875_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "2",
+        "n": "2",
+        "x": "0"
+      },
+      "1-1": {
+        "o": "2",
+        "n": "3",
+        "x": "0"
+      }
+    }
+  },
+  "Sentenza_V40_9206_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "8",
+        "n": "9",
+        "x": "0"
+      }
+    }
+  },
+  "Sentenza_V43_3075_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "5",
+        "n": "5",
+        "x": "0"
+      }
+    }
+  },
+  "Sentenza_V43_3256_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "3",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_V43_3667_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "4",
+        "n": "4",
+        "x": "4"
+      },
+      "1-1": {
+        "o": "2",
+        "n": "2",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_V50_1992_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "5",
+        "n": "7",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_V63_169_2023.xml": {
+    "done": true,
+    "issueLinks": [],
+    "refLinks": {},
+    "refManual": {}
+  },
+  "Sentenza_Z11_370_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-1": {
+        "o": "6",
+        "n": "8",
+        "x": "6"
+      }
+    }
+  },
+  "Sentenza_Z29_1812_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 2
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "5",
+        "n": "3",
+        "x": "0"
+      },
+      "1-2": {
+        "o": "8",
+        "n": "11",
+        "x": "8"
+      }
+    }
+  },
+  "Sentenza_Z29_2235_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "1",
+        "n": "1",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_Z29_513_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "3",
+        "x": "2"
+      },
+      "1-1": {
+        "o": "5",
+        "n": "4",
+        "x": "4"
+      }
+    }
+  },
+  "Sentenza_Z29_6436_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "4",
+        "n": "3",
+        "x": "3"
+      }
+    }
+  },
+  "Sentenza_Z29_7548_2021.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "4",
+        "n": "6",
+        "x": "3"
+      },
+      "1-1": {
+        "o": "2",
+        "n": "2",
+        "x": "2"
+      }
+    }
+  },
+  "Sentenza_Z29_7978_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "1",
+        "n": "1",
+        "x": "1"
+      }
+    }
+  },
+  "Sentenza_Z31_3048_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "3",
+        "n": "3",
+        "x": "3"
+      }
+    }
+  },
+  "Sentenza_Z31_3163_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 0,
+        "n": 0
+      },
+      {
+        "o": 1,
+        "n": 1
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "0-0": {
+        "o": "10",
+        "n": "11",
+        "x": "9"
+      },
+      "1-1": {
+        "o": "5",
+        "n": "7",
+        "x": "5"
+      }
+    }
+  },
+  "Sentenza_Z46_8006_2023.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 1,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "1-0": {
+        "o": "9",
+        "n": "11",
+        "x": "7"
+      }
+    }
+  },
+  "Sentenza_Z55_4587_2022.xml": {
+    "done": true,
+    "issueLinks": [
+      {
+        "o": 1,
+        "n": 1
+      },
+      {
+        "o": 0,
+        "n": 0
+      }
+    ],
+    "refLinks": {},
+    "refManual": {
+      "1-1": {
+        "o": "2",
+        "n": "2",
+        "x": "1"
+      },
+      "0-0": {
+        "o": "1",
+        "n": "2",
+        "x": "0"
+      }
+    }
+  }
+}

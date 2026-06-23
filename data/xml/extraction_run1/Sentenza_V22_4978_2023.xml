@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità della notifica telematica del ricorso" id="Q1">
+    <text>Se la notifica telematica del ricorso sia valida quando l'indirizzo PEC indicato appartenga a un soggetto diverso dall'effettivo destinatario.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è inesistente e il ricorso è inammissibile.</esito_questione>
+    <premesse_fatto>
+      <item>La ricorrente ha notificato il ricorso all'Agenzia delle Entrate-Riscossione via PEC all'indirizzo Email_4.</item>
+      <item>L'indirizzo PEC Email_4 appartiene all'Agenzia delle Entrate - Direzione provinciale di Cosenza, non all'Agenzia delle Entrate-Riscossione.</item>
+      <item>L'Agenzia delle Entrate-Riscossione non si è costituita in giudizio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio del contraddittorio"/>
+      <item id="D2" type="norm" ref="art. 137 c.p.c. (notificazioni)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice lo cita per sottolineare che la mancata costituzione della controparte impedisce l'instaurazione di un valido contraddittorio.</item>
+      <item id_ref="D2">Indica il quadro normativo generale per la validità delle notifiche, non applicabile per errore sostanziale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice osserva che l'indirizzo PEC utilizzato è errato e non corrisponde all'effettivo destinatario del ricorso (Agenzia delle Entrate-Riscossione). Ciò rende la notifica inesistente perché non ha raggiunto il soggetto legittimato a costituirsi. Senza prova della ricezione da parte del destinatario, il contraddittorio non è validamente instaurato. Conseguentemente, il ricorso è dichiarato inammissibile senza necessità di esaminare il merito.
+    </ragionamento_giudice>
+    <riassunto>
+      La ricorrente ha notificato un ricorso tributario via PEC a un indirizzo erroneo, appartenente a un ufficio diverso dall'Agenzia delle Entrate-Riscossione, destinataria effettiva. Il giudice, rilevata l'inesistenza della notifica per mancata raggiungibilità del soggetto obbligato, dichiara inammissibile il ricorso. La decisione si basa sul principio del contraddittorio e sulla normativa in materia di notifiche, poiché l'errore sull'indirizzo impedisce la validità del rapporto processuale. Le spese sono compensate per la natura formale della questione.
+    </riassunto>
+  </questione>
+</questioni>

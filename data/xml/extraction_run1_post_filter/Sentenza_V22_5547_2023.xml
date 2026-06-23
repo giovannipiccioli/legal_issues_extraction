@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Presunzione di vantaggiosità dell'attività di bonifica e onere della prova" id="Q1">
+    <text>Se il contribuente non abbia impugnato il piano di classifica del Consorzio di bonifica, e i suoi fondi siano inclusi nel perimetro consortile, gravi su di lui l'onere di provare l'assenza di vantaggi diretti e specifici derivanti dalle opere di bonifica.</text>
+    <esito_questione favorevole_a="ufficio">Sì, grava sul contribuente l'onere di provare l'assenza di vantaggi.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato l'informativa n. 9639296 del 17/08/2021 relativa al contributo consortile per l'anno 2020, affermando l'insussistenza del dovere di contribuzione.</item>
+      <item>Il fondo del contribuente è incluso nel perimetro consortile e nel piano di classifica approvato con delibera del Consiglio Regionale n.198 del 04/05/2017.</item>
+      <item>Il contribuente non ha impugnato il piano di classifica prima della contestazione dell'informativa.</item>
+      <item>Il contribuente non ha fornito prove concrete dell'assenza di vantaggi diretti e specifici derivanti dalle opere di bonifica.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. Sez. Un. n. 26009/2008, Cass. n. 11722/2010, Cass. n. 9511/2018, Cass. n. 24356/2016, Cass. n. 24070/2014, Cass. n. 654/2012, Cass. n. 22176/2023" />
+      <item id="D2" type="norm" ref="art. 860 c.c." />
+      <item id="D3" type="norm" ref="art. 10 R.D. 13 febbraio 1933, n. 215" />
+      <item id="D4" type="norm" ref="art. 2697 c.c." />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La giurisprudenza consolidata afferma la presunzione di vantaggiosità delle opere di bonifica per i fondi inclusi nel perimetro consortile, con onere della prova a carico del contribuente se il piano di classifica non è stato impugnato.</item>
+      <item id_ref="D2">L'articolo 860 c.c. costituisce il fondamento normativo del principio secondo cui le opere di bonifica generano un vantaggio diretto e immediato per i fondi interessati.</item>
+      <item id_ref="D3">L'art. 10 del R.D. n. 215/1933 disciplina l'obbligo contributivo in relazione ai benefici derivanti dalle opere di bonifica, rafforzando la presunzione di vantaggiosità.</item>
+      <item id_ref="D4">L'art. 2697 c.c. regola l'onere della prova, applicabile qualora il contribuente contesti la vantaggiosità delle opere.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice rileva che, in base alla giurisprudenza citata e agli artt. 860 c.c. e 10 R.D. 215/1933, l'inclusione del fondo nel perimetro consortile e l'approvazione del piano di classifica generano una presunzione juris tantum di vantaggiosità. Poiché il contribuente non ha impugnato il piano di classifica e non ha fornito prove specifiche dell'assenza di benefici, l'onere della prova grava su di lui. Le mere affermazioni generiche non sono sufficienti a superare tale presunzione. Pertanto, la richiesta di pagamento del contributo è legittima e fondata.
+</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato la richiesta di pagamento di un contributo consortile per l’anno 2020, sostenendo l’insussistenza del dovere contributivo. Il giudice ha rilevato che i fondi del contribuente rientravano nel perimetro consortile e che il piano di classifica, approvato dalla regione, non era stato impugnato. Ai sensi degli artt. 860 c.c. e 10 R.D. n. 215/1933, l’approvazione del piano di classifica ingenera una presunzione di vantaggiosità (juris tantum) a carico del contribuente, salvo prova contraria. Poiché il contribuente non ha fornito elementi probatori per superare tale presunzione, il giudice ha rigettato il ricorso, confermando la legittimità della richiesta di pagamento.</riassunto>
+  </questione>
+  <questione title="Motivazione dell’atto impositivo nella richiesta di pagamento" id="Q2">
+    <text>Se una richiesta di pagamento di un contributo consortile, quale primo atto impositivo, debba essere motivata in modo autonomo o se possa rinviare a un presupposto già noto al contribuente.</text>
+    <esito_questione favorevole_a="ufficio">L’atto può rinviare a presupposti già noti al contribuente, purché ne indichi gli estremi.</esito_questione>
+    <premesse_fatto>
+      <item>Il Consorzio di Bonifica ha emesso una richiesta di pagamento (informativa n. 9639296 del 17/08/2021) relativa al contributo consortile per l'anno 2020.</item>
+      <item>La richiesta di pagamento costituisce il primo ed unico atto impositivo notificato al contribuente.</item>
+      <item>Il contribuente ha impugnato l'atto lamentando la mancanza di motivazione autonoma e l'assenza del presupposto impositivo.</item>
+      <item>Il Piano di classifica, approvato con delibera del Consiglio Regionale n.198 del 04/05/2017, era stato pubblicato e reso noto al contribuente.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. civ., Sez. Unite, Sent., 14/05/2010, n. 11722" />
+      <item id="D2" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 10" />
+      <item id="D3" type="norm" ref="R.D. 13 febbraio 1933, n. 215, art. 21" />
+      <item id="D5" type="norm" ref="L. 27 luglio 2000, n. 212, art. 7, comma 1 (Statuto del contribuente)" />
+      <item id="D6" type="jur" ref="Cass. civ., Sez. V, Ordinanza, 24/07/2023, n. 22176" />
+      <item id="D7" type="jur" ref="Cass. civ., Sez. I, Sentenza, 20/11/2015, n. 23815" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione stabilisce che la motivazione dell'atto impositivo può avvenire per relationem se il contribuente ha già conoscenza dell'atto presupposto.</item>
+      <item id_ref="D2">Norma fondamentale per la presunzione di vantaggiosità delle opere di bonifica per i fondi inclusi nel perimetro consortile.</item>
+      <item id_ref="D3">Disciplina la natura dei contributi consortili come oneri reali.</item>
+      <item id_ref="D5">Lo Statuto del contribuente richiede una motivazione non meramente formale, ma sostanziale dell'atto impositivo.</item>
+      <item id_ref="D6">Conferma la presunzione di vantaggio derivante dall'inclusione nel Piano di classifica e l'onere probatorio a carico del contribuente.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la richiesta di pagamento, pur essendo il primo atto impositivo, fosse sufficientemente motivata mediante rinvio al Piano di classifica, già noto al contribuente e approvato con delibera regionale. La giurisprudenza consolidata (D1, D6) ammette tale modalità di motivazione purché siano indicati gli estremi dell'atto presupposto. Inoltre, l'inclusione del fondo nel perimetro consortile (D2, D3) genera una presunzione di vantaggiosità, spettando al contribuente provare il contrario. Poiché il Piano non era stato impugnato e il contribuente non ha fornito prove contrarie, la pretesa contributiva è legittima.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito il difetto di motivazione dell’avviso di pagamento del contributo consortile. Il giudice ha applicato l’art. 7 della L. 212/2000 (Statuto del contribuente), secondo cui la motivazione può essere assolta per relationem a un atto presupposto già noto al contribuente, purché ne siano indicati gli estremi. Nel caso, il piano di classifica era stato pubblicato e approvato, e il contribuente ne aveva conoscenza, tant’è che aveva contestato il merito della pretesa. Il collegio ha quindi ritenuto sufficiente il rinvio agli atti presupposti, escludendo la nullità dell’avviso per carenza di motivazione.</riassunto>
+  </questione>
+</questioni>

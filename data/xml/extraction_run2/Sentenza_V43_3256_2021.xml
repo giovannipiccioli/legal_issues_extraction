@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimità della notifica dell'intimazione di pagamento TARI" id="Q1">
+    <text>Se la notifica dell'intimazione di pagamento della TARI per gli anni 2015-2016 sia da considerarsi valida nonostante le eccezioni sollevate dal contribuente.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è valida e regolare.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente non ha effettuato il versamento della TARI per gli anni 2015 e 2016.</item>
+      <item>L'intimazione di pagamento è stata notificata nel 2020.</item>
+      <item>Il contribuente ha eccepito l'inesistenza della notifica e la presunta illegittimità per difetto di sottoscrizione.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 82 legge 54/1995"/>
+      <item id="D2" type="norm" ref="art. 72 comma 1 D.Lgs 507/1993"/>
+      <item id="D3" type="norm" ref="art. 70 comma 2 D.Lgs 507/1993"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 82 legge 54/1995 per confermare che la firma meccanizzata sull'atto è valida e sostituisce quella autografa.</item>
+      <item id_ref="D2">L'art. 72 comma 1 D.Lgs 507/1993 è citato per dimostrare che la riscossione del tributo è avvenuta secondo le norme vigenti.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la notifica sia valida poiché eseguita entro il termine quinquennale previsto dalla legge. La firma meccanizzata è conforme all'art. 82 legge 54/1995, e la riscossione è avvenuta secondo le norme di cui all'art. 72 D.Lgs 507/1993. Inoltre, il contribuente non ha presentato denunce di variazione ai sensi dell'art. 70 comma 2 D.Lgs 507/1993, confermando la regolarità dell'operato dell'ufficio.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato la notifica dell'intimazione di pagamento della TARI per gli anni 2015-2016, eccependo l'inesistenza della notifica e la illegittimità della firma. Il giudice ha ritenuto la notifica valida, essendo stata eseguita entro il termine quinquennale e la firma meccanizzata conforme all'art. 82 legge 54/1995. La riscossione è avvenuta secondo l'art. 72 D.Lgs 507/1993, e il contribuente non ha presentato denunce di variazione ai sensi dell'art. 70 comma 2 dello stesso decreto. Il ricorso è stato quindi rigettato.</riassunto>
+  </questione>
+</questioni>

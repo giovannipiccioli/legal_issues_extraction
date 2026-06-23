@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità della notifica a mezzo PEC da indirizzo non presente in pubblici elenchi" id="Q1">
+    <text>Se la notifica di una cartella di pagamento avvenga a mezzo PEC da un indirizzo non registrato in pubblici elenchi, tale notifica sia da considerarsi giuridicamente inesistente o solo annullabile.</text>
+    <esito_questione favorevole_a="ufficio">La notifica tramite PEC, anche se proveniente da indirizzo non presente in pubblici elenchi, è valida se il destinatario ne ha avuto effettiva conoscenza e non sussistono dubbi sulla provenienza e sull'oggetto del messaggio.</esito_questione>
+    <premesse_fatto>
+      <item>Notifica delle cartelle di pagamento tramite PEC da indirizzo non registrato in pubblici elenchi.</item>
+      <item>La ricorrente ha avuto effettiva conoscenza della notifica, come dimostrato dalla proposizione del ricorso.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 26 DPR n. 602/1973" />
+      <item id="D2" type="jur" ref="Cassazione n. 15979/2022" />
+      <item id="D3" type="norm" ref="art. 160 c.p.c." />
+      <item id="D4" type="norm" ref="art. 156, comma 3, c.p.c." />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina della notifica tramite PEC come mezzo ammesso dalla legge.</item>
+      <item id_ref="D2">Affermazione della validità della notifica anche se l'indirizzo PEC non figura in pubblici elenchi, purché non vi sia incertezza sulla provenienza e sull'oggetto.</item>
+      <item id_ref="D3">Possibilità di sanatoria di vizi di forma con la tempestiva proposizione del ricorso.</item>
+      <item id_ref="D4">Principio di sanatoria delle nullità processuali.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che la notifica tramite PEC, sebbene effettuata da un indirizzo non registrato in pubblici elenchi, non può considerarsi inesistente, essendo un mezzo ammesso dalla legge (art. 26 DPR n. 602/1973). La Cassazione (n. 15979/2022) ha escluso la nullità in casi analoghi, purché non vi sia incertezza sulla provenienza e sull'oggetto. Inoltre, eventuali vizi di forma sono sanabili con la proposizione tempestiva del ricorso (art. 160 e 156, comma 3, c.p.c.). Poiché la ricorrente ha avuto effettiva conoscenza della notifica, il vizio è sanato.</ragionamento_giudice>
+    <riassunto>La ricorrente contesta la validità della notifica delle cartelle di pagamento, effettuata tramite PEC da indirizzo non registrato in pubblici elenchi, sostenendone l'inesistenza giuridica. Il giudice respinge tale argomento, rilevando che la notifica è valida se il destinatario ne ha avuto conoscenza e non vi sono dubbi su provenienza e oggetto (art. 26 DPR n. 602/1973; Cass. n. 15979/2022). Eventuali vizi sono sanabili con la proposizione del ricorso (art. 160 e 156, comma 3, c.p.c.). La notifica è dunque ritenuta efficace.</riassunto>
+  </questione>
+  <questione title="Dovuta l'imposta comunale di pubblicità per insegna di esercizio" id="Q2">
+    <text>Se l'imposta comunale di pubblicità sia dovuta per un'insegna installata senza autorizzazione, la cui superficie sia inferiore a cinque metri quadrati e non finalizzata a promuovere l'attività economica.</text>
+    <esito_questione favorevole_a="ufficio">L'imposta è dovuta, poiché la ricorrente non ha fornito prove documentali a sostegno delle proprie affermazioni e non ha contestato tempestivamente gli avvisi di accertamento.</esito_questione>
+    <premesse_fatto>
+      <item>Installazione di tre impianti pubblicitari senza autorizzazione dal 2015.</item>
+      <item>Avvisi di accertamento regolarmente notificati negli anni 2015, 2016 e 2017, senza reclami da parte della ricorrente.</item>
+      <item>Mancanza di documentazione fornita dalla ricorrente a sostegno delle proprie ragioni.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 17, comma 1 bis, d.lgs. n. 507/1993" />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina derogatoria per insegne di esercizio con superficie inferiore a cinque metri quadrati.</item>
+      </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la ricorrente non ha prodotto documentazione a sostegno delle proprie affermazioni (superficie inferiore a 5 m² e non finalità promozionale). Il Comune ha dimostrato l'installazione abusiva e la mancata contestazione degli avvisi di accertamento. L'art. 17, comma 1 bis, d.lgs. n. 507/1993 non si applica per mancanza di prova. Inoltre, la dichiarazione di pubblicità produce effetti per gli anni successivi senza denuncia di cessazione (principio di conservazione). La pretesa tributaria è dunque fondata.</ragionamento_giudice>
+    <riassunto>La ricorrente sostiene che l'imposta di pubblicità non sia dovuta per un'insegna con superficie inferiore a 5 m² e senza scopo promozionale (art. 17, comma 1 bis, d.lgs. n. 507/1993). Tuttavia, non ha fornito prove documentali e non ha contestato tempestivamente gli avvisi di accertamento. Il Comune ha provato l'installazione abusiva e l'assenza di denuncia di cessazione. Il giudice rigetta l'eccezione, confermando la legittimità dell'imposta.</riassunto>
+  </questione>
+</questioni>

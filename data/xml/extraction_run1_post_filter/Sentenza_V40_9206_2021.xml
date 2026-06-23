@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Esenzione IMU per terreni agricoli e requisiti soggettivi" id="Q1">
+    <text>Se il contribuente possieda i requisiti soggettivi (coltivatore diretto o imprenditore agricolo iscritto alla previdenza agricola) e oggettivi (ubicazione del terreno in comune montano o parzialmente montano) per beneficiare dell'esenzione IMU sui terreni agricoli per l'anno 2014.</text>
+    <esito_questione favorevole_a="ufficio">L'esenzione non è dovuta poiché il contribuente non ha provato di possedere i requisiti soggettivi e il Comune di Mineo non rientra tra i comuni montani.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente sosteneva di essere imprenditore agricolo e coltivatore diretto dei propri terreni nel 2014, affermando l'esenzione IMU.</item>
+      <item>Il Comune di Mineo ha contestato la mancanza di prove dei requisiti soggettivi (coltivatore diretto o iscritto alla previdenza agricola) e ha negato l'esenzione con provvedimento del 20/7/2015.</item>
+      <item>Il ricorrente ha prodotto documentazione relativa all'anno 2016, ma non per l'anno 2014.</item>
+      <item>Il Comune di Mineo è ubicato a un'altitudine di 511 metri s.l.m. e non è classificato come comune montano o parzialmente montano secondo l'elenco ISTAT.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7, comma 1, lett. h, dlgs n. 504/1992" />
+      <item id="D2" type="norm" ref="art. 9, comma 8, dlgs n. 23/2011" />
+      <item id="D3" type="norm" ref="art. 13, dl n. 201/2011 conv. da l. n. 214/2011" />
+      <item id="D4" type="norm" ref="art. 4, comma 5-bis, dl n. 16/2012 conv. da l. n. 44/2012" />
+      <item id="D5" type="norm" ref="art. 22, comma 2, dl n. 66/2014 conv. da l. n. 143/2014" />
+      <item id="D6" type="norm" ref="D.M. 28 novembre 2014" />
+      <item id="D7" type="norm" ref="art. 1, comma 1 e 4, dl n. 4/2015 conv. da l. n. 34/2015" />
+      <item id="D8" type="jur" ref="Cassazione n. 17/2018" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina l'esenzione ICI per terreni agricoli in comuni montani, estesa poi all'IMU.</item>
+      <item id_ref="D6">Specifica i criteri altimetrici per l'esenzione IMU e i requisiti soggettivi per i coltivatori diretti.</item>
+      <item id_ref="D7">Definisce l'estensione dell'esenzione IMU per comuni totalmente o parzialmente montani nel 2014.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che l'esenzione IMU per terreni agricoli nel 2014 richiedeva: (1) la qualifica di coltivatore diretto o imprenditore agricolo iscritto alla previdenza agricola, non dimostrata dal ricorrente per l'anno 2014, e (2) l'ubicazione del terreno in un comune montano o parzialmente montano, mentre Mineo (511 m s.l.m.) non rientra tra questi. Il regolamento comunale non può derogare alle norme statali. Pertanto, l'esenzione è negata.</ragionamento_giudice>
+    <riassunto>Il ricorrente, proprietario di terreni agricoli nel Comune di Mineo (altitudine 511 m s.l.m.), sosteneva di avere diritto all'esenzione IMU per l'anno 2014 in qualità di coltivatore diretto e in base a un regolamento comunale. Tuttavia, non ha dimostrato di essere iscritto alla previdenza agricola nell'anno rilevante (2014), e Mineo non figura tra i comuni montani o parzialmente montani secondo l'elenco ISTAT. Il giudice ha applicato le norme primarie (D.Lgs. 504/1992, D.M. 28/11/2014, D.L. 4/2015), escludendo l'esenzione per mancanza di requisiti soggettivi e oggettivi, e ha ritenuto irrilevante il regolamento comunale in quanto contrastante con la normativa statale.</riassunto>
+  </questione>
+</questioni>

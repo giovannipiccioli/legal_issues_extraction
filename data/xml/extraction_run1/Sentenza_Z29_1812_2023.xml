@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Ammissibilità dell'appello" id="Q1">
+    <text>Se l'appello sia ammissibile nonostante la mancanza di nuove argomentazioni rispetto a quelle già esaminate in primo grado.</text>
+    <esito_questione favorevole_a="ufficio">L'appello è ammissibile.</esito_questione>
+    <premesse_fatto>
+      <item>L'appellante ha proposto appello rispetto alla sentenza di primo grado n. 1192/2021, senza introdurre nuove argomentazioni giuridiche o fattuali rispetto a quelle già esaminate in primo grado.</item>
+      <item>L'ufficio ha eccepito l'illegittimità dell'appello per mancanza di nuovi elementi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione civile n. 3115/2018, Cassazione civile n. 24464/2020"/>
+      <item id="D2" type="norm" ref="art. 345 c.p.c."/>
+      <item id="D3" type="norm" ref="art. 342 c.p.c."/>
+      <item id="D4" type="norm" ref="art. 434 c.p.c."/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita la giurisprudenza della Cassazione per affermare che l'appello non richiede l'introduzione di nuovi argomenti rispetto al primo grado, purché vi sia una chiara contestazione dei punti impugnati.</item>
+      <item id_ref="D2">L'art. 345 c.p.c. viene richiamato per escludere che l'appello debba contenere novità rispetto al primo grado (divieto di nova).</item>
+      <item id_ref="D3">L'art. 342 c.p.c. è citato in relazione alla necessità che l'impugnazione contenga una chiara individuazione delle questioni contestate.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il Collegio rileva che l'appello è ammissibile poiché rispetta i requisiti formali di individuazione delle questioni impugnate e delle relative doglianze, conformemente agli artt. 342 e 434 c.p.c. e alla giurisprudenza dominante (Cass. 3115/18 e 24464/20). Il giudizio di appello mantiene natura di "revisio prioris instantiae" e non richiede un progetto alternativo di decisione né nuove argomentazioni. L'art. 345 c.p.c. vieta l'introduzione di elementi totalmente nuovi, ma non impedisce la riproposizione delle stesse tesi già avanzate in primo grado.</ragionamento_giudice>
+    <riassunto>Il contribuente ha proposto appello senza introdurre nuove argomentazioni rispetto a quelle già esaminate in primo grado. Il giudice, richiamando la giurisprudenza prevalente (Cass. civ. 3115/18 e 24464/20), ha ritenuto ammissibile l'appello in quanto l'art. 345 c.p.c. non impone l'introduzione di elementi nuovi e ha confermato la natura di "revisio prioris instantiae" del giudizio di appello. La doglianza è stata quindi dichiarata infondata.</riassunto>
+  </questione>
+  <questione title="Legittimità della cartella di pagamento per crediti inesistenti" id="Q2">
+    <text>Se la cartella di pagamento sia legittima nonostante il ricorso a crediti inesistenti per la compensazione.</text>
+    <esito_questione favorevole_a="ufficio">La cartella di pagamento è legittima.</esito_questione>
+    <premesse_fatto>
+      <item>La cartella di pagamento n. 07120190085077005 è stata emessa per il recupero di € 156.666,02 relativi a crediti inesistenti utilizzati in compensazione nell’annualità 2016.</item>
+      <item>Il contribuente aveva già impugnato l’avviso di recupero TF3CR0500182/2018, rigettato dalla C.T.P. di Napoli con sentenza n. 7441/2019 e confermato dalla C.T.R. Campania con sentenza n. 3498/24/21.</item>
+      <item>La cartella è stata notificata il 18.07.2019, prima della scadenza del termine di un anno dall’avviso di recupero notificato il 22.11.2018.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 27 d.lgs. n. 185/2008"/>
+      <item id="D2" type="jur" ref="Cass. civ. n. 3115/2018, Cass. civ. n. 24464/2020"/>
+      <item id="D3" type="jur" ref="Cass. n. 14700/2001"/>
+      <item id="D4" type="norm" ref="art. 12 d.p.r. n. 602/1973"/>
+      <item id="D5" type="norm" ref="art. 21-octies l. n. 241/1990"/>
+      <item id="D6" type="jur" ref="Cass. n. 7800/2020, Cass. n. 8081/2020"/>
+      <item id="D7" type="norm" ref="art. 50 comma 2 d.p.r. n. 602/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La norma disciplina la riscossione coattiva e giustifica l’iscrizione a ruolo dell’intero importo per crediti disconosciuti.</item>
+      <item id_ref="D3">La giurisprudenza definisce i requisiti di motivazione sufficiente degli atti impositivi, applicabile alla cartella.</item>
+      <item id_ref="D4">La norma regola i requisiti formali del ruolo, escludendo la necessità di sottoscrizione come elemento essenziale.</item>
+      <item id_ref="D6">Le sentenze confermano che la mancata sottoscrizione della cartella non ne inficia la legittimità.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ritiene legittima la cartella di pagamento, confermando la decisione di primo grado. Il recupero dei crediti inesistenti è giustificato dall’art. 27 d.lgs. 185/2008, che consente l’iscrizione a ruolo senza frazionamento. La motivazione dell’atto è sufficiente secondo Cass. 14700/2001, poiché il contribuente era in grado di contestarla. L’omessa sottoscrizione del ruolo non è rilevante (art. 12 d.p.r. 602/1973; Cass. 7800/2020), e la cartella è valida nonostante la mancanza di firma leggibile. La notifica è tempestiva (art. 50 d.p.r. 602/1973). Tutte le doglianze sono infondate.
+</ragionamento_giudice>
+    <riassunto>L'Ufficio ha emesso una cartella di pagamento per recuperare somme compensate indebitamente con crediti inesistenti nel 2016. Il giudice ha confermato la legittimità dell'atto, basandosi sull'art. 27 del D.Lgs. n. 185/2008 e sulla giurisprudenza che esclude il frazionamento del recupero in tali casi. Poiché l'avviso di recupero era già stato confermato in precedenti giudizi (sentenze n. 7441/21/19 e n. 3498/24/21), la cartella è stata ritenuta valida.</riassunto>
+  </questione>
+</questioni>

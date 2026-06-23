@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità della notifica dell'appello" id="Q1">
+    <text>Se la notifica dell'appello sia valida nonostante sia stata effettuata presso la sede della società anziché presso il procuratore costituito in giudizio.</text>
+    <esito_questione favorevole_a="contribuente">La nullità della notifica è sanata dalla costituzione in giudizio della parte destinataria.</esito_questione>
+    <premesse_fatto>
+      <item>L'appello è stato notificato presso la sede della società MUNICIPIA S.p.a. anziché presso il procuratore costituito in giudizio.</item>
+      <item>La notifica è avvenuta a mezzo posta.</item>
+      <item>La società destinataria si è costituita in giudizio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 14539/2001" />
+      <item id="D2" type="norm" ref="art. 330 cod. proc. civ." />
+      <item id="D3" type="norm" ref="art. 58 comma 2 dlgs n. 546/1992" />
+      <item id="D4" type="jur" ref="Cassazione n. 7329/2003" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione afferma che la nullità della notifica per violazione dell'art. 330 c.p.c. è sanata dalla costituzione in giudizio della parte destinataria, poiché l'atto ha raggiunto il suo scopo.</item>
+      <item id_ref="D3">Il giudice cita l'art. 58 dlgs 546/1992 per confermare la legittimità del deposito di nuovi documenti in appello, come sostenuto anche dalla Cassazione in sentenza 7329/2003.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la notifica dell'appello presso la sede sociale anziché presso il procuratore costituito sia nulla ma non inesistente, e tale nullità è sanata ex tunc dalla costituzione in giudizio della società destinataria, in linea con il principio stabilito dalla Cassazione (D1). La notifica postale è ritenuta valida, poiché il contraddittorio è stato esercitato. Inoltre, il deposito di documenti in appello è ammesso ai sensi dell'art. 58 dlgs 546/1992 (D3), come confermato dalla giurisprudenza (D4). Pertanto, l'eccezione di inammissibilità è respinta.</ragionamento_giudice>
+    <riassunto>La società MUNICIPIA S.p.a. ha notificato l'appello presso la propria sede anziché presso il procuratore costituito in giudizio. La Commissione Tributaria Regionale, richiamando la sentenza n. 14539/2001 delle Sezioni Unite della Cassazione, ha stabilito che tale nullità è sanabile con la costituzione in giudizio della parte destinataria, poiché l'atto ha comunque raggiunto il suo scopo. La notifica a mezzo posta è stata ritenuta valida, considerato il pieno esercizio del contraddittorio tra le parti.</riassunto>
+  </questione>
+  <questione title="Validità della notifica dell'ingiunzione di pagamento" id="Q2">
+    <text>Se la notifica dell'ingiunzione di pagamento sia regolare nonostante il mancato ritiro dell'atto da parte del destinatario.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è irrituale per mancata produzione dell'avviso di ricevimento della raccomandata relativa alla comunicazione di deposito.</esito_questione>
+    <premesse_fatto>
+      <item>L'appellante ha depositato l'ingiunzione di pagamento con allegata la cartolina postale di ricevimento, in cui risulta annotato il deposito del plico presso l'Ufficio Postale e l'invio di una raccomandata contenente la comunicazione di avvenuto deposito.</item>
+      <item>La cartolina postale presenta un timbro "atto in giacenza ... trascorsa giacenza", indicando che l'atto non è stato ritirato presso l'Ufficio Postale ma restituito al mittente per decorso del termine di giacenza.</item>
+      <item>L'appellante non ha prodotto l'avviso di ricevimento della raccomandata relativa alla comunicazione di deposito.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 10012/2021 (Sezioni Unite)" />
+      <item id="D2" type="norm" ref="legge n. 890 del 1982" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza delle Sezioni Unite stabilisce che, in caso di notifica postale per compiuta giacenza, la prova del perfezionamento della notifica richiede la produzione dell'avviso di ricevimento della raccomandata che comunica l'avvenuto deposito dell'atto presso l'ufficio postale (CAD).</item>
+      <item id_ref="D2">La legge n. 890/1982 disciplina le modalità di notifica tramite servizio postale, richiedendo la completa documentazione degli atti notificati.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica il principio stabilito dalle Sezioni Unite (Cass. n. 10012/2021), secondo cui la notifica postale si considera regolare solo se accompagnata dalla prova dell'avvenuta consegna della comunicazione di deposito (CAD). Poiché l'appellante non ha prodotto l'avviso di ricevimento della raccomandata relativa alla comunicazione di deposito, la notifica dell'ingiunzione è dichiarata irrituale. Conseguentemente, l'appello è rigettato per mancanza di un requisito essenziale di validità della notifica.</ragionamento_giudice>
+    <riassunto>MUNICIPIA S.p.a. ha depositato l'ingiunzione di pagamento con allegata la cartolina postale di ricevimento, ma non ha prodotto l'avviso di ricevimento della raccomandata relativa alla comunicazione di deposito. La Commissione, richiamando la sentenza n. 10012/2021 delle Sezioni Unite della Cassazione, ha affermato che la prova del perfezionamento della notifica richiede la produzione dell'avviso di ricevimento della raccomandata di deposito. Pertanto, la notifica è stata ritenuta irrituale e l'appello è stato rigettato.</riassunto>
+  </questione>
+</questioni>

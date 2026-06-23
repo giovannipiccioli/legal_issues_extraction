@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità dell'accertamento del maggior reddito di partecipazione" id="Q1">
+    <text>Se l'Ufficio abbia legittimamente accertato un maggior reddito di partecipazione del socio basandosi sull'accertamento del maggior reddito d'impresa della società, senza considerare ulteriori costi deducibili.</text>
+    <esito_questione favorevole_a="ufficio">L'accertamento è valido, poiché la società non ha dimostrato l'esistenza di ulteriori costi deducibili.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha accertato un maggior reddito di impresa pari a € 66.984,00 per la società "Società_1" con avviso n. TVH03A300008/2021.</item>
+      <item>Il ricorrente, titolare di una quota del 5% nella società "Società_1", ha ricevuto un avviso di accertamento per un maggior reddito di partecipazione pari a € 3.349,00 (5% del maggior reddito della società).</item>
+      <item>Il ricorrente contesta la mancata considerazione da parte dell'Ufficio di ulteriori costi deducibili, sostenendo che i maggiori ricavi non corrispondono necessariamente a un maggior reddito netto distribuibile.</item>
+      <item>La società "Società_1" non ha dimostrato l'esistenza di ulteriori costi deducibili mediante documentazione idonea (es. fatture, registri IVA completi, estratti conto bancari).</item>
+      <item>La Corte aveva già rigettato il ricorso della società "Società_1" con sentenza del 13/4/2022, confermando la correttezza dell'accertamento dell'Ufficio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 372/2022" />
+      <item id="D3" type="norm" ref="D.L. n. 83/2012 (obblighi documentali)" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza Cassazione n. 372/2022 conferma l'obbligo di dimostrare i costi deducibili con documentazione idonea, applicabile al caso in esame per analogia.</item>
+      </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene valido l'accertamento del maggior reddito di partecipazione poiché la società non ha fornito prova documentale (fatture, registri completi, estratti conto) degli ulteriori costi deducibili. La precedente sentenza n. 372/2022 ha già stabilito l'infondatezza delle contestazioni sollevate dalla società "Società_1", le quali sono similmente riproposte dal socio. L'Ufficio ha correttamente attribuito il maggior reddito proporzionalmente alla quota societaria, in assenza di elementi concreti che giustifichino una diversa quantificazione.</ragionamento_giudice>
+    <riassunto>L'Agenzia delle Entrate ha accertato un maggior reddito di impresa per la Società_1 e, di conseguenza, un maggior reddito di partecipazione per il socio Ricorrente_1. Il ricorrente ha contestato l'accertamento, sostenendo che l'Ufficio non abbia considerato tutti i costi deducibili. La Corte ha rilevato che la documentazione prodotta dalla società (registri IVA, fatture) era incompleta e non conforme alla legge, rendendo impossibile verificare l'effettiva deducibilità dei costi. Pertanto, ha confermato la validità dell'accertamento, poiché la società non ha provato l'esistenza di ulteriori costi. La questione è stata decisa sulla base degli artt. 109 e 110 del TUIR e della giurisprudenza in materia di onere della prova in sede tributaria.</riassunto>
+  </questione>
+  <questione title="Sospensione del processo in attesa della definizione del giudizio societario" id="Q2">
+    <text>Se il giudizio relativo all'accertamento del maggior reddito del socio debba essere sospeso in attesa della definizione del giudizio avanti alla Commissione Tributaria riguardante l'accertamento societario.</text>
+    <esito_questione favorevole_a="ufficio">La sospensione non è necessaria, poiché il giudizio societario è già stato definito con sentenza passata in giudicato.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha accertato un maggior reddito di impresa pari a € 66.984,00 a carico della società "Società_1" con avviso di accertamento n. TVH03A300008/2021.</item>
+      <item>L'Agenzia delle Entrate ha notificato al Ricorrente_1, socio al 5% di "Società_1", un atto impositivo per un maggior reddito di partecipazione di € 3.349,00, derivante dall'accertamento societario.</item>
+      <item>Il Ricorrente_1 ha chiesto la sospensione del processo in attesa della definizione del giudizio avverso l'accertamento societario presso la Commissione Tributaria Provinciale di Brindisi.</item>
+      <item>La Corte ha già definito con sentenza passata in giudicato (13/4/2022) il giudizio societario, rigettando il ricorso di "Società_1" per mancanza di prova documentale sui costi dedotti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 295 c.p.c." />
+      <item id="D2" type="jur" ref="Cassazione n. 372/2022" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l’art. 295 c.p.c. per valutare la richiesta di sospensione del processo in attesa della definizione del giudizio societario.</item>
+      <item id_ref="D2">La sentenza n. 372/2022 dimostra che il giudizio societario è già definito in giudicato, rendendo irrilevante la sospensione richiesta.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che la richiesta di sospensione ex art. 295 c.p.c. è infondata poiché il giudizio societario si è già concluso con sentenza passata in giudicato (13/4/2022), che ha rigettato il ricorso di "Società_1" per insussistenza di prove documentali sui costi dedotti. Pertanto, non sussistono presupposti per sospendere il processo, essendo già accertata la definitività del giudizio societario. La decisione sul caso del socio deriva direttamente da tale accertamento, rendendo superflua ogni ulteriore sospensione.
+</ragionamento_giudice>
+    <riassunto>Il ricorrente ha chiesto la sospensione del processo ai sensi dell'art. 295 c.p.c., in attesa della definizione del giudizio avverso l'accertamento della società. Tuttavia, la Corte ha evidenziato che tale giudizio era già stato deciso con sentenza del 13/04/2022, che aveva rigettato il ricorso della società. Pertanto, non sussistevano motivi per sospendere il procedimento, essendo già definita la questione societaria. La decisione si basa sull'art. 295 c.p.c. e sul principio secondo cui la sospensione è ammissibile solo in presenza di un giudizio pendente e non ancora deciso.</riassunto>
+  </questione>
+</questioni>

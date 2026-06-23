@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Valutazione del terreno edificabile ai fini dell'imposta di registro" id="Q1">
+    <text>Se un terreno edificabile presenti caratteristiche specifiche (vicinanza al mare, fascia di rispetto di 150 metri dalla battigia, natura in parte sabbiosa) che ne riducano il valore rispetto ad altri terreni assunti a comparazione dall’ufficio.</text>
+    <esito_questione favorevole_a="ufficio">L’avviso di rettifica è motivato correttamente e le obiezioni del contribuente non inficiano la valutazione dell’ufficio.</esito_questione>
+    <premesse_fatto>
+      <item>L’ufficio ha rettificato il valore del terreno edificabile da € 111.665,00 a € 233.535,00, determinando un maggior onere tributario.</item>
+      <item>Il contribuente ha prodotto una consulenza di parte che stimava il valore del terreno a € 108.940,00.</item>
+      <item>Il contribuente ha eccepito la presenza di elementi specifici negativi (vicinanza al mare, fascia di rispetto, natura in parte sabbiosa).</item>
+      <item>L’ufficio ha applicato un’ulteriore riduzione del 15% sul valore più basso assunto tra i terreni comparati.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 51 d.p.r. 131/1986"/>
+      <item id="D2" type="norm" ref="art. 52 d.p.r. 131/1986"/>
+      <item id="D3" type="jur" ref="Cassazione, I sezione, sentenze 10747/2020, 13203/2020, 13598/2020"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l’art. 51 per valutare i criteri di accertamento del valore del terreno.</item>
+      <item id_ref="D2">L’art. 52 è richiamato per la motivazione dell’avviso di rettifica.</item>
+      <item id_ref="D3">Le sentenze della Cassazione sono citate per chiarire che la fascia di rispetto non riduce il volume edificabile ma implica solo un onere di arretramento.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che l’ufficio abbia correttamente applicato i criteri di valutazione previsti dagli artt. 51 e 52 del d.p.r. 131/1986, basandosi su confronti con terreni nella stessa zona e applicando una riduzione prudenziale del 15%. Le obiezioni del contribuente sulla vicinanza al mare e sulla fascia di rispetto non sono ritenute idonee a ridurre il valore, poiché la fascia di rispetto non incide sul volume edificabile (come confermato dalla giurisprudenza della Cassazione).</ragionamento_giudice>
+    <riassunto>Il contribuente impugna un avviso di rettifica che aumenta il valore di un terreno edificabile, sostenendo che la vicinanza al mare e la fascia di rispetto ne riducano il valore. L’ufficio ha valutato il terreno applicando i criteri degli artt. 51 e 52 d.p.r. 131/1986, confrontandolo con terreni simili e riducendone ulteriormente il valore del 15%. Il giudice conferma la valutazione dell’ufficio, ritenendo che le obiezioni del contribuente non inficino l’accertamento, poiché la fascia di rispetto non limita l’edificabilità (come stabilito dalla Cassazione).</riassunto>
+  </questione>
+</questioni>

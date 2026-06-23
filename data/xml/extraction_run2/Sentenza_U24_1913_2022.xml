@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Ammissibilità dell'accertamento induttivo" id="Q1">
+    <text>Se l'Agenzia delle Entrate possa legittimamente procedere ad un accertamento induttivo del reddito d'impresa quando il contribuente non risponde ai questionari inviati, nonostante la produzione successiva di documentazione comprovante i ricavi dichiarati.</text>
+    <esito_questione favorevole_a="contribuente">L'accertamento induttivo non è giustificato in mancanza di prove concrete dell'inattendibilità delle scritture contabili</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente non ha risposto ai questionari dell'Agenzia a causa della pandemia Covid</item>
+      <item>Successiva produzione di fatture passive e estratti conto bancari comprovanti i ricavi dichiarati</item>
+      <item>Assenza di un verbale di constatazione preliminare</item>
+      <item>Accertamento basato su presunte anomalie nelle percentuali di ricarico e nelle rimanenze</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 39, comma 2, lett. d-bis, d.P.R. 29 settembre 1973, n. 600"/>
+      <item id="D2" type="jur" ref="Cass., Sez. V, 11 aprile 2018, n. 8923"/>
+      <item id="D3" type="jur" ref="Cass., Sez. V, 12 dicembre 2018, n. 32129 e 13 luglio 2018, n. 18695"/>
+      <item id="D4" type="norm" ref="art. 12 dello Statuto del contribuente"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina i casi in cui l'Agenzia può procedere ad accertamento induttivo</item>
+      <item id_ref="D2">Definisce i criteri per l'accertamento analitico-induttivo</item>
+      <item id_ref="D3">Specifica che la gravità degli indizi deve dimostrare l'inattendibilità contabile</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che: 1) la mancata risposta ai questionari non può di per sé giustificare l'accertamento induttivo, specie quando il contribuente ha prodotto documentazione successiva; 2) l'Agenzia non ha fornito elementi concreti (fatture non registrate, pagamenti non giustificati) per dimostrare l'esistenza di ricavi non dichiarati; 3) la presunta anomalia nelle rimanenze e nei ricarichi, senza riscontri oggettivi, non costituisce prova sufficiente; 4) le scritture contabili prodotte appaiono complessivamente attendibili. Pertanto, mancano i requisiti per l'accertamento induttivo.
+    </ragionamento_giudice>
+    <riassunto>
+      La sentenza esamina la legittimità di un accertamento induttivo basato sul mancato riscontro a questionari fiscali. Nonostante il contribuente non abbia risposto tempestivamente (per motivi pandemici), ha successivamente prodotto fatture e documenti bancari che dimostrano la regolarità dei ricavi. Il giudice rileva che l'Agenzia non ha fornito elementi concreti di evasione, limitandosi a generiche presunzioni su anomalie di magazzino. Applicando gli artt. 39 DPR 600/1973 e la giurisprudenza sulla gravità degli indizi (Cass. 8923/2018), dichiara illegittimo l'accertamento per mancanza di prove dell'inattendibilità contabile.
+    </riassunto>
+  </questione>
+  <questione title="Violazione dello Statuto del contribuente" id="Q2">
+    <text>Se l'omessa notificazione di un verbale di constatazione preliminare costituisca violazione dello Statuto del contribuente tale da inficiare la validità dell'accertamento.</text>
+    <esito_questione favorevole_a="ufficio">L'omessa notificazione non integra violazione dello Statuto</esito_questione>
+    <premesse_fatto>
+      <item>Assenza di verbale di constatazione preliminare</item>
+      <item>Accertamento emesso senza preliminare attività ispettiva</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 12 dello Statuto del contribuente"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Delimita i casi in cui è obbligatoria la notificazione preventiva</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice precisa che lo Statuto del contribuente non impone un obbligo generalizzato di notifica preventiva, ma solo in casi specifici (es. verifiche fiscali). Inoltre, il contribuente non ha dimostrato come la mancata notifica abbia concretamente pregiudicato il suo diritto di difesa, specie considerando che ha potuto produrre documentazione in sede contenziosa.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente lamentava la nullità dell'accertamento per mancata notifica di verbale di constatazione. Il giudice osserva che l'art. 12 dello Statuto del contribuente non prevede un obbligo assoluto, ma solo per accertamenti derivanti da verifiche fiscali. In assenza di specifico pregiudizio al diritto di difesa (essendo stata comunque acquisita la documentazione), la censura risulta infondata. La controversia rientra nei normali poteri ispettivi dell'Agenzia.
+    </riassunto>
+  </questione>
+</questioni>

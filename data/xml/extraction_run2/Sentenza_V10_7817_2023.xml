@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Prescrizione del diritto al recupero delle tasse automobilistiche" id="Q1">
+    <text>Se il diritto dell'amministrazione al recupero delle tasse automobilistiche non corrisposte si prescriva entro il terzo anno successivo a quello in cui doveva avvenire il versamento</text>
+    <esito_questione favorevole_a="ufficio">Il diritto si prescrive entro il terzo anno successivo a quello in cui doveva avvenire il versamento</esito_questione>
+    <premesse_fatto>
+      <item>Preavviso di fermo amministrativo n. 202200063080693082787 relativo alla TARI 2014</item>
+      <item>Notifica dell'avviso di accertamento n. 434119725888/2014 avvenuta in data 19/04/2017</item>
+      <item>Notifica dell'ingiunzione di pagamento n. 434119725888/2014 avvenuta in data 16/08/2020</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art.5 del D.l. 953/82, modificato dall'art.3 del D.l. 2/86 convertito nella legge 60/86"/>
+      <item id="D2" type="norm" ref="art.2934 e segg. codice civile"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina specifica del termine di prescrizione per il recupero delle tasse automobilistiche</item>
+      <item id_ref="D2">Principi generali sulla prescrizione</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il termine di prescrizione per il recupero delle tasse automobilistiche è fissato dal diritto speciale (art.5 D.l. 953/82) in tre anni dalla scadenza del versamento. Tale termine prevale sulla disciplina generale del codice civile. L'amministrazione ha dimostrato di aver compiuto atti interruttivi della prescrizione (avviso di accertamento e ingiunzione di pagamento) entro tale termine, rendendo infondata l'eccezione di prescrizione sollevata dal contribuente.</ragionamento_giudice>
+    <riassunto>Il contribuente eccepisce la prescrizione del diritto al recupero della tassa automobilistica. Il giudice applica la disciplina speciale che fissa in tre anni il termine di prescrizione dal momento in cui il versamento doveva essere effettuato. L'amministrazione ha dimostrato di aver interrotto la prescrizione con atti regolarmente notificati (avviso di accertamento e ingiunzione di pagamento). Pertanto, il ricorso viene rigettato e il contribuente condannato alle spese.</riassunto>
+  </questione>
+</questioni>

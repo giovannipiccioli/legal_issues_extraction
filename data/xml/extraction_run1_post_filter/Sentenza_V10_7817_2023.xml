@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Prescrizione del diritto al recupero della tassa automobilistica" id="Q1">
+    <text>Se il diritto dell'amministrazione al recupero della tassa automobilistica non corrisposta si sia prescritto per decorso del termine triennale previsto dalla legge.</text>
+    <esito_questione favorevole_a="ufficio">Il diritto non si è prescritto, essendo stati allegati validi atti interruttivi del termine.</esito_questione>
+    <premesse_fatto>
+      <item>Preavviso di fermo amministrativo n. 202200063080693082787 del 24.01.2022 per omesso pagamento della tassa automobilistica della Regione Campania anno 2014.</item>
+      <item>Notifica dell'ingiunzione di pagamento n. 434119725888/2014 avvenuta in data 16/08/2020.</item>
+      <item>Notifica dell'avviso di accertamento n. 434119725888/2014 avvenuta in data 19/04/2017.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 2934 e segg. codice civile" />
+      <item id="D2" type="norm" ref="art. 5 D.l. 953/82, come modificato dall'art. 3 D.l. 2/86 convertito nella legge 60/86" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Definisce il principio generale della prescrizione come estinzione dei diritti per inerzia del titolare.</item>
+      <item id_ref="D2">Specifica il termine di prescrizione triennale per il recupero delle tasse automobilistiche, applicabile al caso concreto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che il termine di prescrizione per il recupero della tassa automobilistica è di tre anni dalla scadenza del pagamento. L'amministrazione ha dimostrato di aver interrotto tale termine mediante la notifica tempestiva dell'avviso di accertamento (2017) e dell'ingiunzione di pagamento (2020), atti non impugnati dal contribuente. Pertanto, la prescrizione non si è verificata e il diritto al recupero rimane valido.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente impugnava un preavviso di fermo amministrativo per mancato pagamento della tassa automobilistica 2014, sostenendo la prescrizione del tributo. La Corte ha stabilito che il diritto al recupero non si era prescritto, in quanto l'amministrazione aveva interrotto il termine triennale (art. 5 D.l. 953/82) con la notifica dell'avviso di accertamento (2017) e dell'ingiunzione (2020), atti non contestati. Il ricorso è stato quindi rigettato.
+    </riassunto>
+  </questione>
+</questioni>

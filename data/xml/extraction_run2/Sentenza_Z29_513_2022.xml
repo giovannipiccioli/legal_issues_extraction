@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Riferibilità delle operazioni bancarie personali dei soci alla società" id="Q1">
+    <text>Se le operazioni bancarie effettuate sui conti personali dei soci di una società di persone possano essere presumibilmente attribuite alla società stessa ai fini dell'accertamento tributario.</text>
+    <esito_questione favorevole_a="contribuente">Le operazioni sui conti personali dei soci non possono essere imputate alla società in mancanza di elementi probatori specifici.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha contestato maggiori ricavi alla società derivanti da operazioni bancarie sul conto della società e sui conti personali dei soci, nonché da elementi contabili.</item>
+      <item>Le operazioni contestate sui conti personali dei soci includono un versamento di €4.000 e un prelievo di €2.400.</item>
+      <item>L'Ade non ha fornito elementi probatori specifici che dimostrino la riferibilità delle operazioni bancarie personali dei soci alla società.</item>
+      <item>La società e i soci non si sono costituiti in appello, nonostante la regolare notifica.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di onere della prova"/>
+      <item id="D2" type="princ" ref="Principio di presunzione di gravità, precisione e concordanza"/>
+      <item id="D3" type="norm" ref="art. 32 comma 2 DPR 600/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il principio di onere della prova per sottolineare che spetta all'Agenzia dimostrare la riferibilità delle operazioni bancarie dei soci alla società.</item>
+      <item id_ref="D2">Il giudice richiama il principio di presunzione per escludere che la mera appartenenza dei conti ai soci possa giustificare l'attribuzione delle operazioni alla società, in assenza di ulteriori elementi probatori.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice afferma che l'Agenzia non ha fornito elementi probatori sufficienti per attribuire alla società le operazioni bancarie effettuate sui conti personali dei soci. La mera circostanza che i conti siano intestati ai soci non costituisce una presunzione giuridicamente valida, poiché mancano gravità, precisione e concordanza degli indizi. Pertanto, le operazioni sui conti personali non possono essere imputate alla società in assenza di prove specifiche. Il giudice conferma l'infondatezza delle contestazioni relative a tali operazioni, riducendo gli imponibili accertati.
+</ragionamento_giudice>
+    <riassunto>L'Agenzia delle Entrate aveva contestato alla società maggiori ricavi sulla base di operazioni bancarie (prelievi e versamenti) effettuate sui conti personali dei soci. Il giudice ha rilevato l'assenza di elementi indiziari ulteriori (oltre alla qualità di soci) che dimostrassero la riferibilità di tali operazioni all'attività sociale. La mera appartenenza dei conti a soci non costituisce di per sé una presunzione giuridicamente valida, poiché mancano i requisiti di gravità, precisione e concordanza richiesti. Pertanto, l'accertamento relativo a tali operazioni è stato annullato.</riassunto>
+  </questione>
+  <questione title="Giustificazione dei maggiori ricavi derivanti dalla contabilità gestionale" id="Q2">
+    <text>Se le discrasie rilevate nella contabilità gestionale della società (in particolare sul conto di cassa in danaro) giustifichino l'accertamento di maggiori ricavi.</text>
+    <esito_questione favorevole_a="ufficio">Le discrasie contabili non adeguatamente giustificate legittimano l'accertamento di maggiori ricavi.</esito_questione>
+    <premesse_fatto>
+      <item>La società contribuente è stata oggetto di un accertamento tributario che ha rilevato maggiori ricavi per € 22.110,67, di cui € 9.434,00 derivanti da discrasie nella contabilità gestionale (conto di cassa in danaro).</item>
+      <item>L'Agenzia delle Entrate ha contestato la mancata giustificazione delle discrasie contabili, ritenendole indicative di maggiori ricavi non dichiarati.</item>
+      <item>La società non ha fornito giustificazioni contabili o gestionali adeguate per le discrasie rilevate.</item>
+      <item>La Commissione Tributaria Provinciale aveva annullato l'accertamento, ritenendo giustificate le operazioni bancarie e le discrasie contabili.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di onere della prova"/>
+      <item id="D2" type="norm" ref="art. 32 comma 2 DPR 600/1973"/>
+      <item id="D3" type="jur" ref="Cass. Civ., sez. II, 22 marzo 1995 n. 3260, Cass. Civ., sez. V, 16 maggio 2012 n. 7663"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il principio per affermare che l'onere di giustificare le discrasie contabili grava sulla società, la quale non ha fornito prove adeguate.</item>
+      <item id_ref="D2">Il riferimento è utilizzato per valutare la congruenza dei prelievi bancari con le esigenze familiari, ma non è determinante per la questione contabile.</item>
+      <item id_ref="D3">Le sentenze sono citate per ribadire il principio di corrispondenza tra chiesto e pronunciato, ma non influiscono direttamente sulla decisione sulle discrasie contabili.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che le discrasie nel conto di cassa in danaro, non giustificate dalla società, costituiscono un elemento analitico di accertamento dei maggiori ricavi. Poiché la società non ha fornito alcuna prova contabile o gestionale per spiegare tali incongruenze, il giudice ritiene legittimo l’accertamento dell’Agenzia delle Entrate. La mancanza di giustificazioni specifiche rende irrilevante l’assenza di contestazioni formali sulla regolarità contabile. Pertanto, i maggiori ricavi derivanti dalla contabilità gestionale sono confermati, mentre sono esclusi quelli attribuiti ai conti personali dei soci per mancanza di riferibilità alla società.
+</ragionamento_giudice>
+    <riassunto>L'Agenzia aveva contestato maggiori ricavi basandosi su incongruenze nella contabilità gestionale della società, in particolare su movimenti del conto di cassa in danaro. La società non aveva fornito giustificazioni specifiche per tali discrasie, limitandosi a richiamare l'assenza di irregolarità fiscal-contabili e l'aderenza agli studi di settore. Il giudice ha ritenuto insufficienti tali argomentazioni, poiché il recupero era analitico e fondato su documentazione contabile incontestata. Pertanto, ha confermato parzialmente l'accertamento, escludendo solo le operazioni relative ai conti personali dei soci.</riassunto>
+  </questione>
+</questioni>

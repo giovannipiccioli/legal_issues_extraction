@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Inammissibilità del ricorso per mancata allegazione degli atti impugnati" id="Q1">
+    <text>Se il ricorrente non alleghi materialmente gli atti impugnati al ricorso, ciò rende inammissibile il ricorso per impossibilità di verificare il rispetto dei termini di legge.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è dichiarato inammissibile.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha presentato ricorso contro due avvisi di rettifica IMU del Comune di Napoli per gli anni 2017 e 2018.</item>
+      <item>Il ricorso indicava nella parte finale gli atti impugnati come allegati, ma tali atti non risultavano materialmente acclusi.</item>
+      <item>Il ricorso è stato notificato al Comune il 22.2.2021.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 D.L.vo 546/1992" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 21 D.L.vo 546/1992 per stabilire l'onere del ricorrente di dimostrare il rispetto dei termini per la proposizione del ricorso, mediante allegazione dell'atto impugnato e della relativa notifica.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la mancata allegazione materiale degli atti impugnati impedisce di verificare se i termini di legge per la proposizione del ricorso siano stati rispettati. In particolare, non è possibile accertare se gli avvisi di rettifica siano stati notificati entro i 60 giorni prima della notifica del ricorso. Pertanto, il giudice conferma la declaratoria di inammissibilità del ricorso per mancato assolvimento dell'onere probatorio da parte del ricorrente.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato due avvisi di rettifica IMU emessi dal Comune di Napoli per gli anni 2017 e 2018, senza però allegare materialmente gli atti impugnati al ricorso. Secondo l'art. 21 D.L.vo 546/1992, è onere del ricorrente dimostrare il rispetto dei termini di legge allegando gli atti impugnati e la prova della loro notifica. La mancata allegazione rende impossibile verificare la tempestività del ricorso, portando alla declaratoria di inammissibilità. La sentenza di primo grado viene quindi confermata e il ricorrente è condannato al pagamento delle spese.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Inammissibilità del ricorso per tardività" id="Q1">
+    <text>Se il contribuente abbia proposto il ricorso in modo tempestivo rispetto alla notifica dell'avviso di accertamento TARES.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è inammissibile per tardività.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato l'avviso di accertamento TARES anno 2013 n. 3550 notificato il 17/11/2018.</item>
+      <item>L'Amministrazione comunale aveva notificato un precedente avviso di accertamento (n. MT SAL/2013 231987) il 17/12/2014, richiedendo il saldo dell'imposta senza sanzioni o interessi.</item>
+      <item>Il contribuente non ha contestato la regolare notifica del precedente avviso.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 15 d.lgs. 546/1992"/>
+      <item id="D2" type="princ" ref="Principio di tempestività del ricorso"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'articolo per liquidare le spese di lite.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che l'Amministrazione aveva già notificato un avviso di accertamento nel 2014, regolarmente ricevuto dal contribuente, il quale non lo ha contestato tempestivamente. Pertanto, il ricorso proposto nel 2019 risulta tardivo. La mancata contestazione tempestiva dell'avviso del 2014 rende inammissibile il successivo ricorso, poiché il contribuente ha perso il termine per impugnare l'atto.
+    </ragionamento_giudice>
+    <riassunto>
+      Il contribuente ha impugnato nel 2019 un avviso di accertamento TARES notificato nel 2018, sostenendo la nullità per carenza di motivazione. Tuttavia, il giudice rileva che un precedente avviso, notificato nel 2014 e non contestato dal contribuente, aveva già richiesto il saldo dell'imposta senza sanzioni. Poiché il contribuente non ha agito tempestivamente contro l'avviso del 2014, il ricorso è dichiarato inammissibile per tardività. Le spese di lite sono liquidate a carico del contribuente secondo l'art. 15 d.lgs. 546/1992.
+    </riassunto>
+  </questione>
+</questioni>

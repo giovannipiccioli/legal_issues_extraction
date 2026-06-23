@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Tempestività del ricorso" id="Q1">
+    <text>Se il ricorso sia stato notificato entro il termine di sessanta giorni prescritto dall'art. 21, comma 1, del d.lgs. n. 546/92, decorrente dalla data di notifica dell'atto impugnato.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è dichiarato inammissibile per tardività.</esito_questione>
+    <premesse_fatto>
+      <item>L'Avviso di Accertamento n. TF9030301833/2020 è stato emesso il 28 agosto 2020 e notificato alla società il 24 ottobre 2020.</item>
+      <item>Il ricorso n. 107/21 è stato notificato il 30 dicembre 2020 e depositato il 29 gennaio 2021.</item>
+      <item>La notifica del ricorso è avvenuta oltre il termine di 60 giorni dalla notifica dell'atto impugnato, come prescritto dall'art. 21, comma 1, del d.lgs. n. 546/92.</item>
+      <item>La parte ricorrente ha cercato di dimostrare una diversa data di notifica dell'atto impugnato, ma la prova non è stata fornita in modo adeguato.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 comma 1 d.lgs. n. 546/92"/>
+      <item id="D2" type="jur" ref="Comm. trib. prov. Napoli, sez. IV, 13 maggio 2020, n. 3331"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 21, comma 1, del d.lgs. n. 546/92 per stabilire il termine di 60 giorni entro cui il ricorso deve essere notificato a pena di inammissibilità.</item>
+      <item id_ref="D2">Il giudice cita la sentenza della Commissione Tributaria Provinciale di Napoli per ribadire che il ricorrente deve dimostrare la tempestività del ricorso, provando la data di avvenuta conoscenza dell'atto impugnato.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il ricorso n. 107/21 è stato notificato oltre il termine di 60 giorni dalla notifica dell'atto impugnato, violando l'art. 21, comma 1, del d.lgs. n. 546/92. La parte ricorrente non ha provato adeguatamente una diversa data di notifica, nonostante l'onere probatorio gravasse su di essa. Pertanto, il ricorso è dichiarato inammissibile per tardività.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha proposto ricorso oltre il termine di sessanta giorni decorrenti dalla notifica dell'avviso di accertamento. L'ufficio ha eccepito l'inammissibilità per tardività, evidenziando che la notifica all'ex liquidatore è avvenuta il 26 ottobre 2020, mentre il ricorso è stato notificato il 30 dicembre 2020. Il giudice ha riconosciuto l'inadempimento del termine, confermando che l'onere probatorio della tempestività spetta al ricorrente, il quale non ha fornito prove idonee a dimostrare una diversa data di notifica. Pertanto, il ricorso è stato dichiarato inammissibile.</riassunto>
+  </questione>
+  <questione title="Validità della notifica dell'avviso di accertamento" id="Q2">
+    <text>Se la notifica dell'avviso di accertamento al liquidatore della società estinta sia valida ai sensi dell'art. 145 c.p.c. e dell'art. 60 d.P.R. n. 600/73.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è valida e conforme alla legge.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_2 è stata cancellata dal Registro delle Imprese il 2 ottobre 2020.</item>
+      <item>L'avviso di accertamento è stato notificato il 26 ottobre 2020 al liquidatore della società estinta.</item>
+      <item>Il ricorrente contesta la validità della notifica, sostenendo che essa sia avvenuta in luogo diverso dall’ultimo domicilio fiscale.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 145 c.p.c."/>
+      <item id="D2" type="norm" ref="art. 60 d.P.R. n. 600/73"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 145 c.p.c. per stabilire che la notifica al liquidatore di una società estinta è valida.</item>
+      <item id_ref="D2">L'art. 60 d.P.R. n. 600/73 è richiamato per confermare che la notifica dell'avviso di accertamento deve seguire le regole procedurali previste per le persone giuridiche.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la notifica al liquidatore è conforme all'art. 145 c.p.c. e all'art. 60 d.P.R. n. 600/73, poiché il liquidatore è il legittimo rappresentante della società estinta ai fini della ricezione degli atti tributari. La contestazione della parte ricorrente sulla sede della notifica è infondata, in quanto la legge non richiede che la notifica avvenga necessariamente presso l’ultimo domicilio fiscale della società, ma può essere validamente eseguita presso il rappresentante legale.</ragionamento_giudice>
+    <riassunto>La società ricorrente, estinta e cancellata dal Registro delle Imprese, contestava la validità della notifica dell'avviso di accertamento, ritenuta irregolare. Il giudice ha ritenuto che la notifica al liquidatore fosse conforme all'art. 145 c.p.c. e all'art. 60 d.P.R. n. 600/73, poiché il liquidatore era il legittimo rappresentante della società nei rapporti tributari. La cancellazione della società non escludeva la validità della notifica, essendo giustificata dal rischio per la riscossione. La censura è stata quindi dichiarata infondata.</riassunto>
+  </questione>
+  <questione title="Applicazione del principio di trasparenza fiscale a società a ristretta base azionaria" id="Q3">
+    <text>Se l'avviso di accertamento fondato sul principio di trasparenza fiscale per i soci di una società a ristretta base azionaria sia legittimo, nonostante la partecipazione minoritaria del ricorrente.</text>
+    <esito_questione favorevole_a="ufficio">L'avviso di accertamento è legittimo.</esito_questione>
+    <premesse_fatto>
+      <item>Società con tre soci, classificata come 'a ristretta base azionaria'.</item>
+      <item>Avviso di accertamento emesso per presunta ricostruzione induttiva del reddito societario, con maggiori ricavi accertati.</item>
+      <item>Partecipazione del ricorrente nella società pari al 10%, qualificata come minoritaria.</item>
+      <item>Ricorrente afferma di non aver partecipato alla gestione né di aver ricevuto utili dalla società.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 2479, comma 1, c.c."/>
+      <item id="D2" type="norm" ref="art. 28, comma 4, dlgs n. 175/2014"/>
+      <item id="D3" type="jur" ref="Cassazione, sez. trib., n. 3331/2020"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Principio di trasparenza fiscale applicabile alle società a ristretta base azionaria, indipendentemente dalla quota di partecipazione dei soci.</item>
+      <item id_ref="D2">Normativa sulla tassazione delle società cancellate dal registro delle imprese, applicabile al caso in esame.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ha ritenuto legittimo l'avviso di accertamento basandosi sul principio di trasparenza fiscale (art. 2479 c.c.), applicabile anche ai soci di minoranza di società a ristretta base azionaria. La partecipazione del 10% non esclude l'applicazione del regime, poiché la normativa non prevede soglie minime. Il ricorrente non ha dimostrato l'inesistenza degli utili presunti né ha provato che la sua esclusione dalla gestione inficiasse la validità dell'accertamento. La cancellazione della società dal registro non preclude l'applicazione della tassazione per trasparenza, in conformità all'art. 28 dlgs 175/2014.
+</ragionamento_giudice>
+    <riassunto>Il ricorrente, socio di minoranza di una società a ristretta base azionaria, contestava l'accertamento fondato sul principio di trasparenza fiscale degli utili. Il giudice ha ritenuto che l'entità della partecipazione (10%) non escludesse l'applicazione del principio distributivo degli utili, poiché la società era composta da soli tre soci. Le eventuali violazioni statutarie nello scioglimento della società erano irrilevanti ai fini fiscali. Pertanto, il ricorso è stato rigettato.</riassunto>
+  </questione>
+</questioni>

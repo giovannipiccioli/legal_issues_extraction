@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimità della sospensione del rimborso IVA in assenza di avviso di accertamento" id="Q1">
+    <text>Se l'Amministrazione finanziaria possa legittimamente sospendere il rimborso IVA basandosi unicamente su un processo verbale di constatazione (PVC) senza che sia stato emesso un avviso di accertamento.</text>
+    <esito_questione favorevole_a="contribuente">L'Amministrazione finanziaria non può legittimamente sospendere il rimborso IVA in assenza di un avviso di accertamento.</esito_questione>
+    <premesse_fatto>
+      <item>La società ricorrente ha presentato una richiesta di rimborso IVA per l'anno 2019 per l'importo di € 590.719,00.</item>
+      <item>L'Agenzia delle Entrate ha sospeso parzialmente il rimborso per € 416.294,00 basandosi su un PVC n. 549/2019 relativo all'anno d'imposta 2016, senza emettere un avviso di accertamento.</item>
+      <item>Il PVC è stato prodotto dall'Amministrazione finanziaria, ma non i documenti in esso richiamati.</item>
+      <item>Non risulta contestata la mancata emissione di un avviso di accertamento.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 38 bis dpr 633/1972"/>
+      <item id="D2" type="norm" ref="art. 23 d. lgs. 472/1997"/>
+      <item id="D3" type="norm" ref="art. 69 r.d. 2440/1923"/>
+      <item id="D4" type="jur" ref="Cass. Sez. Un. n. 2320/2020, Cass. n. 15424/2009"/>
+      <item id="D5" type="princ" ref="fumus boni iuris"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Viene citato per stabilire i casi in cui è ammessa la sospensione del rimborso IVA, ovvero in presenza di reati tributari.</item>
+      <item id_ref="D2">È analizzato per definire i requisiti necessari per la sospensione del rimborso, che richiede un atto di contestazione o accertamento.</item>
+      <item id_ref="D4">La giurisprudenza viene richiamata per affermare che il PVC da solo non costituisce una ragione di credito sufficiente per la sospensione.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il Collegio osserva che la sospensione del rimborso IVA richiede un atto impositivo (avviso di accertamento o contestazione) come previsto dall'art. 23 d.lgs. 472/1997. Il PVC, pur avendo valore di atto pubblico, non equivale a un atto impositivo e non può da solo legittimare la sospensione. La giurisprudenza conferma che il PVC non costituisce una "ragione di credito" sufficiente. L'Amministrazione non ha prodotto elementi aggiuntivi per dimostrare il fumus boni iuris né ha emesso un avviso di accertamento entro termini ragionevoli, rendendo il provvedimento illegittimo.</ragionamento_giudice>
+    <riassunto>La ricorrente impugnava la sospensione parziale del rimborso IVA basata su un PVC emesso dalla Guardia di Finanza, ma non seguito da un avviso di accertamento. L’Agenzia delle Entrate sosteneva che il PVC costituisse una "ragione di credito" sufficiente per la sospensione, richiamando la giurisprudenza. Il giudice ha rilevato che il PVC, pur avendo valore di atto pubblico, non equivale a un atto impositivo e non è sufficiente a legittimare la sospensione ai sensi dell’art. 38-bis DPR 633/1972 o dell’art. 23 DLgs 472/1997, in assenza di contestazione formale o accertamento. Pertanto, la sospensione è stata dichiarata illegittima.</riassunto>
+  </questione>
+</questioni>

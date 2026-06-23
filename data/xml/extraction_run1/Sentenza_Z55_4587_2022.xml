@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità della cartella di pagamento per mancata notifica dell'atto presupposto" id="Q1">
+    <text>Se l'Avviso di accertamento presupposto alla cartella di pagamento sia stato regolarmente notificato al contribuente.</text>
+    <esito_questione favorevole_a="ufficio">L'Avviso di accertamento è stato regolarmente notificato.</esito_questione>
+    <premesse_fatto>
+      <item>Cartella di pagamento n. 02820200012883021000 BOLLO 2015 emessa per mancato pagamento della tassa automobilistica 2015.</item>
+      <item>Contribuente impugna la cartella deducendo nullità per omessa notifica dell'Avviso di accertamento (atto presupposto).</item>
+      <item>L'Agenzia delle Entrate sostiene che l'Avviso di accertamento n. 15000186 del 10/09/2018 è stato notificato "a mani proprie".</item>
+      <item>La resistente allega copia della notifica dell'atto prodromico.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 d.lgs. n. 546/1992 (termini per impugnazione)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice rileva che l'eccezione di prescrizione doveva essere proposta entro 60 giorni dalla notifica dell'atto presupposto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il Collegio accerta la regolarità della notifica dell'Avviso di accertamento attraverso la documentazione prodotta dall'Agenzia, ritenendo dimostrata l'avvenuta comunicazione al contribuente. Pertanto, dichiara inammissibile la censura sulla prescrizione triennale, essendo stata sollevata trascorsi i 60 giorni perentori previsti dall'art. 21 d.lgs. 546/1992 dalla ricezione dell'atto presupposto.</ragionamento_giudice>
+    <riassunto>Il contribuente impugna una cartella di pagamento per tassa auto 2015, eccependo la nullità per omessa notifica dell'Avviso di accertamento presupposto. L'Agenzia dimostra con copia della notifica la regolarità della comunicazione "a mani proprie" il 10/09/2018. Il giudice, verificata la validità della notifica, dichiara inammissibile l'eccezione di prescrizione poiché proposta tardivamente (oltre i 60 giorni dall'atto presupposto, ex art. 21 d.lgs. 546/1992). Rigetta quindi il ricorso.</riassunto>
+  </questione>
+  <questione title="Sospensione dei termini di riscossione per provvedimenti emergenziali" id="Q2">
+    <text>Se i termini di riscossione della cartella siano stati sospesi o prorogati a causa dei provvedimenti emergenziali COVID-19.</text>
+    <esito_questione favorevole_a="ufficio">I termini sono stati sospesi e prorogati fino al 31/08/2021 dai decreti emergenziali.</esito_questione>
+    <premesse_fatto>
+      <item>Cartella notificata il 15/02/2022 per un debito del 2015.</item>
+      <item>Contribuente deduce prescrizione triennale del credito, essendo trascorsi 3 anni dall'Avviso di accertamento (10/09/2018).</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="d.l. n. 18/2020 (Decreto Cura Italia)"/>
+      <item id="D2" type="norm" ref="ultimo decreto lavoro (proroga sospensione al 31/08/2021)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Applica la sospensione iniziale delle attività di riscossione per l'emergenza pandemic</item>
+      <item id_ref="D2">Proroga la sospensione fino al 31/08/2021, con effetto sul computo del triennio</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice riconosce l'applicabilità dei decreti emergenziali che hanno sospeso tra il 2020 e il 2021 i termini per la riscossione, escludendo tale periodo dal computo della prescrizione triennale. Poiché il termine decorreva dal 10/09/2018 e la sospensione è perdurata fino al 31/08/2021, la notifica della cartella nel 2022 risulta tempestiva nonostante l'apparente trascorso del triennio.</ragionamento_giudice>
+    <riassunto>Il contribuente eccepisce la prescrizione triennale del credito (decorrente dal 10/09/2018) per la notifica della cartella nel 2022. Il giudice applica i decreti emergenziali COVID-19 (tra cui d.l. 18/2020 e successivi) che hanno sospeso tra marzo 2020 e agosto 2021 i termini di riscossione, escludendo tale periodo dal computo. Ne consegue che la notifica del 2022 rientra nel termine legale, rendendo infondata l'eccezione di prescrizione.</riassunto>
+  </questione>
+</questioni>

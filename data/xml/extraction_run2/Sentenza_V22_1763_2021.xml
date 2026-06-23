@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimazione nella sottoscrizione dell'atto di accertamento" id="Q1">
+    <text>Se il contribuente contesti la legittimazione del soggetto delegato alla sottoscrizione dell'avviso di accertamento, l'Amministrazione finanziaria debba dimostrare il corretto esercizio del potere di delega.</text>
+    <esito_questione favorevole_a="ufficio">L'Amministrazione ha adempiuto all'onere probatorio dimostrando la validità della delega.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha eccepito la carenza di legittimazione nella sottoscrizione dell'avviso di accertamento.</item>
+      <item>L'Amministrazione finanziaria ha prodotto in giudizio il documento di delega adottato dal direttore provinciale (disposizione di servizio n. 20 del 21 marzo 2016).</item>
+      <item>La delega indicava il nominativo del delegato (dott. Nominativo_1), il termine di validità (fino al 31 dicembre 2016) e le ragioni della delega.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione, Sez. Tributaria, sentenza n. 22800 del 9.11.2015"/>
+      <item id="D2" type="jur" ref="Cassazione, Sez. 5, sentenza n. 19190 del 17.07.2019"/>
+      <item id="D3" type="norm" ref="art. 42 D.P.R. n. 600 del 1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione afferma che, in caso di contestazione della legittimazione della firma, l'onere probatorio grava sull'Amministrazione finanziaria.</item>
+      <item id_ref="D2">La Cassazione ribadisce il principio di "vicinanza della prova", imponendo all'Amministrazione di dimostrare il corretto esercizio del potere di delega.</item>
+      <item id_ref="D3">L'art. 42 D.P.R. 600/1973 disciplina i requisiti formali della delega, la cui omissione comporta la nullità dell'atto impositivo.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che l'Amministrazione ha adempiuto all'onere probatorio producendo la delega, che rispetta i requisiti dell'art. 42 D.P.R. 600/1973 (nominativo, durata e motivazioni). La giurisprudenza citata esclude un obbligo di allegazione preventiva della delega all'avviso, spostando l'onere probatorio solo in caso di contestazione. La delega non è "in bianco" e l'atto è quindi valido.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito la carenza di legittimazione nella sottoscrizione dell'avviso di accertamento. L'Ufficio ha prodotto in giudizio la delega (disposizione di servizio n. 20/2016), indicante nominativo, termine e ragioni della delega. Il giudice ha ritenuto che, ai sensi della giurisprudenza (Cass. n. 22800/2015 e n. 19190/2019), l'Amministrazione abbia provato la legittimazione del delegato, non essendo richiesta un'allegazione preventiva. La delega non era "in bianco" e rispettava i requisiti dell'art. 42 D.P.R. 600/1973. La doglianza è stata respinta.</riassunto>
+  </questione>
+  <questione title="Validità della firma digitale sull'atto impugnato" id="Q2">
+    <text>Se la sottoscrizione digitale dell'atto di accertamento, in assenza di specifica contestazione sulla conformità tecnica, integri una violazione delle norme sul documento informatico.</text>
+    <esito_questione favorevole_a="ufficio">La firma digitale è valida poiché conforme alle regole tecniche del CAD e al DPCM 13/11/2014.</esito_questione>
+    <premesse_fatto>
+      <item>L'atto impugnato è stato sottoscritto con firma digitale dall'Agenzia delle Entrate.</item>
+      <item>Il ricorrente contesta la validità della firma digitale, sostenendo che essa violi le norme sul documento informatico.</item>
+      <item>L'Agenzia delle Entrate ha provato la conformità della firma digitale alle regole tecniche previste dal CAD e dal DPCM 13/11/2014.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 40 dlgs n. 82/2005 (CAD)"/>
+      <item id="D2" type="norm" ref="DPCM 13/11/2014"/>
+      <item id="D3" type="norm" ref="art. 23 comma 1 dlgs n. 82/2005 (CAD)"/>
+      <item id="D4" type="norm" ref="art. 24 dlgs n. 82/2005 (CAD)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 40 CAD per evidenziare l'obbligo per le PA di formare documenti con mezzi informatici e gestirli digitalmente.</item>
+      <item id_ref="D2">Il DPCM 13/11/2014 viene richiamato per le regole tecniche specifiche in materia di documenti informatici, che rendono operativo l'art. 40 CAD.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che la firma digitale dell'atto è conforme alle disposizioni del CAD e del DPCM 13/11/2014, che disciplinano la formazione e validità dei documenti informatici nella PA. La copia cartacea contiene attestazione di conformità all'originale digitale, come richiesto dall'art. 23 CAD, e la firma è basata su un certificato qualificato ex art. 24 CAD. Non sussiste alcuna violazione delle norme, poiché l'atto è stato validamente formato e sottoscritto secondo le regole tecniche vigenti.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha eccepito la nullità dell'atto per firma digitale irregolare. Il giudice ha rilevato che la firma era conforme all'art. 40 del d.lgs. 82/2005 (CAD) e al DPCM 13/11/2014, essendo l'atto originale informatico e la copia cartacea attestata conforme da pubblico ufficiale (art. 23 CAD). L'Ufficio non aveva ulteriori oneri probatori, essendo la firma basata su certificato qualificato ex art. 24 CAD. La censura è stata ritenuta infondata.</riassunto>
+  </questione>
+  <questione title="Concorso del professionista nella violazione tributaria" id="Q3">
+    <text>Se un professionista che ha predisposto dichiarazioni con dati non veritieri, pur senza esplicita contestazione di dolo, possa essere sanzionato per concorso nella violazione tributaria del cliente.</text>
+    <esito_questione favorevole_a="ufficio">Il professionista ha concorso nella violazione almeno per colpa, essendo a conoscenza dell'illecito.</esito_questione>
+    <premesse_fatto>
+      <item>Il professionista Ricorrente_1 ha predisposto e presentato dichiarazioni fiscali (modello unico, IRAP e IVA) per conto del cliente, contenenti dati non veritieri.</item>
+      <item>Le dichiarazioni erano finalizzate a ridurre il carico fiscale del cliente, con conseguente evasione tributaria.</item>
+      <item>Il professionista era depositario delle scritture contabili del cliente ed era a conoscenza dell'accertamento fiscale avviato nei confronti dello stesso.</item>
+      <item>L'atto di contestazione allegava l'avviso di accertamento del cliente, dimostrando la falsità dei dati dichiarati.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di colpa in ambito tributario"/>
+      <item id="D2" type="norm" ref="art. 42 D.P.R. n. 600/1973 (disciplina della delega di firma e funzioni)"/>
+      <item id="D3" type="jur" ref="Cassazione, Sez. 5, sentenza n. 33572 del 28/12/2018 (contraddittorio endoprocedimentale)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il principio di colpa per affermare che il professionista, pur senza dolo, ha agito con negligenza nell’omissione di verifica dei dati dichiarati, contribuendo all’illecito.</item>
+      <item id_ref="D2">L'art. 42 D.P.R. 600/1973 è richiamato per escludere vizi di legittimazione nell’atto di contestazione, ma non è centrale per la questione del concorso nella violazione.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che il professionista, in virtù del suo ruolo attivo nella predisposizione delle dichiarazioni e della conoscenza delle scritture contabili, abbia concorso nella violazione almeno per colpa. La consapevolezza dell’accertamento avviato contro il cliente e l’assenza di contestazione sull’incarico professionale rafforzano la tesi del concorso colposo. La condotta illecita è dimostrata dall’inserimento di dati falsi, emergenti dall’avviso di accertamento allegato, senza che sia necessaria la prova di un dolo specifico.</ragionamento_giudice>
+    <riassunto>L'Ufficio ha sanzionato il professionista per concorso nella dichiarazione fraudolenta del cliente. Il giudice ha ritenuto provata la condotta concorsuale, attesa la qualità di intermediario e la conoscenza dell'accertamento (avviso allegato). La colpa del commercialista è emersa dalla predisposizione di dati non veritieri, pur in assenza di dettagli soggettivi nell'atto. La motivazione, seppur generica su altri aspetti, è stata ritenuta sufficiente ai sensi della giurisprudenza tributaria. Il motivo è stato respinto.</riassunto>
+  </questione>
+</questioni>

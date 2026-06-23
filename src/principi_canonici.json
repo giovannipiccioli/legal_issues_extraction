@@ -1,0 +1,1171 @@
+[
+  {
+    "standard": "principio del giusto procedimento",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del giusto processo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di progressività",
+    "aliases": [],
+    "legal_ref": "art. 53 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di equilibrio finanziario",
+    "aliases": [
+      "principio di stabilità finanziaria",
+      "principio di equilibrio finanziario",
+      "principio di equilibrio di bilancio"
+    ],
+    "legal_ref": "art. 81 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principi OCSE sul transfer pricing",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio 'ubi lex voluit dixit, ubi noluit tacuit'",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio 'utile per inutile non vitiatur'",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio consensualistico",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio contra non valentem agere non currit praescriptio",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del clare loqui",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del contraddittorio",
+    "aliases": [
+      "principio del contraddittorio endoprocedimentale"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del divieto di abuso del diritto",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del doppio binario",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "presunzione di innocenza",
+    "aliases": [
+      "presunzione di non colpevolezza"
+    ],
+    "legal_ref": "art. 27 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del favor rei",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del giudice naturale predeterminato per legge",
+    "aliases": [
+      "principio del giudice naturale precostituito per legge"
+    ],
+    "legal_ref": "art. 25 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del giusto equilibrio",
+    "aliases": [],
+    "legal_ref": "CEDU",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del legittimo affidamento",
+    "aliases": [
+      "principio dell'affidamento",
+      "principio di tutela dell'affidamento"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del locus commissi delicti",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del silenzio assenso",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del silenzio diniego",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del solve et repete",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del tempus regit actum",
+    "aliases": [
+      "principio di irretroattività della legge",
+      "principio di irretroattività degli atti amministrativi",
+      "principio di irretroattività",
+      "principio di irretroattività delle norme tributarie"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del trattamento nazionale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'autorità del giudicato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'effetto utile",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'efficacia preclusiva del giudicato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio del ne bis in idem",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della res iudicata",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'efficacia vincolante del giudicato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'id quod plerumque accidit",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dell'universalità del fallimento",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della consumazione dell'impugnazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della domanda",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della funzione rieducativa della pena",
+    "aliases": [],
+    "legal_ref": "art. 27, comma 3, Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della postalizzazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della ragione più liquida",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della scissione degli effetti della notificazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio della soccombenza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio dello stare decisis",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio devolutivo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di alternatività IVA-registro",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di annualità e continuità dei bilanci pubblici",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di apparenza",
+    "aliases": [],
+    "legal_ref": "art. 38 c.c.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di arm's length",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di attrazione del reddito di impresa",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di attribuzione",
+    "aliases": [],
+    "legal_ref": "art. 5 par. 2 Trattato UE",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia dei periodi d'imposta",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia del giudizio tributario rispetto a quello penale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia dell'accertamento tributario",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia delle nozioni comunitarie",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia finanziaria degli enti locali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia finanziaria regionale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autonomia negoziale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autosufficienza degli atti amministrativi",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autosufficienza del ricorso per cassazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autosufficienza dell'appello",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autosufficienza dell'atto di impugnazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di autotutela",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di buon andamento della pubblica amministrazione",
+    "aliases": [
+      "principio di buona amministrazione",
+      "principio di buon andamento dell'azione amministrativa",
+      "principio di buon andamento dell'amministrazione"
+    ],
+    "legal_ref": "art. 97 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di buona fede",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di capacità contributiva",
+    "aliases": [],
+    "legal_ref": "art. 53 Costituzione",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di cassa",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di causalità delle spese processuali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di certezza dei componenti negativi di reddito",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di certezza del diritto",
+    "aliases": [
+      "principio di certezza giuridica",
+      "principio di sicurezza giuridica",
+      "principio di certezza dei rapporti giuridici",
+      "principio di certezza delle situazioni giuridiche"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di chiarezza e motivazione degli atti amministrativi",
+    "aliases": [
+      "principio di chiarezza degli atti amministrativi",
+      "principio di motivazione degli atti amministrativi"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di collaborazione nei rapporti tra amministrazione e contribuente",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di colpevolezza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di competenza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di completezza della pronuncia giudiziale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di concentrazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di concorrenza",
+    "aliases": [
+      "principio di libera concorrenza"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di continenza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di continuità dei valori fiscali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di copertura finanziaria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di correlazione tra titolo esecutivo e pretesa tributaria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio 'chi inquina paga'",
+    "aliases": [],
+    "legal_ref": "Dir. 2008/98/CE",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di corrispondenza tra chiesto e pronunciato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di corrispondenza tra thema decidendum e thema probandum",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di corrispondenza tra titolo esecutivo e pretesa",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di decentramento amministrativo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di definitività dei crediti erariali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di definitività dell'accertamento",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di democraticità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di derivazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di determinatezza e determinabilità dei componenti negativi di reddito",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di difesa",
+    "aliases": [
+      "principio di diritto di difesa"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di dignità umana",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di economia processuale",
+    "aliases": [
+      "principio di economia dei mezzi processuali"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di effettività del diritto dell'Unione",
+    "aliases": [
+      "principio di effettività"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di effettività della tutela giurisdizionale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di effettività e veridicità del bilancio",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di efficienza della pubblica amministrazione",
+    "aliases": [
+      "principio di efficienza amministrativa"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di eguaglianza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di equilibrio finanziario",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di equivalenza",
+    "aliases": [],
+    "legal_ref": "UE",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di esaurimento dei rapporti giuridici",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di extrema ratio",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di fedeltà della dichiarazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di fiducia reciproca tra autorità nazionali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di forza maggiore",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di immedesimazione organica",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di immediatezza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di imparzialità della pubblica amministrazione",
+    "aliases": [],
+    "legal_ref": "art. 97 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di in claris non fit interpretatio",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di indipendenza della magistratura",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di inerenza",
+    "aliases": [
+      "principio di inerenza dei costi",
+      "principio delle spese"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di interpretazione conforme del diritto dell'Unione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di interpretazione restrittiva delle eccezioni",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di irretroattività della disciplina sanzionatoria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di irretroattività delle agevolazioni fiscali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di irretroattività tributaria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di laicità dello Stato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di leale collaborazione",
+    "aliases": [
+      "principio di leale cooperazione"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di sussidiarietà",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di lealtà processuale",
+    "aliases": [
+      "principio di lealtà processuale e correttezza"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di legalità nella riscossione tributaria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di legalità tributaria",
+    "aliases": ["principio di legalità fiscale"],
+    "legal_ref": "art. 23 Costituzione",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libera circolazione dei capitali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libera circolazione delle merci",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libero convincimento del giudice",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libertà di iniziativa economica",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libertà di stabilimento",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di libertà di valutazione della prova",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di motivazione degli atti amministrativi",
+    "aliases": [
+      "principio di motivazione",
+      "principio di obbligo di motivazione",
+      "principio di obbligo di motivazione degli atti amministrativi"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di neutralità dell'IVA",
+    "aliases": ["principio di neutralità fiscale"],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di non contestazione",
+    "aliases": [],
+    "legal_ref": "art. 115 c.p.c.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di non contraddittorietà degli atti impositivi",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di non discriminazione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di obbligatorietà dell'azione penale",
+    "aliases": [],
+    "legal_ref": "art. 112 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di offensività",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di oggettività del classamento catastale",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di onnicomprensività della retribuzione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di opponibilità del giudicato",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di oralità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di parità di trattamento",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di perpetuatio jurisdictionis",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di personalità della sanzione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di precauzione",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di precostituzione del titolo esecutivo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di primato del diritto dell'Unione Europea",
+    "aliases": [
+      "principio di primazia del diritto comunitario",
+      "principio di supremazia del diritto comunitario",
+      "principio del primato del diritto UE",
+      "principio del primato del diritto comunitario",
+      "principio di disapplicazione delle norme interne contrastanti col diritto UE"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di proporzionalità",
+    "aliases": ["principio di proporzionalità delle sanzioni"],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di vicinanza della prova",
+    "aliases": [
+      "principio di prossimità della prova",
+      "principio di prossimità alla prova",
+      "principio di vicinanza alla prova"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di pubblicità degli atti amministrativi",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di ragionevolezza",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di reciprocità nei trattati internazionali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di retroattività della lex mitior",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di riserva di legge",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di sanatoria della notifica per raggiungimento dello scopo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di segregazione patrimoniale nel trust",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di semplificazione amministrativa",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di separazione delle giurisdizioni",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di sinallagmaticità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di solidarietà",
+    "aliases": [
+      "principio di solidarietà economica e sociale",
+      "principio di solidarietà contributiva"
+    ],
+    "legal_ref": "art. 2 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di solidarietà nell'obbligazione tributaria",
+    "aliases": [
+      "principio di solidarietà nelle obbligazioni tributarie"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di sostenibilità finanziaria e equilibrio di bilancio",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di specialità della giurisdizione tributaria",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di stretta interpretazione delle norme agevolative",
+    "aliases": ["principio di stretta interpretazione delle agevolazioni fiscali"],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di stretta legalità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di legalità",
+    "aliases": ["principio di legalità procedimentale"],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di tassatività degli atti impugnabili",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di tassatività delle cause di nullità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di tempestività del ricorso",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di territorialità",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di terzietà del giudice",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di trasparenza amministrativa",
+    "aliases": [
+      "principio di trasparenza degli uffici pubblici",
+      "principio di trasparenza dell'azione amministrativa",
+      "principio di trasparenza dell'amministrazione",
+      "principio di trasparenza"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di uguaglianza",
+    "aliases": [
+      "principio di uguaglianza sostanziale"
+    ],
+    "legal_ref": "art. 3 Cost.",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio di unicità dell'accertamento tributario",
+    "aliases": [
+      "principio di unicità dell'accertamento"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio generale antielusivo",
+    "aliases": [
+      "principio antielusivo"
+    ],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio generale dei rapporti tra giudice ordinario e giudici speciali",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio in dubio pro reo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio inadimplenti non est adimplendum",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio iura novit curia",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio iuxta alligata et probata",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio nulla executio sine titulo",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio pacta sunt servanda",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio pluralistico",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio praesumptum de praesumpto non admittitur",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio quae temporalia ad agendum, perpetua ad excepiendum",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio quod nullum est nullum producit effectum",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  },
+  {
+    "standard": "principio secondo cui le spese non possono essere poste a carico della parte vittoriosa",
+    "aliases": [],
+    "legal_ref": "",
+    "urn_ref": null
+  }
+]

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Decadenza dal potere impositivo per accertamento di quote di ammortamento" id="Q1">
+    <text>Se il contribuente impugni un accertamento fiscale relativo a quote di ammortamento dedotte negli anni successivi a quello della loro prima iscrizione in bilancio, sostenendo che il termine di decadenza decorra dall'anno del sostenimento della spesa e non dall'anno di deduzione, la decadenza dell'amministrazione finanziaria debba essere valutata in riferimento all'anno in cui il singolo rateo è stato dedotto nella dichiarazione.</text>
+    <esito_questione favorevole_a="ufficio">L'eccezione di decadenza non è fondata.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha dedotto quote di ammortamento negli anni successivi a quello della loro prima iscrizione in bilancio.</item>
+      <item>L'amministrazione finanziaria ha emesso un avviso di accertamento relativo a tali deduzioni.</item>
+      <item>Il contribuente sostiene che il termine di decadenza debba decorrere dall'anno del sostenimento della spesa.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione, Sezioni Unite, n. 8500/2021"/>
+      <item id="D2" type="norm" ref="art. 43 DPR n. 600/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La Cassazione ha statuito che la decadenza va valutata in riferimento all'anno in cui il singolo rateo è stato dedotto nella dichiarazione, non dall'anno della prima iscrizione in bilancio.</item>
+      <item id_ref="D2">L'articolo regola i termini di decadenza per l'accertamento fiscale, stabilendo che il termine decorre dalla presentazione della dichiarazione dei redditi relativa all'anno in cui il componente di reddito è stato dedotto.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice, seguendo il principio stabilito dalle Sezioni Unite della Cassazione, ritiene che il termine di decadenza per l'accertamento delle quote di ammortamento decorra dall'anno in cui tali quote sono state dedotte nella dichiarazione dei redditi, e non dall'anno del sostenimento della spesa. Pertanto, l'eccezione di decadenza sollevata dal contribuente è rigettata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato un accertamento fiscale relativo a quote di ammortamento dedotte in anni successivi a quello della loro prima iscrizione in bilancio, sostenendo che il termine di decadenza decorresse dall'anno del sostenimento della spesa. La Commissione Tributaria, richiamando la sentenza delle Sezioni Unite della Cassazione n. 8500/2021 e l'art. 43 DPR n. 600/1973, ha rigettato l'eccezione, stabilendo che il termine di decadenza decorre dall'anno in cui il singolo rateo è stato dedotto nella dichiarazione dei redditi. La questione è stata risolta a favore dell'amministrazione finanziaria.</riassunto>
+  </questione>
+  <questione title="Inerenza delle spese per climatizzatori e migliorie allo studio professionale" id="Q2">
+    <text>Se un contribuente, nell'esercizio della sua attività professionale, deduca come costi inerenti spese per l'acquisto di climatizzatori e per migliorie allo studio professionale, tali spese debbano essere considerate inerenti all'attività professionale e quindi deducibili.</text>
+    <esito_questione favorevole_a="contribuente">Il ricorso è parzialmente fondato.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha sostenuto spese per l'acquisto di climatizzatori da installare nel suo studio professionale.</item>
+      <item>L'Ufficio ha contestato l'inerenza di tali spese, ritenendole eccessive e in parte destinate alla residenza del professionista.</item>
+      <item>Il contribuente ha sostenuto spese per migliorie e ammodernamento dello studio professionale, allora in locazione ma in procinto di essere acquistato.</item>
+      <item>L'Ufficio ha contestato l'inerenza di tali spese, sostenendo che il contratto di locazione vietava migliorie e che le spese erano sproporzionate.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di inerenza dei costi"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il principio di inerenza dei costi richiede che le spese siano funzionali all'esercizio dell'attività professionale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che le spese per migliorie e ammodernamento dello studio professionale siano inerenti all'attività, considerando verosimile che l'imminente acquisto dell'immobile abbia superato i divieti contrattuali. Per i climatizzatori, pur ritenendo irrilevante l'intestazione delle fatture, considera eccessivo il numero di apparecchi rispetto alle dimensioni dello studio, accogliendo parzialmente la deduzione per metà degli apparecchi. Pertanto, il ricorso è accolto in parte.</ragionamento_giudice>
+    <riassunto>Il contribuente ha dedotto come costi inerenti spese per climatizzatori e migliorie allo studio professionale. La Commissione Tributaria ha ritenuto inerenti le spese per migliorie e ammodernamento, considerando verosimile che l'imminente acquisto dell'immobile avesse superato i divieti contrattuali. Per i climatizzatori, ha ritenuto eccessivo il numero di apparecchi rispetto alle dimensioni dello studio, accogliendo la deduzione solo per metà degli apparecchi. Il ricorso è stato così parzialmente accolto, con annullamento limitato dell'avviso di accertamento.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Accertamento operazioni inesistenti e onere probatorio" id="Q1">
+    <text>Se l'Ufficio abbia adempiuto al proprio onere probatorio riguardo all'inesistenza delle operazioni indicate nelle fatture emesse da società terze e se i ricorrenti abbiano fornito sufficienti elementi per dimostrare l'effettiva esecuzione delle stesse.</text>
+    <esito_questione favorevole_a="ufficio">L'Ufficio ha adempiuto al proprio onere probatorio e i ricorrenti non hanno fornito sufficienti elementi a dimostrazione dell'effettiva esecuzione delle operazioni.</esito_questione>
+    <premesse_fatto>
+      <item>L'Ufficio ha accertato un maggior reddito di impresa nei confronti della società Ricorrente_1, basandosi su indagini relative a fatture per operazioni inesistenti emesse da Soc_1 e Soc_2.</item>
+      <item>Le società Soc_1 e Soc_2 hanno dichiarato volumi di affari sproporzionati rispetto ai consumi, beni strumentali e dipendenti, senza presentare modelli 770 o versare IVA.</item>
+      <item>I ricorrenti hanno prodotto documentazione contabile e fotografie di bancali di merce, ma senza elementi contestuali che ne dimostrino il collegamento con le fatture contestate.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cass. 13 febbraio 2018 n. 3473" />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza della Cassazione viene citata per affermare che, in caso di emissione di fatture per operazioni inesistenti, l'Ufficio deve fornire prova anche indiziaria dell'inesistenza, ma spetta poi alla parte dimostrare l'effettiva esecuzione delle operazioni.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice valuta che l'Ufficio abbia fornito sufficienti elementi probatori (dichiarazioni incongruenti, assenza di beni strumentali e dipendenti delle società emittenti) per presumere l'inesistenza delle operazioni. I ricorrenti, invece, non hanno prodotto elementi concreti (oltre alla documentazione contabile insufficiente per giurisprudenza) che dimostrino l'effettiva esecuzione delle operazioni, limitandosi a generiche affermazioni e fotografie prive di contesto.</ragionamento_giudice>
+    <riassunto>L'Ufficio aveva accertato un maggior reddito basandosi su fatture emesse da società (Soc_1 e Soc_2) prive di beni strumentali e dipendenti, con dichiarazioni incongruenti. I ricorrenti contestavano l'accertamento, ma fornivano solo documenti contabili e fotografie non contestualizzate, insufficienti a dimostrare l'effettiva esecuzione delle operazioni. Secondo la giurisprudenza (Cass. 3473/2018), l'Ufficio aveva adempiuto al proprio onere probatorio, mentre i ricorrenti no. Pertanto, il ricorso è rigettato.</riassunto>
+  </questione>
+  <questione title="Nullità degli avvisi per omissione di allegati" id="Q2">
+    <text>Se la mancata allegazione della segnalazione della DP di Caserta agli atti di accertamento integri una nullità degli stessi per violazione degli obblighi di motivazione di cui all’art. 24 Cost., 42 DPR 600/73 e 7 L. 212/2000.</text>
+    <esito_questione favorevole_a="ufficio">La mancata allegazione non determina nullità, poiché i dati salienti della segnalazione erano comunque riportati negli avvisi e i ricorrenti non hanno dimostrato pregiudizi.</esito_questione>
+    <premesse_fatto>
+      <item>La DP di Caserta non aveva allegato agli avvisi la segnalazione che aveva costituito la base per gli accertamenti.</item>
+      <item>I ricorrenti hanno eccepito la nullità degli avvisi per violazione degli obblighi di motivazione.</item>
+      <item>L'Ufficio ha prodotto la segnalazione in corso di causa, sostenendo che i dati salienti erano già negli avvisi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D3" type="norm" ref="art. 24 Cost." />
+      <item id="D4" type="norm" ref="art. 42 DPR 600/73" />
+      <item id="D5" type="norm" ref="art. 7 L. 212/2000" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D3">L'articolo è richiamato quale fondamento del diritto di difesa e del principio di motivazione degli atti amministrativi.</item>
+      <item id_ref="D4">La norma disciplina gli obblighi di allegazione documentale negli accertamenti tributari.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che la segnalazione omessa conteneva dati già sintetizzati negli avvisi, senza che i ricorrenti abbiano indicato elementi decisivi mancanti. La produzione tardiva non ha quindi pregiudicato il contraddittorio, rendendo la nullità infondata.</ragionamento_giudice>
+    <riassunto>I ricorrenti eccepivano la nullità degli avvisi per mancata allegazione della segnalazione della DP di Caserta, invocando gli artt. 24 Cost., 42 DPR 600/73 e 7 L. 212/2000. Tuttavia, il giudice rileva che i dati essenziali erano già negli avvisi e i ricorrenti non hanno dimostrato l'omissione di elementi decisivi. La nullità è dunque esclusa.</riassunto>
+  </questione>
+</questioni>

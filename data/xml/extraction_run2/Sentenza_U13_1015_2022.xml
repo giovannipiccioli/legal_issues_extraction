@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimazione attiva della ricorrente al rimborso IRBA" id="Q1">
+    <text>Se la società ricorrente, in qualità di soggetto erogatore e non consumatore finale, fosse legittimata a richiedere il rimborso dell’IRBA versata.</text>
+    <esito_questione favorevole_a="ufficio">La società ricorrente non è legittimata a richiedere il rimborso, essendo il consumatore finale il soggetto passivo dell’imposta.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_1 ha impugnato il diniego di rimborso n. 00024693/2022 relativo all’IRBA versata per gli anni 2012-2020.</item>
+      <item>L’IRBA è un’imposta regionale sulla benzina per autotrazione, dovuta dal consumatore finale e riscossa dal soggetto erogatore.</item>
+      <item>La ricorrente ha chiesto il rimborso dell’IRBA versata, sostenendo l’incompatibilità della normativa con la direttiva UE 2008/118/CE.</item>
+      <item>La Regione Piemonte ha eccepito la carenza di legittimazione attiva della ricorrente, poiché il diritto al rimborso spetterebbe ai consumatori finali.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 6, comma 1 lett. c) l. 14 giugno 1990 n. 158"/>
+      <item id="D2" type="norm" ref="l.r. Piemonte 31 agosto 1993, n. 47, art. 3"/>
+      <item id="D3" type="jur" ref="Cass., sez. V civ., 29 ottobre 2020, n. 23883 ord."/>
+      <item id="D4" type="jur" ref="SS.UU. civili, 16 febbraio 2016, n. 2951; sez. III civ., 15 maggio 2018, n. 11744"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l’art. 6 della l. 158/1990 per stabilire che il soggetto passivo dell’IRBA è il consumatore finale, mentre l’erogatore ha solo il ruolo di esattore.</item>
+      <item id_ref="D2">La l.r. Piemonte n. 47/1993 ribadisce che l’imposta è dovuta dal consumatore e riscossa dall’erogatore, confermando la disciplina statale.</item>
+      <item id_ref="D4">La giurisprudenza della Cassazione è citata per chiarire che la legittimazione attiva richiede la titolarità del diritto azionato, che nel caso manca.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che l’IRBA è dovuta dal consumatore finale e riscossa dall’erogatore, il quale agisce come mero esattore. Pertanto, la ricorrente, in qualità di erogatore, non è titolare del diritto al rimborso, spettante invece ai consumatori. La contestazione della Regione riguarda la titolarità del diritto, non la legittimazione ad agire. Applicando la giurisprudenza della Cassazione, il giudice conclude che la ricorrente non ha titolo per richiedere il rimborso, rendendo infondata la domanda. Il ricorso è respinto.
+</ragionamento_giudice>
+    <riassunto>La ricorrente, società erogatrice di benzina, ha chiesto il rimborso dell’IRBA versata tra il 2012 e il 2020, sostenendo l’illegittimità dell’imposta alla luce della direttiva UE 2008/118/CE. La Regione Piemonte ha eccepito la mancata legittimazione attiva della ricorrente, poiché l’IRBA era dovuta dai consumatori finali e riscossa dalla società come mero esattore. Il giudice ha rilevato che l’art. 6, comma 1, lett. c, della l. 158/1990 e l’art. 3 della l.r. Piemonte n. 47/1993 attribuivano la soggettività passiva ai consumatori, escludendo la titolarità del diritto di rimborso per la ricorrente. Pertanto, il ricorso è stato respinto per infondatezza nel merito.</riassunto>
+  </questione>
+  <questione title="Arricchimento senza causa in caso di rimborso IRBA" id="Q2">
+    <text>Se il rimborso diretto alla società ricorrente, senza previa restituzione ai consumatori finali, costituisse un arricchimento senza causa.</text>
+    <esito_questione favorevole_a="ufficio">Il rimborso diretto alla società costituirebbe un arricchimento senza causa, poiché l’imposta era già traslata sui consumatori.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_1 ha versato € 3.028.378,90 di IRBA per gli anni 2012-2020</item>
+      <item>La società ha richiesto il rimborso diretto senza provvedere alla restituzione ai consumatori finali</item>
+      <item>La Regione Piemonte ha opposto che il rimborso diretto costituirebbe un arricchimento senza causa, poiché l’imposta era stata traslata sui consumatori</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 6, comma 1 lett. c) primo periodo, l. 14 giugno 1990 n. 158"/>
+      <item id="D2" type="norm" ref="l.r. Piemonte 31 agosto 1993, n. 47, art. 3"/>
+      <item id="D3" type="jur" ref="Cass., SS.UU. civili, 16 febbraio 2016, n. 2951"/>
+      <item id="D4" type="jur" ref="Cass., sez. III civ., 15 maggio 2018, n. 11744"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita la norma statale originaria dell’IRBA per dimostrare che il soggetto passivo dell’imposta era il consumatore finale, non la società erogatrice</item>
+      <item id_ref="D2">La legge regionale viene richiamata per confermare il ruolo della società come mero esattore del tributo, con obbligo di versamento alla Regione</item>
+      <item id_ref="D3">La giurisprudenza viene utilizzata per affrontare la questione della titolarità del diritto al rimborso, stabilendo che spetta al consumatore finale</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice osserva che l’IRBA era dovuta dai consumatori finali (art. 6 l. 158/1990) e la società fungesse solo da esattore (art. 3 l.r. 47/1993). Pertanto, il rimborso diretto alla società – senza restituzione agli effettivi soggetti passivi (i consumatori) – costituirebbe un arricchimento senza causa, poiché l’imposta era stata già traslata. La titolarità del diritto al rimborso spetta esclusivamente ai consumatori, come confermato dalla giurisprudenza (Cass. n. 2951/2016). La domanda della società è infondata per carenza di titolarità del diritto azionato.
+</ragionamento_giudice>
+    <riassunto>La Regione ha sostenuto che il rimborso dell’IRBA alla società ricorrente, senza prova del reintegro ai consumatori finali, avrebbe determinato un arricchimento senza causa. Il giudice ha concordato, osservando che l’IRBA, per legge, era versata dai consumatori al momento dell’acquisto e introitata dalla società solo come esattore. Poiché la ricorrente non era il soggetto passivo, il rimborso diretto avrebbe violato il principio di correlazione tra soggetto obbligato e beneficiario. La questione è stata risolta in via preliminare, confermando l’assenza di titolarità del diritto azionato.</riassunto>
+  </questione>
+</questioni>

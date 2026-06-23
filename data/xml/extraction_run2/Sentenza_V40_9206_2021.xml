@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Esenzione IMU per terreni agricoli" id="Q1">
+    <text>Se un contribuente, pur sostenendo di essere coltivatore diretto o imprenditore agricolo professionale, non fornisca prove sufficienti di tale status e i terreni siano ubicati in un comune non montano ai sensi dell'elenco ISTAT, sia dovuta l'IMU per tali terreni.</text>
+    <esito_questione favorevole_a="ufficio">L'IMU è dovuta, poiché il contribuente non ha provato il requisito soggettivo (status di coltivatore diretto o imprenditore agricolo professionale) e il Comune non rientra tra quelli montani esenti.</esito_questione>
+    <premesse_fatto>
+      <item>Ricorrente_1 sostiene di essere imprenditore agricolo e coltivatore diretto dei propri terreni, chiedendo l'esenzione IMU per i terreni di cui al foglio n. 26 e n. 36.</item>
+      <item>Il Comune di Mineo ha contestato la mancata presentazione della dichiarazione IMU e ha negato l'esenzione, poiché il contribuente non ha dimostrato di possedere i requisiti soggettivi (status di coltivatore diretto o imprenditore agricolo professionale).</item>
+      <item>Il Comune di Mineo è ubicato a un'altitudine di 511 m s.l.m. e non rientra nell'elenco ISTAT dei comuni montani esenti.</item>
+      <item>Il ricorrente ha prodotto documentazione relativa all'anno 2016, ma non ha fornito prove valide per l'anno d'imposta 2014.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7, comma 1, lett. h, dlgs n. 504/1992"/>
+      <item id="D2" type="norm" ref="art. 9, comma 8, dlgs n. 23/2011"/>
+      <item id="D3" type="norm" ref="art. 13, dl n. 201/2011 convertito in l. n. 214/2011"/>
+      <item id="D4" type="norm" ref="art. 4, comma 5-bis, dl n. 16/2012 convertito in l. n. 44/2012"/>
+      <item id="D5" type="norm" ref="art. 22, comma 2, dl n. 66/2014 convertito in l. n. 143/2014"/>
+      <item id="D6" type="norm" ref="D.M. 28 novembre 2014"/>
+      <item id="D7" type="norm" ref="art. 1, dl n. 4/2015 convertito in l. n. 34/2015"/>
+      <item id="D8" type="princ" ref="Gerarchia delle fonti normative"/>
+      <item id="D9" type="jur" ref="Corte Costituzionale n. 17/2018"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina l'esenzione IMU per terreni agricoli in aree montane o di collina.</item>
+      <item id_ref="D6">Specifica i criteri altimetrici e soggettivi per l'esenzione IMU, basati sull'elenco ISTAT.</item>
+      <item id_ref="D7">Conferma l'esenzione solo per comuni montani e per coltivatori diretti/imprenditori agricoli professionali iscritti alla previdenza agricola.</item>
+      <item id_ref="D8">Esclude l'applicabilità di norme comunali in contrasto con fonti primarie.</item>
+      <item id_ref="D9">Dichiarazione di costituzionalità delle norme sull'esenzione IMU.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che l'esenzione IMU è subordinata alla prova dello status di coltivatore diretto o imprenditore agricolo professionale (art. 1 dlgs n. 99/2004) e alla ubicazione in comuni montani (D.M. 28/11/2014). Poiché il ricorrente non ha provato tale status per l’anno 2014 e Mineo non è classificato come comune montano dall’ISTAT, l’esenzione non sussiste. Il regolamento comunale, incompleto e in contrasto con norme primarie, non può derogare alla disciplina nazionale. La sentenza costituzionale n. 17/2018 conferma la legittimità dei criteri restrittivi.</ragionamento_giudice>
+    <riassunto>
+      Il ricorrente, proprietario di terreni agricoli nel Comune di Mineo (altitudine 511 m s.l.m.), contestava l’accertamento IMU 2014 affermando di essere coltivatore diretto e di godere di un’esenzione prevista dal regolamento comunale. Il giudice ha rilevato che l’esenzione per terreni agricoli, prevista dall’art. 7, comma 1, lett. h, del d.lgs. n. 504/1992 e confermata per l’IMU dal d.lgs. n. 23/2011, richiede: (1) lo status di coltivatore diretto o imprenditore agricolo professionale (art. 1 d.lgs. n. 99/2004) con iscrizione alla previdenza agricola, e (2) la collocazione del comune in aree montane (DM 28/11/2014, come modificato dal d.l. n. 4/2015). Il ricorrente non ha provato l’iscrizione alla previdenza agricola nel 2014, e Mineo non figura tra i comuni montani ISTAT. Il regolamento comunale non può derogare alla normativa statale. Pertanto, l’accertamento è confermato.
+    </riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Determinazione del valore di un terreno edificabile ai fini delle imposte indirette" id="Q1">
+    <text>Se il valore di un terreno edificabile sia correttamente determinato dall'ufficio in base ai criteri di cui agli artt. 51 e 52 del d.p.r. 131/1986, considerando comparazioni con terreni nella stessa zona e applicando una riduzione prudenziale.</text>
+    <esito_questione favorevole_a="ufficio">Il valore determinato dall'ufficio è confermato.</esito_questione>
+    <premesse_fatto>
+      <item>Terreno edificabile in zona industriale, con superficie complessiva di 10.894 mq circa.</item>
+      <item>Valore originario dichiarato: € 111.665,00.</item>
+      <item>Valore rettificato dall'ufficio: € 233.535,00.</item>
+      <item>Vicinanza al mare e presenza di fascia di rispetto di 150 mt. dalla battigia.</item>
+      <item>Natura in parte sabbiosa del terreno.</item>
+      <item>Perizia giurata dai venditori che stabilisce un valore di € 108.940,00.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 51 d.p.r. 131/1986"/>
+      <item id="D2" type="norm" ref="art. 52 d.p.r. 131/1986"/>
+      <item id="D3" type="jur" ref="Cassazione I sezione, sentenze 10747/2020, 13203/2020, 13598/2020"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 51 perché fissa i criteri per la determinazione del valore dei beni ai fini delle imposte indirette</item>
+      <item id_ref="D2">Il giudice cita l'art. 52 perché stabilisce le modalità di comparazione per determinare il valore</item>
+      <item id_ref="D3">Il giudice cita le sentenze della Cassazione per confermare che la fascia di rispetto non riduce il volume edificabile</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che l'ufficio abbia correttamente applicato i criteri di cui agli artt. 51 e 52 del d.p.r. 131/1986, avendo considerato confronti con terreni nella stessa zona e applicato una riduzione prudenziale del 15%. Le obiezioni della ricorrente sulla vicinanza al mare e sulla natura sabbiosa del terreno non inficiano la valutazione, poiché la fascia di rispetto non riduce il volume edificabile ma implica solo un onere di arretramento, come chiarito dalla Cassazione.</ragionamento_giudice>
+    <riassunto>La ricorrente impugnava l'avviso di rettifica del valore di un terreno edificabile, contestando l'eccessività del valore accertato dall'ufficio. Il giudice ha confermato la determinazione del valore, ritenendo che l'ufficio abbia correttamente applicato i criteri di cui agli artt. 51 e 52 del d.p.r. 131/1986, considerando confronti con terreni nella stessa zona e applicando una riduzione prudenziale. Le obiezioni della ricorrente sulla vicinanza al mare e sulla natura sabbiosa del terreno sono state ritenute irrilevanti, poiché non inficiavano la valutazione del volume edificabile. La sentenza ha dunque rigettato il ricorso.</riassunto>
+  </questione>
+</questioni>

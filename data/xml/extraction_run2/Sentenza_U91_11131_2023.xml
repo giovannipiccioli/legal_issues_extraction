@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Giurisdizione su contributi IVS" id="Q1">
+    <text>Se il contribuente impugni una cartella di pagamento relativa a contributi IVS (Invalidità, Vecchiaia, Superstiti) dovuti all'INPS, spetti al giudice tributario o al giudice ordinario decidere sulla controversia.</text>
+    <esito_questione favorevole_a="other">La controversia rientra nella giurisdizione del giudice ordinario.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato la Cartella n. 09720100190195481000, relativa a contributi IVS.</item>
+      <item>L'Agenzia delle Entrate-Riscossione non si è costituita in giudizio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 24 comma 5 d.lgs n. 46/1999"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'articolo stabilisce che le controversie sui contributi previdenziali sono di competenza del giudice ordinario, anche se richiesti mediante cartella di pagamento.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha rilevato che i contributi IVS sono previdenziali e rientrano nella competenza del giudice ordinario ai sensi dell'art. 24 comma 5 del dlgs 46/99. Pertanto, il giudice tributario non ha giurisdizione sulla controversia.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato una cartella di pagamento relativa a contributi IVS. Il giudice ha stabilito che, ai sensi dell'art. 24 comma 5 del dlgs 46/99, tali controversie sono di competenza del giudice ordinario, poiché riguardano contributi previdenziali. Di conseguenza, il giudice tributario ha dichiarato il difetto di giurisdizione.</riassunto>
+  </questione>
+  <questione title="Decadenza del potere impositivo per mancata notifica" id="Q2">
+    <text>Se il contribuente, impugnando un'intimazione di pagamento, possa eccepire la decadenza del potere impositivo per mancata notifica degli atti presupposti.</text>
+    <esito_questione favorevole_a="contribuente">Il contribuente può eccepire la decadenza del potere impositivo per mancata notifica.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato l'intimazione di pagamento n. 09720229003404553000, sostenendo di non aver ricevuto la notifica degli atti presupposti.</item>
+      <item>L'Agenzia delle Entrate-Riscossione non ha dimostrato l'avvenuta notifica degli atti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 43 DPR n. 600/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'articolo prevede la decadenza del potere impositivo se gli atti non sono notificati al contribuente.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha rilevato che il contribuente ha impugnato sia l'intimazione sia gli atti presupposti, eccependo la mancata notifica. Poiché l'Agenzia non ha dimostrato l'avvenuta notifica, il giudice ha applicato l'art. 43 del DPR 600/1973, dichiarando la decadenza del potere impositivo.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato un'intimazione di pagamento, eccependo la mancata notifica degli atti presupposti. Il giudice ha accertato che l'Agenzia non ha dimostrato l'avvenuta notifica e ha applicato l'art. 43 del DPR 600/1973, dichiarando la decadenza del potere impositivo. Pertanto, il ricorso è stato accolto in parte.</riassunto>
+  </questione>
+</questioni>

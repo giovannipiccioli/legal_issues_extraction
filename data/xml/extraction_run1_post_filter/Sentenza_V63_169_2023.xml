@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità della notifica via PEC degli atti impositivi" id="Q1">
+    <text>Se la notifica degli avvisi di intimazione di pagamento via PEC sia nulla per mancata dimostrazione della corretta sottoscrizione digitale e della sequenza binaria dei file trasmessi.</text>
+    <esito_questione favorevole_a="ufficio">La notifica è valida.</esito_questione>
+    <premesse_fatto>
+      <item>L'Ufficio ha notificato via PEC gli avvisi di intimazione di pagamento.</item>
+      <item>Il contribuente ha impugnato gli atti, sostenendo l'inesistenza giuridica per irregolarità informatiche (mancanza di prova sulla sottoscrizione digitale e identità binaria dei file).</item>
+      <item>La CTP di primo grado ha ritenuto valida la notifica, considerando i file originale e correttamente sottoscritti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 20 D.lgs. 82/2005 (Codice dell’Amministrazione Digitale)" />
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l’art. 20 per stabilire che la firma digitale si presume riconducibile al titolare del dispositivo, salvo prova contraria.</item>
+      </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice respinge le censure perché:
+      1) L’art. 20 D.lgs. 82/2005 stabilisce una presunzione legale a favore dell’Ufficio riguardo alla sottoscrizione digitale, invertendo l’onere della prova. Il contribuente non ha fornito elementi concreti per disconoscere la firma.
+      2) La contestazione sulla sequenza binaria è generica e priva di riscontri oggettivi. L’Ufficio ha documentato la regolare trasmissione e ricezione degli atti, senza che il contribuente dimostrasse menomazioni al diritto di difesa o incongruenze nei file ricevuti.
+    </ragionamento_giudice>
+    <riassunto>
+      La società impugnava gli avvisi di intimazione di pagamento notificati via PEC, sostenendo la nullità per mancata prova della corretta sottoscrizione digitale e dell’identità binaria dei file. Il giudice ha ritenuto infondate le censure, applicando l’art. 20 D.lgs. 82/2005, che presume la validità della firma digitale a meno di prova contraria non fornita dal contribuente. Quanto alla sequenza binaria, la doglianza è stata giudicata generica, mancando la dimostrazione di specifici vizi. La notifica è dunque valida, confermando la sentenza di primo grado.
+    </riassunto>
+  </questione>
+  <questione title="Completezza della componente precettiva negli atti impositivi" id="Q2">
+    <text>Se gli avvisi di intimazione di pagamento siano nulli per omessa indicazione dei criteri di calcolo degli interessi dovuti in caso di rateazione.</text>
+    <esito_questione favorevole_a="ufficio">Gli atti sono validi.</esito_questione>
+    <premesse_fatto>
+      <item>Gli avvisi impugnati indicavano l’ammontare degli interessi (4%), la data finale di decorrenza (31/05/2021) e gli importi capitale residui.</item>
+      <item>Il contribuente ha eccepito la mancanza di dettagli sul metodo di calcolo.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D2" type="norm" ref="art. 68 comma 1 D.lgs. 546/1992 (liquidazione coattiva)" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice osserva che:
+      1) Gli interessi sono frutto di mera applicazione legale (tasso fisso al 4%) e non richiedono discrezionalità. L’Ufficio ha comunque fornito dati essenziali (importo, tasso, scadenza).
+      2) La pretesa di ulteriori dettagli è pretestuosa, essendo gli atti conformi alle prescrizioni minime.
+    </ragionamento_giudice>
+    <riassunto>
+      La società eccepiva la nullità degli avvisi per omessa indicazione dei criteri di calcolo degli interessi. Il giudice ha respinto la tesi, rilevando che gli interessi derivano da applicazione automatica della legge (tasso 4%) e che gli atti riportavano tutti gli elementi necessari (importo, tasso, scadenza). Nessuna norma impone una motivazione approfondita per elementi calcolati meccanicamente. La carenza allegata dal contribuente è dunque inesistente, confermandosi la validità degli atti.
+    </riassunto>
+  </questione>
+</questioni>

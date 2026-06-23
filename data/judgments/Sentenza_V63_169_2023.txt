@@ -1,0 +1,135 @@
+La Corte di Giustizia Tributaria di secondo grado del PIEMONTE Sezione 1, riunita in udienza il
+03/04/2023 alle ore 14:00 con la seguente composizione collegiale:
+GIUSTA MAURIZIA, Presidente
+RINALDI ETTORE, Relatore
+PALADINO DAVIDE, Giudice
+in data 03/04/2023 ha pronunciato la seguente
+SENTENZA
+- sull'appello n. 858/2022 depositato il 29/09/2022
+proposto da
+Ricorrente_1 - P.IVA_1
+ Difeso da
+ Difensore_1 - CF_Difensore_1
+ Difensore_2 - CF_Difensore_2
+ ed elettivamente domiciliato presso Email_1
+contro
+Ag. Entrate Direzione Provinciale Verbano-Cusio-Ossola
+ elettivamente domiciliato presso Email_2
+Avente ad oggetto l'impugnazione di: 
+- pronuncia sentenza n. 8/2022 emessa dalla Commissione Tributaria Provinciale VERBANIA sez. 1 e
+pubblicata il 16/02/2022
+Atti impositivi:
+- AVVISO DI INTIMAZIONE n. T7XIPRN00006/2021 RITENUTE IRPEF 2012
+- AVVISO DI INTIMAZIONE n. T7XIPRN00006/2021 IRES-ALTRO 2012
+- AVVISO DI INTIMAZIONE n. T7XIPRN00006/2021 IVA-ALTRO 2012
+- AVVISO DI INTIMAZIONE n. T7XIPRN00006/2021 IRAP 2012
+- AVVISO DI INTIMAZIONE n. T7XIPRN00007/2021 RITENUTE IRPEF 2013
+- AVVISO DI INTIMAZIONE n. T7XIPRN00007/2021 IRES-ALTRO 2013
+- AVVISO DI INTIMAZIONE n. T7XIPRN00007/2021 IVA-ALTRO 2013
+Sentenza n. 169/2023
+Depositato il 17/04/2023
+- AVVISO DI INTIMAZIONE n. T7XIPRN00007/2021 IRAP 2013
+a seguito di discussione in pubblica udienza
+Richieste delle parti:
+Conclusioni parte appellante
+Riformare la sentenza appellata e annullare gli atti impugnati. Con vittoria di spese.
+Conclusioni parte appellata
+Respingere l’appello. Con vittoria di spese.
+SVOLGIMENTO DEL PROCESSO
+In data 02/12/2020, la CTR del Piemonte depositava la sentenza 710/04/2020 con cui confermava la sentenza
+CTP di Verbania 03/01/2018 che a sua volta dichiarava legittimi gli avvisi d’accertamento T7X03023649/2016
+e T7X030200186/2017 emessi rispettivamente per i periodi d’imposta 2012 e 2013 nei confronti di 
+Ricorrente_1
+L’Ufficio, non appena ricevuta comunicazione da parte della CTR Piemonte del deposito della sentenza
+710/04/2020, emetteva le intimazioni di pagamento T7XIPRN00006/2021 (anno d’imposta 2012) e
+T7XIPRN00007/2021 (anno d’imposta 2013).
+Con le dette intimazioni, l’Ufficio liquidava, sulla base del dispositivo della sentenza 710/04/2020, le somme
+ancora dovute dalla società Ricorrente_1 al netto di quanto già affidato ed intimato durante le precedenti
+fasi del contenzioso, ai sensi del combinato disposto degli artt. 68 D.lgs. 546/1992 e 29 D.L. 78/2010.
+In particolare, in pendenza del ricorso introduttivo, il primo terzo delle maggiori imposte accertate con gli
+impugnati avvisi d’accertamento viene affidato all’Agenzia delle Entrate Riscossione mentre il pagamento
+del secondo terzo delle maggiori imposte ed i due terzi delle sanzioni vengono intimati a seguito della
+sentenza di primo grado favorevole all’Ufficio.
+L’ultimo terzo rimanente di imposta e sanzioni è a sua volta intimato a seguito della sentenza di secondo
+grado favorevole all’Ufficio come avvenuto nel caso di specie.
+In data 19/07/2021, Ricorrente_1 impugnava le intimazioni di pagamento T7XIPRN00006/2021 e
+T7XIPRN00007/2021 per i seguenti motivi:
+1. Omessa apposizione dell’attestazione di conformità sugli atti notificati via PEC o, nel caso si trattino di
+duplicati informatici, mancata prova della sequenza in bit;
+a. nell’ambito del presente motivo sono contestati:
+i. impossibilità di controllare il peso informatico dei file spediti;
+ii. mancanza di collegamento fra protocollo ed atti notificati in quanto il primo è indicato in un file diverso da
+quelli dei secondi;
+iii. assenza di prova circa la sottoscrizione digitale dei file degli atti notificati da parte del titolare del dispositivo
+firma legittimato alla sottoscrizione medesima nonché assenza di prova circa il suo stato di servizio;
+iv. omessa prova circa l’osservanza degli obblighi di conservazione del dispositivo firma da parte del suo
+titolare oltreché omessa prova dell’utilizzo esclusivo della stessa da parte del titolare medesimo;
+2. difetto della componente precettiva degli atti in quanto non sono indicati gli ulteriori interessi che il
+contribuente verrebbe a pagare nel caso intendesse pagare ratealmente le somme dovute una volta effettuato
+il loro affidamento ad Agenzia delle Entrate Riscossione;
+3. insanabile nullità degli atti notificati per omessa osservanza dello schema minimo tipico previsto dalla
+normativa di riferimento.
+Con sentenza 08/01/2022, la CTP di Verbania respingeva i ricorsi statuendo che i file delle impugnate
+intimazioni, correttamente notificate via PEC alla società ricorrente, erano gli originali informatici provvisti
+di apposita e valida firma elettronica qualificata.
+In ordine alla componente precettiva, l’adita commissione valutava come prive di fondamento le eccepite
+doglianze.
+ Propone appello la società deducendo come motivi:
+• in primo luogo, l’appellante contesta ai giudici provinciali l’aver ritenuto, in assenza di specifiche prove
+tecnico informatiche, riconducibile al titolare del dispositivo di firma digitale la sottoscrizione apposta sugli
+atti originariamente impugnati;
+• l’appellante società contesta la sentenza laddove il collegio di primo grado ha statuito che i file delle
+intimazioni originariamente impugnate sono essi stessi gli originali informatici sebbene l’Ufficio non abbia
+dimostrato che quei file notificati via PEC abbiano la medesima sequenza binaria di quelli originali;
+• l’appellante società contesta la sentenza per aver considerato adeguate le indicazioni contenute negli atti
+originariamente impugnati con riguardo alle modalità di calcolo degli interessi, indicazioni che invece erano
+carenti degli elementi utili a verificarne il corretto computo;
+• vengono infine riproposte tutte le eccezioni sollevate nel primo grado di giudizio.
+ Controdeduce l’Ufficio per la conferma della sentenza.
+ Sulla istanza di sospensione dell’efficacia esecutiva della sentenza di rimo grado la Commissione
+con ordinanza 16.1.2023 accorda la richiesta sospensione ricorrendo i gravi motivi.
+ Parte appellante deposita il 23.3.2023 memoria illustrativa.
+ Alla pubblica udienza di trattazione l‘Ufficio, collegato da remoto, conferma le proprie conclusioni,
+analogamente il difensore della società.
+MOTIVI DELLA DECISIONE
+Si premette che gli atti impugnati, intimazioni di pagamento, sono meri atti di riscossione che si limitano a
+liquidare le somme dovute, sulla base del dispositivo della sentenza di CTR o CTP favorevole all’Ufficio in
+base al disposto dell’art. 68 co. 1 D.lgs. 546/1992, in relazione agli avvisi di accertamento in precedenza
+notificati ed oggetto del giudizio conclusosi con quella stessa sentenza.
+ I motivi di ricorso riproposti in appello evidenziano asserite irregolarità nella formazione di tali atti,
+vizi propri, indicando tutta una serie di irregolarità di natura informatica tali da comportare la inesistenza
+giuridica degli atti medesimi.
+1. In relazione all’effettivo utilizzo del dispositivo di firma da parte del titolare dello stesso
+La società contesta al giudice di prime cure il non aver adeguatamente considerato il mancato assolvimento,
+da parte dell’Ufficio, dell’onere di provare l’esclusivo utilizzo del dispositivo di firma da parte del suo titolare
+e non di un terzo soggetto.
+Il motivo è da respingere, a parte la carenza di interesse a una pronuncia su una siffatta questione che
+appare meramente ipotetica , l’art. 20 D.lgs. 82/2005 configura una vera e propria presunzione legale, ex
+art. 2727 c.c., che riconduce al titolare del dispositivo le firme apposte a meno che questi non le disconosca
+fornendo prova contraria. Non si comprende perché l’Ufficio dovrebbe dimostrare che la firma digitale apposta
+sia del proprio funzionario.
+2. Relativamente alla sequenza binaria dei file delle intimazioni originariamente impugnate
+L’appellante società contesta la sentenza di primo grado laddove qualifica come originali informatici i file
+delle intimazioni originariamente impugnate senza avere verificato l’identità della sequenza binaria fra i file
+spediti dall’Ufficio e quelli ricevuti dalla società.
+Il motivo è inammissibile per genericità lamentando una serie di ipotesi alternative tra loro e francamente
+poco comprensibili se dirette a sostenere un vizio di nullità che non viene neppure enunciato nella sua
+accezione normativa. Non viene indicata alcuna menomazione del proprio diritto di difesa, non si lamenta
+di aver ricevuto un documento informatico non comprensibile o di incerta provenienza o sottoscrizione.
+L’Ufficio ha documentato le ricevute di consegna ed accettazione.
+ 3. Relativamente all’indicazione delle modalità di calcolo degli interessi
+L’appellante società contesta la sentenza che dà atto dell’effettiva indicazione, negli atti originariamente
+impugnati, dell’ammontare degli interessi per ogni singola imposta con la data finale della decorrenza ed il
+tasso applicato, senza però indicare i criteri con cui sono stati applicati gli interessi. Il motivo è infondato
+nessuna norma prescrive l’obbligo di motivare specificatamente gli interessi maturati dalle imposte richieste
+con l’atto emesso. L’ammontare degli stessi deriva dalla mera applicazione della legge senza richiedere,
+da parte dell’Ufficio, alcuna discrezionale attività che necessiti di un’ulteriore e specifica motivazione.
+In ogni caso, a pagina 2 degli atti impugnati sono indicate le informazioni di cui la società ricorrente lamenta
+l’omissione, in particolare il tasso applicato (il 4%), la data di fine del lasso temporale preso a riferimento
+(31/05/2021) e gli importi capitale a cui il suddetto tasso veniva applicato, cioè il residuo delle imposte ancora
+dovute, il che dimostra la pretestuosità del motivo di ricorso e di appello.
+ La sentenza di primo grado trova pertanto piena conferma, la soccombenza comporta condanna
+alle spese che si liquidano in ragione del valore della lite ( euro 81.138,00), secondo i parametri e criteri di
+cui al DM 10 marzo 2014, n. 55, liquidate in euro 10.000.
+P.Q.M.
+Respinge l‘appello. Condanna parte appellante alle spese di giudizio liquidate in euro 10.000.

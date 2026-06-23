@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Giurisdizione su controversie relative a contributi IVS" id="Q1">
+    <text>Se un contribuente impugni una cartella di pagamento relativa a contributi IVS (Invalidità, Vecchiaia, Superstiti) richiesti dall'INPS, spetti al giudice tributario o al giudice ordinario decidere sulla controversia.</text>
+    <esito_questione favorevole_a="other">Competenza del giudice ordinario</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato una cartella di pagamento (n. 09720100190195481000) relativa a contributi IVS.</item>
+      <item>I contributi IVS sono rapportabili a una forma di contribuzione previdenziale obbligatoria versata all'INPS.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 24 comma 5 d.lgs n. 46/1999"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'articolo stabilisce che le controversie sui contributi previdenziali, incluso il caso di richiesta tramite cartella di pagamento, rientrano nella giurisdizione del giudice ordinario.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha rilevato che i contributi IVS, essendo parte della contribuzione previdenziale obbligatoria, rientrano nella giurisdizione del giudice ordinario ai sensi dell'art. 24 comma 5 del d.lgs 46/1999. Tale norma esclude espressamente la competenza del giudice tributario anche quando i contributi sono richiesti mediante cartella di pagamento. Pertanto, il giudice tributario si è dichiarato incompetente a decidere sulla controversia relativa a tale cartella.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato una cartella di pagamento relativa a contributi IVS versati all'INPS. Il giudice ha stabilito che, ai sensi dell'art. 24 comma 5 del d.lgs 46/1999, tali controversie rientrano nella giurisdizione del giudice ordinario, poiché i contributi previdenziali sono esclusi dalla competenza tributaria. Conseguentemente, il giudice tributario si è dichiarato incompetente a decidere sulla cartella in questione.</riassunto>
+  </questione>
+  <questione title="Decadenza del potere impositivo per mancata notifica degli atti" id="Q2">
+    <text>Se un contribuente, impugnando un'avviso di intimazione di pagamento, eccepisca la mancata notifica degli atti impositivi sottostanti, comporti la decadenza del potere impositivo dell'Agenzia delle Entrate.</text>
+    <esito_questione favorevole_a="contribuente">Decadenza del potere impositivo</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato un'avviso di intimazione di pagamento, eccependo la mancata notifica degli atti impositivi (cartelle e avvisi di accertamento).</item>
+      <item>L'Agenzia delle Entrate non ha dimostrato l'avvenuta notifica degli atti.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 43 DPR n. 600/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'articolo disciplina la decadenza del potere impositivo in caso di mancata notifica degli atti entro i termini previsti.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha verificato che l'opposizione alla intimazione di pagamento includeva anche gli atti presupposti (cartelle e avvisi di accertamento), dei quali il contribuente ha contestato la notifica. Poiché l'Agenzia non ha fornito prove della regolare notifica e non ha dimostrato la sussistenza dei presupposti impositivi, il giudice ha ritenuto applicabile l'art. 43 DPR 600/1973, che sancisce la decadenza del potere impositivo per mancata notifica. Pertanto, il ricorso è stato accolto relativamente ai crediti tributari.</ragionamento_giudice>
+    <riassunto>Il contribuente ha impugnato un'avviso di intimazione di pagamento, sostenendo di non aver ricevuto la notifica delle cartelle e degli avvisi di accertamento sottostanti. Il giudice ha accertato che l'Agenzia delle Entrate non ha provato l'avvenuta notifica degli atti né ha dimostrato i presupposti impositivi. Ai sensi dell'art. 43 DPR 600/1973, la mancata notifica comporta la decadenza del potere impositivo, pertanto il giudice ha accolto il ricorso in relazione ai crediti tributari.</riassunto>
+  </questione>
+</questioni>

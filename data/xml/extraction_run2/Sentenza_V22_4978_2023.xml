@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Inammissibilità del ricorso per mancata costituzione del contraddittorio" id="Q1">
+    <text>Se la notifica del ricorso all'Agenzia delle entrate-Riscossione sia avvenuta correttamente mediante PEC, garantendo la valida costituzione del contraddittorio.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è dichiarato inammissibile per mancata costituzione del contraddittorio.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha notificato il ricorso all'Agenzia delle entrate-Riscossione tramite PEC inviata il 30/03/2022.</item>
+      <item>L'indirizzo PEC utilizzato (Email_4) appartiene all'Agenzia delle Entrate - Direzione provinciale di Cosenza, non all'Agenzia delle entrate-Riscossione.</item>
+      <item>L'Agenzia delle entrate-Riscossione non si è costituita in giudizio.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio del contraddittorio"/>
+      <item id="D2" type="norm" ref="Art. 137 c.p.c. (notificazioni)"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il principio del contraddittorio per sottolineare che la mancata costituzione di una parte essenziale (Agenzia delle entrate-Riscossione) rende il processo invalido.</item>
+      <item id_ref="D2">L'art. 137 c.p.c. è richiamato per valutare la correttezza formale della notifica, che in questo caso è risultata errata.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che la notifica è avvenuta a un indirizzo PEC non pertinente all'Agenzia delle entrate-Riscossione, destinataria effettiva del ricorso. Ciò rende la notifica inesistente e insanabile, poiché l'Agenzia non ha potuto ricevere l'atto e costituirsi. La mancanza di contraddittorio con una parte essenziale (emittente dell'atto impugnato) determina l'inammissibilità del ricorso, senza bisogno di esaminare il merito.
+    </ragionamento_giudice>
+    <riassunto>
+      Il ricorrente ha impugnato un'avviso di intimazione di pagamento emesso dall'Agenzia delle entrate-Riscossione, notificando il ricorso tramite PEC a un indirizzo errato (appartenente a un ufficio diverso). Il giudice, richiamando il principio del contraddittorio e le norme sulle notifiche, ha dichiarato inammissibile il ricorso per mancata valida costituzione del contraddittorio, essenziale per la regolarità del processo. La notifica inesistente all'Agenzia competente ha impedito la sua partecipazione al giudizio, rendendo superfluo ogni esame nel merito. Le spese sono state compensate.
+    </riassunto>
+  </questione>
+</questioni>

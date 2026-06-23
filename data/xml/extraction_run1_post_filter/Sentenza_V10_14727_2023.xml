@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità della notifica della cartella esattoriale" id="Q1">
+    <text>Se la notifica di una cartella esattoriale avvenga nelle mani di un familiare convivente, sia necessaria la prova dell'invio della raccomandata informativa ai sensi dell'art. 60, comma 1, lett. b bis, D.P.R. n. 600/1973.</text>
+    <esito_questione favorevole_a="contribuente">La notifica è invalida per mancanza di prova dell'invio della raccomandata informativa.</esito_questione>
+    <premesse_fatto>
+      <item>La cartella esattoriale è stata notificata il 27 giugno 2018 alla moglie convivente del ricorrente.</item>
+      <item>L'Agenzia delle Entrate ha dedotto la regolarità della notifica ma non ha provato l'invio della raccomandata informativa.</item>
+      <item>Non è stato prodotto in atti il preavviso di fermo amministrativo notificato successivamente.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 60 comma 1 lett. b bis D.P.R. n. 600/1973" />
+      <item id="D2" type="jur" ref="Cass. Ordinanza n. 27446/2022" />
+      <item id="D3" type="jur" ref="Cass. Sez. V, n. 2868/2017" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina i requisiti formali della notifica di atti tributari a familiari conviventi, includendo l'obbligo di invio di una raccomandata informativa.</item>
+      <item id_ref="D2">Conferma che l'invio della raccomandata è un adempimento essenziale anche per notifiche a persone di famiglia, diversamente dalla disciplina civile.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice osserva che la notifica alla moglie del ricorrente richiedeva, ai sensi dell'art. 60 D.P.R. 600/1973, anche l'invio di una raccomandata informativa, la cui prova è essenziale per la validità. La Cassazione (Ordinanza 27446/2022) ha chiarito che tale adempimento è autonomo rispetto alle regole del codice civile. L'Agenzia non ha dimostrato l'adempimento, né ha prodotto il preavviso di fermo che avrebbe potuto interrompere la prescrizione. Ne deriva l'invalidità della notifica e la prescrizione del credito.
+    </ragionamento_giudice>
+    <riassunto>
+      Una cartella esattoriale fu notificata nel 2018 alla moglie del contribuente, ma l'Agenzia delle Entrate non dimostrò l'invio della raccomandata informativa prevista dall'art. 60 D.P.R. 600/1973 per le notifiche a familiari. La giurisprudenza (Cass. 27446/2022) ribadisce che tale adempimento è essenziale e distinto dalle norme civili. L'omessa prova rende la notifica invalida, con conseguente prescrizione del credito per mancanza di altri atti interruttivi. Il ricorso è accolto.
+    </riassunto>
+  </questione>
+</questioni>

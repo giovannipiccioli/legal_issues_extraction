@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimazione passiva dell'erede beneficiato per debiti tributari" id="Q1">
+    <text>Se l'erede che abbia accettato l'eredità con beneficio d'inventario possa essere considerato legittimato passivamente ai fini del pagamento di debiti tributari maturati prima dell'apertura della successione.</text>
+    <esito_questione favorevole_a="ufficio">L'erede beneficiato è legittimato passivamente e risponde dei debiti tributari con responsabilità limitata intra vires hereditatis.</esito_questione>
+    <premesse_fatto>
+      <item>Ricorrente_1 ha accettato l'eredità del padre deceduto il 26.9.2004 con beneficio d'inventario il 15.9.2005, divenendo unico erede.</item>
+      <item>L'Avviso di accertamento n. 417/2010 relativo all'ICI per l'anno 2007 riguarda immobili pervenuti al ricorrente iure hereditario.</item>
+      <item>Il ricorrente contesta la legittimazione passiva, sostenendo che, in qualità di erede beneficiato, non dovrebbe rispondere con il proprio patrimonio personale dei debiti tributari preesistenti alla successione.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 490 cod. civ." />
+      <item id="D2" type="jur" ref="Cass. 26 luglio 2012, n. 13206" />
+      <item id="D3" type="jur" ref="Cass. 2 giugno 1992, n. 6683" />
+      <item id="D4" type="jur" ref="Cass. 23 giugno 1992, n. 7695" />
+      <item id="D5" type="jur" ref="Cass. 9 agosto 2005, n. 16739" />
+      <item id="D6" type="jur" ref="Cass. 26 giugno 2007, n. 14766" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 490 c.c. per affermare che l'erede beneficiato, pur con responsabilità limitata intra vires hereditatis, subentra nella titolarità attiva e passiva dell'asse ereditario.</item>
+      <item id_ref="D2">La sentenza richiama Cass. n. 13206/2012 per confermare che l'erede beneficiato è legittimato passivamente in proprio, salva la limitazione di responsabilità se eccepita.</item>
+      <item id_ref="D3">Cass. n. 6683/1992 è citata per escludere che l'eredità beneficiata costituisca un soggetto autonomo, ribadendo la continuità soggettiva tra de cuius ed erede.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice rigetta la tesi del difetto di legittimazione passiva, evidenziando che l'accettazione con beneficio d'inventario (art. 490 c.c.) non esclude la soggettività dell'erede, ma limita solo la responsabilità ai beni ereditari. L'erede, in quanto continuatore del de cuius, risponde dei debiti tributari preesistenti intra vires hereditatis (Cass. 13206/2012), potendo eccepire tale limitazione solo in opposizione alla pretesa. La giurisprudenza unanime (Cass. 6683/1992) esclude che l'eredità beneficiata abbia autonomia soggettiva, confermando la piena titolarità dell'erede sui beni.
+</ragionamento_giudice>
+    <riassunto>Il contribuente, erede con beneficio d'inventario, contestava la legittimazione passiva dell'avviso di accertamento ICI relativo a beni ereditati dal padre deceduto. La CTR ha chiarito che l'erede beneficiato, ai sensi degli artt. 490 e 492 c.c., subentra nella titolarità dei beni e nei relativi debiti, conservando una responsabilità limitata al valore dell'asse ereditario per i debiti preesistenti. La giurisprudenza consolidata (Cass. 6683/1992, Cass. 13206/2012) esclude che l'eredità beneficiata costituisca un soggetto autonomo, confermando che l'erede può eccepire solo la limitazione di responsabilità, non l'illegittimazione passiva. La questione è risolta a favore dell'Amministrazione.</riassunto>
+  </questione>
+</questioni>

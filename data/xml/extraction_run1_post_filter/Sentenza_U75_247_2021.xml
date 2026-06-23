@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimità del preavviso di fermo amministrativo e delle ingiunzioni di pagamento" id="Q1">
+    <text>Se la sentenza della Commissione Tributaria Regionale dell'Umbria n. 556/03/2018, che ha annullato gli avvisi di accertamento per ICI anni 2010 e 2011, renda illegittimi il preavviso di fermo amministrativo e le ingiunzioni di pagamento basate su tali avvisi.</text>
+    <esito_questione favorevole_a="contribuente">Il ricorso è fondato, poiché gli atti presupposti del fermo sono stati annullati dalla CTR Umbria.</esito_questione>
+    <premesse_fatto>
+      <item>La CTR Umbria, con sentenza n. 556/03/2018, ha annullato gli avvisi di accertamento emessi dal Comune di Spoleto per ICI anni 2010 e 2011.</item>
+      <item>Le ingiunzioni di pagamento (n. 69/2010 e n. 953/2011) e il preavviso di fermo amministrativo (n. 15420329/2010 e n. 15420329/2011) sono basati su tali avvisi annullati.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="CTR Umbria n. 556/03/2018" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza della CTR Umbria è citata come atto vincolante che ha annullato gli avvisi di accertamento, privando di fondamento giuridico gli atti successivi (ingiunzioni e fermo).</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che, essendo gli avvisi di accertamento annullati dalla CTR Umbria, gli atti conseguenti (ingiunzioni e fermo) perdono il loro presupposto giuridico. Pertanto, il ricorso è fondato poiché gli atti impugnati sono privi di base legale.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato il preavviso di fermo amministrativo e le ingiunzioni di pagamento per ICI anni 2010 e 2011, sostenendo la loro illegittimità dopo l'annullamento degli avvisi di accertamento da parte della CTR Umbria (sentenza n. 556/03/2018). La Commissione Tributaria Provinciale ha accolto il ricorso, ritenendo che gli atti impugnati fossero privi di fondamento giuridico a seguito dell'annullamento degli avvisi originari. Le spese processuali sono state poste a carico della parte resistente.</riassunto>
+  </questione>
+  <questione title="Responsabilità aggravata dell'Ica per il fermo amministrativo" id="Q2">
+    <text>Se l'Ica abbia agito con responsabilità aggravata ex art. 96 cpc e art. 15 comma 2 Dlgs 546/92, procedendo al fermo amministrativo nonostante fosse a conoscenza della sentenza della CTR Umbria che annullava gli avvisi di accertamento.</text>
+    <esito_questione favorevole_a="ufficio">L'istanza di condanna al risarcimento è rigettata, poiché il preavviso di fermo è stato notificato prima della comunicazione della sentenza al resistente.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha comunicato all'Ica la sentenza della CTR Umbria tramite PEC il 25.11.2019.</item>
+      <item>Il preavviso di fermo amministrativo è stato notificato al ricorrente il 7.10.2019, prima della comunicazione della sentenza.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 96 cpc" />
+      <item id="D2" type="norm" ref="art. 15 comma 2 Dlgs 546/92" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'art. 96 cpc è citato per valutare la responsabilità aggravata della parte che agisce in modo temerario o negligente.</item>
+      <item id_ref="D2">L'art. 15 comma 2 Dlgs 546/92 è richiamato per la specifica disciplina della responsabilità aggravata in materia tributaria.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che, poiché il fermo è stato notificato prima della comunicazione della sentenza (7.10.2019 vs 25.11.2019), l'Ica non poteva essere a conoscenza dell'annullamento degli avvisi al momento dell'emissione del fermo. Pertanto, non sussiste responsabilità aggravata.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha chiesto la condanna dell'Ica per responsabilità aggravata, avendo questa proceduto al fermo nonostante la sentenza della CTR Umbria che annullava gli avvisi di accertamento. La Commissione ha rigettato l'istanza, rilevando che il fermo era stato notificato (7.10.2019) prima della comunicazione della sentenza all'Ica (25.11.2019). Pertanto, non sussisteva alcuna colpa o negligenza al momento dell'adozione del provvedimento.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Tempestività del ricorso n. 107/21" id="Q1">
+    <text>Se il ricorso n. 107/21 sia inammissibile per tardività, avendo superato il termine di 60 giorni dalla notifica dell'avviso di accertamento.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è dichiarato inammissibile per tardività.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorso n. 107/21 è stato notificato il 30 dicembre 2020 e depositato il 29 gennaio 2021.</item>
+      <item>L'avviso di accertamento n. TF9030301833/2020 è stato emesso il 28 agosto 2020 e notificato alla società il 24 ottobre 2020.</item>
+      <item>La società è stata cancellata dal Registro delle Imprese il 2 ottobre 2020.</item>
+      <item>Il ricorrente ha allegato una busta con numero "M782" che non corrisponde alla notifica eseguita nei suoi confronti ("M729").</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 comma 1 dlgs n. 546/1992"/>
+      <item id="D2" type="jur" ref="Comm. trib. prov. le, Napoli, sez. IV, 13 maggio 2020, n. 3331"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 21 dlgs 546/92 per stabilire il termine di 60 giorni per la presentazione del ricorso, decorrente dalla notifica dell'avviso di accertamento.</item>
+      <item id_ref="D2">Il giudice richiama la giurisprudenza per confermare che il ricorrente deve provare la tempestività del ricorso, pena l'inammissibilità.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il ricorso n. 107/21 è stato notificato oltre il termine di 60 giorni previsto dall'art. 21 dlgs 546/92, decorrente dalla notifica dell'avviso di accertamento alla società (24 ottobre 2020). La notifica al liquidatore (26 ottobre 2020) non è rilevante, e il ricorrente non ha provato una diversa data di notifica. Pertanto, il ricorso è dichiarato inammissibile per tardività.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato l'avviso di accertamento notificato il 24 ottobre 2020, depositando il ricorso il 30 dicembre 2020, oltre il termine di 60 giorni previsto dall'art. 21, comma 1, d.lgs. n. 546/92. Il giudice ha rilevato che la notifica all'ex liquidatore era avvenuta il 26 ottobre 2020, rendendo il ricorso tardivo anche rispetto a tale data. La prova di una notifica successiva non è stata fornita dal ricorrente, che aveva l'onere probatorio. Pertanto, il ricorso è stato dichiarato inammissibile per tardività.</riassunto>
+  </questione>
+  <questione title="Validità della notificazione dell'avviso di accertamento" id="Q2">
+    <text>Se la notificazione dell'avviso di accertamento al liquidatore della società estinta sia valida ai sensi dell'art. 145 c.p.c. e art. 60 d.P.R. n. 600/73.</text>
+    <esito_questione favorevole_a="ufficio">La notificazione è valida.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_2 è stata cancellata dal Registro delle Imprese il 2 ottobre 2020.</item>
+      <item>L'avviso di accertamento è stato notificato al liquidatore della società estinta in data 26 ottobre 2020, dopo la cancellazione.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 145 c.p.c."/>
+      <item id="D2" type="norm" ref="art. 60 d.P.R. n. 600/73"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 145 c.p.c. per stabilire i requisiti formali della notificazione degli atti.</item>
+      <item id_ref="D2">Il giudice cita l'art. 60 d.P.R. n. 600/73 per determinare la validità della notificazione di atti tributari a soggetti rappresentativi di società estinte.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ritiene valida la notificazione dell'avviso di accertamento al liquidatore della società estinta, in applicazione dell'art. 145 c.p.c. e dell'art. 60 d.P.R. n. 600/73. Tale notificazione è conforme alla disciplina processuale e tributaria, poiché il liquidatore, anche dopo la cancellazione della società, conserva la legittimazione a ricevere atti giudiziari e amministrativi a nome della società. L'intervenuta cancellazione non esclude la validità della notificazione, essendo il liquidatore il soggetto legittimato a rappresentare la società in tali procedure.
+</ragionamento_giudice>
+    <riassunto>Il ricorrente contestava la validità della notificazione dell'avviso di accertamento, ritenendola illegittima perché effettuata al liquidatore anziché all'ultimo domicilio fiscale della società. Il giudice ha ritenuto conforme la notificazione ai sensi dell'art. 145 c.p.c., richiamato dall'art. 60 d.P.R. n. 600/73, poiché il liquidatore era il soggetto legittimato a ricevere gli atti per conto della società estinta. La cancellazione dal Registro delle Imprese giustificava inoltre il fondato pericolo per la riscossione, rendendo necessaria la tempestiva notifica.</riassunto>
+  </questione>
+</questioni>

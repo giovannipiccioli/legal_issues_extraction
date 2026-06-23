@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Estensione delle indagini bancarie ai conti dei soci" id="Q1">
+    <text>Se i movimenti finanziari rilevati su conti correnti intestati ai soci di una società a ristretta base familiare possano essere presuntivamente riferiti all'attività della società stessa, ai sensi dell'art. 32 del DPR 600/73.</text>
+    <esito_questione favorevole_a="ufficio">Sì, l'estensione delle indagini è legittima in presenza di un rapporto così stretto da giustificare la presunzione di riferibilità, salvo prova contraria specifica non fornita dal contribuente.</esito_questione>
+    <premesse_fatto>
+      <item>La società Ricorrente_1 è stata oggetto di indagini finanziarie sui conti correnti intestati alla società, al socio rappresentante Rappresentante_1 e all'altro socio Nominativo_2.</item>
+      <item>Sono stati rilevati versamenti non giustificati per € 101.949,36 e prelevamenti non giustificati per € 1.167.358,56, per un totale di € 1.269.317,92.</item>
+      <item>La compagine societaria è di tipo familiare, con una ristretta base azionaria.</item>
+      <item>L’Agenzia delle Entrate ha emesso un avviso di accertamento basato su questi elementi, presuntivamente attribuendo tali movimentazioni finanziarie all’attività della società.</item>
+      <item>Il contribuente non ha fornito prova contraria specifica rispetto alle singole operazioni contestate.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 32, comma 1, n. 2 DPR 600/1973"/>
+      <item id="D2" type="jur" ref="Cassazione n. 13391/2003, Cassazione n. 6910/2003, Cassazione n. 8683/2002, Cassazione n. 2738/2001"/>
+      <item id="D3" type="jur" ref="Cassazione n. 19493/2010"/>
+      <item id="D4" type="jur" ref="Cassazione n. 20197/2010"/>
+      <item id="D5" type="jur" ref="Cassazione ordinanza n. 18339/2009"/>
+      <item id="D6" type="prassi_amm" ref="Circolare n. 32/E del 19/10/2006 Agenzia delle Entrate"/>
+      <item id="D7" type="norm" ref="art. 2729 codice civile"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina l’utilizzo dei dati bancari ai fini dell’accertamento e la presunzione di riferibilità delle movimentazioni finanziarie ai ricavi della società.</item>
+      <item id_ref="D2">Confermano la legittimità dell’estensione delle indagini bancarie ai soci in caso di stretta connessione con l’attività della società, invertendo l’onere della prova.</item>
+      <item id_ref="D3">Ribadisce che la ristretta base familiare della società giustifica la riferibilità presuntiva delle operazioni bancarie dei soci all’attività societaria.</item>
+      <item id_ref="D4">Afferma che la riferibilità dei conti "estranei" può essere provata anche tramite presunzioni semplici.</item>
+      <item id_ref="D6">Precisa che le indagini possono estendersi ai conti di soggetti legati da vincoli familiari o commerciali.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ritiene legittima l’estensione delle indagini bancarie ai conti dei soci, in applicazione dell’art. 32 DPR 600/73 e dei principi giurisprudenziali consolidati. La ristretta base familiare della società configura una presunzione di riferibilità delle movimentazioni finanziarie dei soci all’attività societaria, salvo prova contraria specifica. Tale prova non è stata fornita dal contribuente, limitandosi a eccezioni generiche senza riferimenti puntuali alle operazioni contestate. La giurisprudenza citata conferma che il vincolo familiare o societario stretto giustifica l’utilizzo presuntivo dei dati bancari, invertendo l’onere della prova. L’accertamento è dunque fondato.
+</ragionamento_giudice>
+    <riassunto>L'Agenzia delle Entrate ha ricostruito il reddito della società basandosi su movimenti bancari non giustificati rilevati su conti intestati ai soci, applicando l'art. 32 DPR 600/73. La giurisprudenza (Cass. 19493/2010, 20197/2010) afferma che, in società a base familiare ristretta, i conti dei soci si presumono riferibili all'attività d'impresa, invertendo l'onere della prova. Il contribuente non ha fornito giustificazioni specifiche sulle singole operazioni contestate. Il giudice ha confermato la legittimità dell'accertamento, ritenendo sufficienti i vincoli societari e familiari per l'estensione delle indagini.</riassunto>
+  </questione>
+  <questione title="Allegazione del processo verbale di constatazione" id="Q2">
+    <text>Se l'avviso di accertamento sia illegittimo per mancata allegazione del processo verbale di constatazione (PVC) ai sensi dell'art. 7 della legge 212/2000.</text>
+    <esito_questione favorevole_a="ufficio">No, l'obbligo di allegazione sussiste solo se l'atto non è già noto al contribuente, come nel caso in esame in cui il PVC fu consegnato in contraddittorio.</esito_questione>
+    <premesse_fatto>
+      <item>La G.d.F. di Castellammare di Stabia ha redatto un processo verbale di constatazione (PVC) il 28/03/2019, contestando alla Ricorrente_1 irregolarità fiscali per l'anno 2015.</item>
+      <item>L'Agenzia delle Entrate ha notificato l'avviso di accertamento il 12/09/2019, basandosi sul PVC, senza allegarlo perché già consegnato in precedenza al contribuente in contraddittorio.</item>
+      <item>Il contribuente ha impugnato l'avviso, sostenendo l'illegittimità per mancata allegazione del PVC ai sensi dell'art. 7 della legge 212/2000.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7 legge 212/2000"/>
+      <item id="D2" type="norm" ref="art. 2 dlgs 32/2001"/>
+      <item id="D3" type="norm" ref="art. 56 d.P.R. 633/1972"/>
+      <item id="D4" type="jur" ref="Cassazione n. 6232/2003"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'art. 7 legge 212/2000 impone l'allegazione degli atti non noti al contribuente. Il giudice lo cita per chiarire l'ambito dell'obbligo di allegazione.</item>
+      <item id_ref="D2">L'art. 2 dlgs 32/2001 specifica che l'allegazione è necessaria solo per atti non già conosciuti, come nel caso in esame. Il giudice lo cita per escludere l'illegittimità dell'avviso.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che l'obbligo di allegazione del PVC sussiste solo se l'atto non è già noto al contribuente, ai sensi dell'art. 2 dlgs 32/2001. Nel caso concreto, il PVC fu consegnato in contraddittorio al contribuente, come attestato dalla verbalizzazione, rendendo superfluo l’ulteriore allegato. La motivazione dell’avviso, richiamando espressamente il PVC, è dunque sufficiente a garantire la contestabilità della pretesa tributaria, in linea con l’art. 56 d.P.R. 633/1972 e la giurisprudenza consolidata (Cass. 6232/2003). L’eccezione di illegittimità è pertanto infondata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito il difetto di motivazione dell'avviso per mancata allegazione del PVC. Il giudice ha rilevato che il legislatore (art. 2 DL 32/2001) limita l'obbligo ai soli atti ignori al contribuente. Nel caso specifico, il PVC fu redatto in contraddittorio e copia fu regolarmente consegnata, come attestato nel verbale. L'avviso, richiamando esplicitamente il PVC, ha quindi adempiuto all'obbligo di motivazione ex art. 56 DPR 633/72, consentendo la contestazione dell'"an" e del "quantum". La giurisprudenza (Cass. 6232/2003) conferma che non è necessario riportare nel dettaglio le prove acquisite.</riassunto>
+  </questione>
+</questioni>

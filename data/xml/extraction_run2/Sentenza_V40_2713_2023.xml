@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Deduzione delle spese di ristorazione e acquisto parti meccaniche" id="Q1">
+    <text>Se le spese di ristorazione e per l'acquisto di parti meccaniche di autovetture siano deducibili ai fini IRPEF e IRAP, nonostante la mancanza di specifica documentazione sui beneficiari e sull'inerenza all'attività d'impresa.</text>
+    <esito_questione favorevole_a="ufficio">Le spese non sono deducibili per carenza di documentazione probatoria.</esito_questione>
+    <premesse_fatto>
+      <item>La società ricorrente ha dedotto spese di ristorazione e acquisto di parti meccaniche per autovetture senza specificare i beneficiari o l'inerenza all'attività d'impresa.</item>
+      <item>L'Agenzia delle Entrate ha disconosciuto tali costi per mancanza di documentazione probatoria, accertando maggiori redditi imponibili.</item>
+      <item>I ricorrenti hanno impugnato gli avvisi di accertamento, sostenendo l'inerenza delle spese all'attività d'impresa e la validità delle fatture come prova dei costi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 24426/2013"/>
+      <item id="D2" type="norm" ref="art. 21 D.P.R. n. 633/1972"/>
+      <item id="D3" type="princ" ref="principio di certezza"/>
+      <item id="D4" type="princ" ref="principio di inerenza"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza afferma che una fattura regolare costituisce titolo idoneo per la deduzione del costo, salvo contabilità inattendibile, spettando all'Ufficio dimostrare il difetto delle condizioni per la deduzione.</item>
+      <item id_ref="D2">L'articolo stabilisce i requisiti formali e sostanziali delle fatture, la cui regolarità lascia presumere la verità del costo indicato.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ha ritenuto infondate le deduzioni dei ricorrenti poiché le spese di ristorazione e acquisto parti meccaniche non erano documentate in modo certo e inerente all'attività d'impresa. Nonostante il riferimento alla giurisprudenza che riconosce la validità delle fatture come prova dei costi, la carenza di specifiche sui beneficiari e sull'inerenza ha impedito di verificare la legittimità delle deduzioni. L'assenza di automezzi nel registro dei beni ammortizzabili ha ulteriormente confermato l'infondatezza delle spese contestate.</ragionamento_giudice>
+    <riassunto>La società ricorrente ha contestato il disconoscimento di costi relativi a spese di ristorazione e acquisto di parti meccaniche per autovetture, ritenuti non deducibili dall’Ufficio per mancanza di indicazione dei beneficiari e di certificazioni dei lavori. Il giudice ha confermato l’accertamento, rilevando l’assenza di documentazione idonea a dimostrare l’inerenza e la certezza delle spese (art. 109, TUIR). In particolare, per le spese di ristorazione, non è stato provato il nesso con l’attività d’impresa, mentre per le parti meccaniche non è stata dimostrata la disponibilità dei veicoli. La questione è stata risolta a favore dell’Ufficio.</riassunto>
+  </questione>
+  <questione title="Legittimità della sottoscrizione degli avvisi di accertamento" id="Q2">
+    <text>Se gli avvisi di accertamento siano legittimamente sottoscritti da un funzionario delegato, nonostante l’eccezione di nullità sollevata dai ricorrenti per carenza di motivazione nella delega.</text>
+    <esito_questione favorevole_a="ufficio">La sottoscrizione è legittima in quanto il funzionario era regolarmente delegato.</esito_questione>
+    <premesse_fatto>
+      <item>Gli avvisi di accertamento sono stati sottoscritti da un funzionario delegato dal Direttore Provinciale dell'Agenzia delle Entrate.</item>
+      <item>I ricorrenti hanno eccepito la nullità degli avvisi per carenza di motivazione nella delega al funzionario sottoscrittore.</item>
+      <item>L'Agenzia delle Entrate ha prodotto in giudizio copia della delega di firma, l'estratto del ruolo dei dipendenti con il nominativo del funzionario delegato e l'estratto del ruolo dei dirigenti con il nominativo del Direttore delegante.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 42 comma 1 DPR n. 600/1973"/>
+      <item id="D2" type="jur" ref="Cassazione n. 24426/2013"/>
+      <item id="D3" type="princ" ref="principio di legalità"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 42 comma 1 DPR n. 600/1973 per stabilire i requisiti formali della sottoscrizione degli avvisi di accertamento, confermando che la delega al funzionario è sufficiente se regolarmente documentata.</item>
+      <item id_ref="D2">La sentenza Cassazione n. 24426/2013 è richiamata per ribadire che la regolare fattura costituisce titolo idoneo per la deduzione dei costi, ma nel caso specifico le fatture presentate non soddisfano i requisiti di certezza e inerenza.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene infondata l'eccezione di nullità poiché la delega al funzionario è risultata regolarmente documentata, con atti prodotti in giudizio che ne attestano la validità. La motivazione della delega non è richiesta dalla normativa, purché la delega stessa sia formalmente valida. Pertanto, la sottoscrizione degli avvisi è legittima e gli atti conservano efficacia.</ragionamento_giudice>
+    <riassunto>I ricorrenti hanno eccepito la nullità degli avvisi di accertamento per illegittima sottoscrizione, sostenendo che la delega al funzionario fosse priva di motivazione e termine. Il giudice ha ritenuto infondata l’eccezione, accertando che la delega era formalmente valida e il funzionario apparteneva alla terza area professionale (ex carriera direttiva), come previsto dall’art. 42 DPR 600/1973. L’Ufficio ha prodotto documentazione comprovante la regolarità della delega e l’inserimento del funzionario nel ruolo dei dipendenti. La questione è stata risolta a favore dell’Ufficio.</riassunto>
+  </questione>
+</questioni>

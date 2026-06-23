@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Inammissibilità del ricorso per tardività" id="Q1">
+    <text>Se l'avviso di accertamento TARES per l'anno 2013 sia stato notificato regolarmente e se il ricorso sia inammissibile per tardività.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è dichiarato inammissibile per tardività.</esito_questione>
+    <premesse_fatto>
+      <item>L'avviso di accertamento TARES n. 3550/2018 è stato notificato al ricorrente il 17/11/2018.</item>
+      <item>Il Comune aveva precedentemente notificato l'avviso di saldo n. MT SAL/2013 231987 il 17/12/2014, senza applicare sanzioni o interessi.</item>
+      <item>Il ricorrente aveva versato solo l'acconto di € 132 nel 2014, lasciando un saldo residuo di € 278.</item>
+      <item>L'avviso di saldo era stato inviato tramite raccomandata con avviso di ricevimento n. 781211757325, risultando regolarmente notificato.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 5 comma 4 bis d.l. 31 agosto 2013 n. 124 (convertito in l. 24 ottobre 2013 n. 124)" />
+      <item id="D2" type="norm" ref="art. 10 comma 2 l. 212/2000 (Statuto del contribuente)" />
+      <item id="D3" type="jur" ref="Cassazione n. 2235/2021" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita la norma per valutare l'eccezione del ricorrente sull'inapplicabilità delle sanzioni per mancato invio di modelli precompilati.</item>
+      <item id_ref="D2">Richiamato per valutare la legittimità della notifica e l'obbligo di motivazione dell'avviso.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che l'avviso di saldo (MT SAL/2013) era stato notificato regolarmente nel 2014 senza contestazioni del ricorrente, dimostrando l'adempimento del Comune. Poiché il ricorso è stato presentato solo nel 2019, la Commissione ritiene le doglianze tardive. L'eccezione del ricorrente basata sull'art. 5 comma 4 bis del d.l. 124/2013 è superata dalla regolarità della notifica e dall'assenza di sanzioni nell'avviso di saldo. La mancanza di tempestività nel ricorso ne determina l'inammissibilità.
+    </ragionamento_giudice>
+    <riassunto>
+      Il ricorrente impugnava l'avviso di accertamento TARES 2013, sostenendo la nullità per mancata specifica delle tabelle di calcolo e l'inapplicabilità delle sanzioni. La Commissione ha accertato che un precedente avviso di saldo (notificato nel 2014) era regolare e privo di sanzioni, rendendo tardivo il ricorso del 2019. Applicando gli artt. 5 d.l. 124/2013 e 10 l. 212/2000, il giudice ha dichiarato inammissibile il ricorso per tardività, confermando la validità dell'atto comunale.
+    </riassunto>
+  </questione>
+</questioni>

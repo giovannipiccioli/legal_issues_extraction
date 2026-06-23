@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Illegittimità degli avvisi di accertamento per mancanza di motivazione" id="Q1">
+    <text>Se l'avviso di accertamento tributario sia illegittimo per carenza di motivazione, violando gli artt. 7 L. 212/2000 e 42 DPR 600/1973.</text>
+    <esito_questione favorevole_a="ufficio">Gli avvisi di accertamento sono legittimi in quanto sufficientemente motivati.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle Entrate ha emesso avvisi di accertamento nei confronti della società e dei suoi soci, contestando maggiori redditi e imposte dovute.</item>
+      <item>I ricorrenti hanno impugnato gli avvisi, eccependo la mancanza di motivazione sufficiente riguardo alla disamina dei costi non deducibili e alla documentazione fornita.</item>
+      <item>L'Agenzia ha replicato sostenendo che gli avvisi erano adeguatamente motivati e che le spese contestate non erano documentate in modo certo e inerente.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 7 L. 212/2000" />
+      <item id="D2" type="norm" ref="art. 42 DPR 600/1973" />
+      <item id="D3" type="jur" ref="Cassazione n. 24426/2013" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 7 L. 212/2000 per valutare se l'avviso di accertamento contenga una motivazione sufficiente a giustificare l'accertamento.</item>
+      <item id_ref="D2">L'art. 42 DPR 600/1973 è richiamato per verificare se la motivazione sia completa e adeguata, anche rispetto alle risposte fornite nel contraddittorio.</item>
+      <item id_ref="D3">La sentenza Cass. n. 24426/2013 è citata per stabilire la rilevanza della documentazione fattuale ai fini della deducibilità dei costi.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che gli avvisi di accertamento siano sufficientemente motivati perché descrivono chiaramente i presupposti di fatto e gli elementi giuridici alla base dell'accertamento. Gli atti specificano le ragioni del disconoscimento dei costi e sono comprensibili per i ricorrenti, che li hanno impugnati in dettaglio. La mancata allegazione degli esiti dei controlli incrociati non inficia la motivazione, poiché l'Ufficio ha comunque indicato le anomalie riscontrate. Pertanto, non sussiste violazione degli artt. 7 L. 212/2000 e 42 DPR 600/1973.</ragionamento_giudice>
+    <riassunto>I ricorrenti contestavano la legittimità degli avvisi di accertamento per mancanza di adeguata motivazione, ai sensi degli artt. 7 L. 212/2000 e 42 DPR 600/1973, sostenendo che l'Ufficio non avesse chiarito i presupposti di fatto e diritto. Il giudice ha ritenuto infondato il motivo, rilevando che gli avvisi descrivevano in modo sufficiente l'iter logico-giuridico e i presupposti di fatto, consentendo ai contribuenti di impugnarli puntualmente. La questione è stata quindi risolta a favore dell’Ufficio.</riassunto>
+  </questione>
+  <questione title="Condizioni per la deducibilità delle spese di ristorazione e manutenzione auto" id="Q2">
+    <text>Se le spese di ristorazione e acquisto parti meccaniche per autovetture siano deducibili ai fini IRPEF e IRAP, nonostante la mancanza di indicazioni specifiche sulle fatture.</text>
+    <esito_questione favorevole_a="ufficio">Le spese non sono deducibili per carenza di inerenza e certezza.</esito_questione>
+    <premesse_fatto>
+      <item>La società ricorrente ha sostenuto spese di ristorazione e per l'acquisto di parti meccaniche di autovetture, deducendole ai fini IRPEF e IRAP.</item>
+      <item>Le fatture relative alle spese di ristorazione non indicano il beneficiario fisico né la descrizione dettagliata dei motivi della spesa.</item>
+      <item>Le fatture relative all'acquisto di parti meccaniche di autovetture non sono abbinate a certificazioni di lavoro e non identificano le autovetture su cui i lavori sono stati eseguiti.</item>
+      <item>Dal registro dei beni ammortizzabili della società non risulta la disponibilità di automezzi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di inerenza" />
+      <item id="D3" type="norm" ref="art. 21 D.P.R. n. 633/1972" />
+      <item id="D4" type="jur" ref="Cassazione n. 24426/2013" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita il principio di inerenza per sottolineare che le spese devono essere direttamente connesse all'attività economica della società.</item>
+      <item id_ref="D4">Il giudice cita la sentenza Cassazione n. 24426/2013 per ribadire che, sebbene la fattura sia generalmente documento idoneo, in questo caso mancano i requisiti necessari per la deducibilità.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene infondate le deduzioni delle spese poiché mancano i requisiti di inerenza e certezza. Le fatture di ristorazione non identificano i beneficiari né i motivi delle spese, mentre quelle per parti meccaniche non consentono di verificare l'effettiva esecuzione dei lavori su autovetture della società, anche considerando l'assenza di automezzi nel registro aziendale. Pertanto, conferma gli avvisi di accertamento.</ragionamento_giudice>
+    <riassunto>L’Ufficio aveva disconosciuto la deducibilità di spese di ristorazione e manutenzione auto per mancanza di indicazioni sui beneficiari (ristorazione) e di documentazione sui lavori eseguiti (auto). I ricorrenti sostenevano la deducibilità in virtù dell’attività economica svolta (rappresentanza alimentare), richiamando la giurisprudenza (Cass. n. 24426/2013) sul valore probatorio della fattura. Il giudice ha rigettato la tesi, confermando il disconoscimento per carenza di elementi certi e inerenti (assenze di registri automezzi, fatture generiche). La questione è stata risolta a favore dell’Ufficio.</riassunto>
+  </questione>
+</questioni>

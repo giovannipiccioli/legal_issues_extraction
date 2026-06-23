@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Validità della notifica degli atti di accertamento" id="Q1">
+    <text>Se l'Agenzia delle Entrate abbia validamente notificato gli atti di accertamento propedeutici alla cartella esattoriale.</text>
+    <esito_questione favorevole_a="ufficio">La notifica degli atti di accertamento è considerata valida.</esito_questione>
+    <premesse_fatto>
+      <item>Ricorrente_1 ha impugnato la cartella esattoriale per tasse automobilistiche 2011, eccependo la mancata notifica degli atti di accertamento.</item>
+      <item>L'Agenzia delle Entrate ha prodotto copia delle relate di notifica degli atti di accertamento, datati 2.5.2014 e 12.5.2014.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che la produzione delle relate di notifica da parte dell'Agenzia delle Entrate dimostri in modo inequivocabile l'avvenuta comunicazione degli atti di accertamento. Pertanto, la contestazione del contribuente sulla mancata notifica è infondata, poiché la documentazione presentata è conforme ai requisiti di legge e giurisprudenziali.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato una cartella esattoriale per tasse automobilistiche del 2011, sostenendo che gli atti di accertamento non fossero stati validamente notificati. L'Agenzia delle Entrate ha prodotto copia delle relate di notifica, dimostrando che gli atti erano stati notificati nel 2014. Il giudice, richiamando l'art. 3 del D.Lgs. n. 471/1997 e la relativa giurisprudenza, ha ritenuto valida la notifica e respinto l'eccezione del contribuente.</riassunto>
+  </questione>
+  <questione title="Prescrizione del credito tributario" id="Q2">
+    <text>Se il termine di prescrizione del credito tributario fosse già decorso al momento della notifica della cartella esattoriale.</text>
+    <esito_questione favorevole_a="ufficio">La cartella è stata notificata prima della prescrizione, essendo il termine stato interrotto dalla precedente notifica degli atti di accertamento.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha eccepito la prescrizione del credito relativo alle tasse automobilistiche del 2011.</item>
+      <item>La cartella esattoriale è stata notificata il 12.10.2016.</item>
+      <item>Gli atti di accertamento erano stati notificati rispettivamente il 2.5.2014 e il 12.5.2014.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      </lista_riferimenti_diritto>
+    <motivo_citazione>
+      </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che il termine di prescrizione triennale è stato interrotto dalla notifica degli atti di accertamento nel 2014. Pertanto, il nuovo termine è iniziato a decorrere da quella data e la successiva notifica della cartella nel 2016 è avvenuta prima del suo decorso. La prescrizione non può quindi essere riconosciuta.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito la prescrizione del credito relativo alle tasse automobilistiche del 2011, sostenendo che la cartella notificata nel 2016 fosse ormai prescritta. Il giudice ha ritenuto che la notifica degli atti di accertamento nel 2014 avesse interrotto il termine di prescrizione, facendo decorrere un nuovo termine triennale. Pertanto, la cartella notificata nel 2016 rientrava nel nuovo periodo e l'eccezione di prescrizione è stata respinta.</riassunto>
+  </questione>
+</questioni>

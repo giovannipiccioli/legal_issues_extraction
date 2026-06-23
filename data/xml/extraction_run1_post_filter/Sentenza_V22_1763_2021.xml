@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimazione alla sottoscrizione dell'atto di accertamento" id="Q1">
+    <text>Se il contribuente contesti la legittimazione del soggetto, diverso dal dirigente, alla sottoscrizione dell'atto di accertamento, l'Amministrazione finanziaria debba dimostrare il corretto esercizio del potere di delega.</text>
+    <esito_questione favorevole_a="ufficio">L'Ufficio ha adempiuto all'onere probatorio producendo la delega di firma, che rispetta i requisiti di legge.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente contesta la legittimazione del soggetto (diverso dal dirigente) che ha sottoscritto l'atto di accertamento.</item>
+      <item>L'Amministrazione finanziaria ha prodotto in giudizio la disposizione di servizio n. 20 del 21 marzo 2016, contenente la delega di firma.</item>
+      <item>La delega indica il nominativo del delegato, il termine di validità (fino al 31 dicembre 2016), e le motivazioni della delega stessa.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione, Sez. Tributaria, sentenza n. 22800 del 9.11.2015" />
+      <item id="D2" type="jur" ref="Cassazione, Sez. 5, sentenza n. 19190 del 17.07.2019" />
+      <item id="D3" type="norm" ref="art. 42 del D.P.R. n. 600 del 1973" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza afferma che l'Amministrazione ha l'onere di provare il possesso dei requisiti di legge per la sottoscrizione dell'atto, contestata dal contribuente.</item>
+      <item id_ref="D2">La sentenza ribadisce il principio di "vicinanza della prova" e conferma che l'Amministrazione può produrre la delega anche in corso di giudizio.</item>
+      <item id_ref="D3">La norma stabilisce i requisiti formali della delega (nominativo, termine, motivazioni), la cui mancanza comporta la nullità dell'atto impositivo.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice ritiene che l'Amministrazione abbia adempiuto all'onere probatorio producendo la delega, che rispetta i requisiti dell'art. 42 D.P.R. 600/1973. La delega non è "in bianco" poiché contiene tutti gli elementi richiesti (nominativo, durata, motivazioni). In applicazione dei principi giurisprudenziali citati, la contestazione del contribuente è infondata, non essendo richiesta l'allegazione preventiva della delega all'avviso di accertamento.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito la nullità dell'atto di accertamento per carenza di legittimazione del soggetto sottoscrittore. L'Amministrazione ha prodotto in giudizio la delega di firma (disposizione di servizio n. 20/2016), che indica il delegato, il termine di validità e le ragioni della delega, conformemente all'art. 42 D.P.R. 600/1973. Il giudice, richiamando la giurisprudenza della Cassazione (sent. n. 22800/2015 e n. 19190/2019), ha ritenuto soddisfatto l'onere probatorio e confermato la validità dell'atto.</riassunto>
+  </questione>
+  <questione title="Validità della firma digitale sull'atto di accertamento" id="Q2">
+    <text>Se la sottoscrizione digitale di un atto di accertamento tributario, senza ulteriori formalità, ne determini la nullità per violazione delle norme in materia di documenti informatici.</text>
+    <esito_questione favorevole_a="ufficio">La firma digitale è valida ai sensi dell'art. 40 del CAD e delle regole tecniche di cui al DPCM 13/11/2014.</esito_questione>
+    <premesse_fatto>
+      <item>L'atto di accertamento tributario impugnato è stato sottoscritto con firma digitale.</item>
+      <item>Il ricorrente ha eccepito la nullità dell'atto per violazione delle norme sui documenti informatici.</item>
+      <item>L'Agenzia delle Entrate ha prodotto l'atto originale firmato digitalmente e la copia cartacea attestante la conformità all'originale.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 40 dlgs n. 82/2005 (CAD)" />
+      <item id="D3" type="norm" ref="art. 23 comma 1 dlgs n. 82/2005 (CAD)" />
+      <item id="D4" type="norm" ref="art. 24 dlgs n. 82/2005 (CAD)" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 40 CAD per confermare che le pubbliche amministrazioni devono formare e gestire documenti informatici, inclusa la firma digitale.</item>
+      </motivo_citazione>
+    <ragionamento_giudice>Il Collegio ritiene valida la firma digitale apposta sull'atto di accertamento, poiché conforme all'art. 40 CAD e alle regole tecniche del DPCM 13/11/2014. La copia cartacea, attestante conformità all'originale informatico (ex art. 23 CAD), soddisfa gli ulteriori requisiti probatori. L'Agenzia ha adempiuto all'onere di dimostrare la corretta sottoscrizione digitale, basata su certificato qualificato (art. 24 CAD), senza necessità di ulteriori formalità. La nullità invocata dal ricorrente è infondata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito l'inesistenza dell'atto per firma digitale irregolare. Il giudice ha rilevato che l'atto è stato formato digitalmente in conformità all'art. 40 del CAD e al DPCM 13/11/2014, con attestazione di conformità della copia cartacea all'originale informatico (ex art. 23 CAD). La conservazione dell'originale nell'archivio informatico e l'autorizzazione del funzionario certificante (disposizione n. 35/2016) escludono vizi di validità, come confermato dalla giurisprudenza sul valore probatorio dei documenti elettronici.</riassunto>
+  </questione>
+</questioni>

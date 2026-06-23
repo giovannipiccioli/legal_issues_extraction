@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Assoggettabilità di aree con vincoli idrogeologici all'IMU" id="Q1">
+    <text>Se un terreno sia assoggettabile all'IMU nonostante la presenza di vincoli idrogeologici e la mancanza di strumenti urbanistici attuativi.</text>
+    <esito_questione favorevole_a="ufficio">Il terreno rimane assoggettabile all'IMU.</esito_questione>
+    <premesse_fatto>
+      <item>Le ricorrenti sono comproprietarie al 50% di aree destinate a insediamenti produttivi.</item>
+      <item>Il Comune ha emesso avvisi di accertamento IMU per tali aree relativi all'anno 2016.</item>
+      <item>Le ricorrenti contestano l'assoggettabilità all'IMU per mancanza di strumenti urbanistici attuativi e presenza di vincoli idrogeologici di inedificabilità assoluta.</item>
+      <item>Le ricorrenti non hanno presentato perizie tecniche a supporto della loro tesi.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 5 DLgs 504/1992"/>
+      <item id="D2" type="norm" ref="art. 7 DLgs 504/1992"/>
+      <item id="D3" type="norm" ref="art. 59 DLgs 504/1992"/>
+      <item id="D4" type="princ" ref="Principio di tassabilità delle aree edificabili"/>
+      <item id="D5" type="prassi_amm" ref="Delibera di Giunta Comunale n. 90/2003"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Definisce il presupposto IMU per le aree fabbricabili.</item>
+      <item id_ref="D2">Elenca le esenzioni dall'IMU, non applicabili al caso in esame.</item>
+      <item id_ref="D5">Determina i valori di riferimento per le aree fabbricabili sul territorio comunale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+      Il giudice rileva che le norme citate (art. 5 e 59 DLgs 504/1992, integrato dalla delibera comunale) rendono tassabili le aree destinate a insediamenti produttivi, indipendentemente dalla presenza di vincoli idrogeologici o dalla mancanza di strumenti urbanistici attuativi. L'art. 7 DLgs 504/1992 non prevede esenzioni per queste ipotesi. Le ricorrenti non hanno fornito prove tecniche che dimostrino una riduzione del valore di mercato delle aree, né che i vincoli ne impediscano del tutto l'edificabilità (il certificato urbanistico indica vincoli di varia intensità). Pertanto, il Comune ha correttamente applicato l'IMU basandosi sui valori determinati dalla delibera.
+    </ragionamento_giudice>
+    <riassunto>
+      Due comproprietarie impugnano gli avvisi di accertamento IMU emessi dal Comune per aree destinate a insediamenti produttivi, sostenendo che siano inedificabili per vincoli idrogeologici e mancanza di strumenti urbanistici. Il giudice osserva che la normativa (DLgs 504/1992) non prevede esenzioni per queste ipotesi e che la delibera comunale n. 90/2003 ha correttamente determinato i valori delle aree. Le ricorrenti non hanno fornito perizie per contestare il valore o dimostrare l'inedificabilità assoluta. Pertanto, il ricorso è rigettato: le aree rimangono assoggettabili all'IMU come determinato dal Comune.
+    </riassunto>
+  </questione>
+</questioni>

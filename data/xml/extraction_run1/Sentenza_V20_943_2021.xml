@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Validità della notifica della cartella di pagamento tramite PEC non istituzionale" id="Q1">
+    <text>Se la notifica di una cartella di pagamento avvenga tramite un indirizzo PEC non incluso nei pubblici elenchi (INIPEC o IPA), tale notifica sia da considerarsi nulla per violazione degli obblighi di legge.</text>
+    <esito_questione favorevole_a="contribuente">La notifica è nulla perché eseguita con un indirizzo PEC non risultante dai pubblici registri.</esito_questione>
+    <premesse_fatto>
+      <item>La cartella di pagamento è stata notificata tramite un indirizzo PEC (Email_1) non incluso nei pubblici elenchi (INIPEC o IPA).</item>
+      <item>L'indirizzo PEC utilizzato (Email_1) differisce da quello ufficiale (Email_2) presente nel registro IPA per la notifica di atti tributari.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 3 bis L. 53/94"/>
+      <item id="D2" type="norm" ref="art. 6 bis e 6 ter dlgs n. 82/2005 (Codice dell'amministrazione digitale)"/>
+      <item id="D3" type="norm" ref="art. 16-ter D.L. 179/2012, convertito in L. 221/2012"/>
+      <item id="D4" type="norm" ref="art. 26 D.P.R. n. 602/73"/>
+      <item id="D5" type="jur" ref="Cassazione ord. n. 17346/2019"/>
+      <item id="D6" type="jur" ref="Cassazione ord. n. 7228/2020, ord. n. 14213/2019"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Disciplina la notifica telematica tramite PEC, vincolata all'uso di indirizzi presenti in pubblici registro.</item>
+      <item id_ref="D2">Definisce l'obbligo di utilizzo degli elenchi pubblici (INIPEC e IPA) per garantire certezza nei rapporti telematici.</item>
+      <item id_ref="D5">Afferma la nullità delle notifiche effettuate con PEC non registrate nei pubblici elenchi.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>
+Il giudice ritiene la notifica nulla perché effettuata tramite un indirizzo PEC non incluso nei registri pubblici (INIPEC o IPA), contrariamente a quanto prescritto dagli artt. 3 bis L. 53/94, 6 bis/ter dlgs 82/2005 e 16-ter D.L. 179/2012. La giurisprudenza (Cass. 17346/2019) conferma che l'inosservanza di tali requisiti rende inefficace la notifica. Poiché l'indirizzo utilizzato (Email_1) non corrisponde a quello ufficiale (Email_2) riportato in IPA, l'atto è privo di effetti giuridici. La nullità assorbe le altre censure.
+</ragionamento_giudice>
+    <riassunto>La società ricorrente ha eccepito la nullità della notifica della cartella di pagamento, poiché effettuata tramite un indirizzo PEC non registrato nei pubblici elenchi (INIPEC o IPA). Il giudice ha richiamato l'art. 3-bis L. 53/94, l'art. 26 D.P.R. 602/73 e la giurisprudenza consolidata (Cass. ord. n. 17346/19), che impongono l'uso di indirizzi PEC istituzionali per garantire la certezza delle comunicazioni. Poiché l'Agenzia delle Entrate ha utilizzato un indirizzo non incluso nei registri ufficiali, la notifica è stata dichiarata priva di effetti giuridici, rendendo nullo l'atto impugnato.</riassunto>
+  </questione>
+</questioni>

@@ -1,0 +1,36 @@
+filename,id_questione,reference_id,reference_type,original_text,n_documents,hallucinated,category,note
+Sentenza_U09_10_2022.xml,Q2,D7,jur,"Cassazione, Sez. Trib., nn. 12345/2020, 6789/2019",2,True,fabricated_citation,"Fabricated case-law numbers; the item bundles two decisions (nn. 12345/2020 and 6789/2019), hence 2 documents."
+Sentenza_U91_9814_2021.xml,Q2,D5,prassi_amm,notifiche PEC basate su dati camerali,1,True,fabricated_citation,Not an identifiable legal source cited in the judgment.
+Sentenza_V22_1763_2021.xml,Q2,D5,norm,DPCM 13/11/2014 (regole tecniche documenti informatici),1,False,valid_match_missed,Present in the judgment text; the match was missed by the filter.
+Sentenza_V22_4978_2023.xml,Q1,D2,norm,art. 137 c.p.c. (notificazioni),1,True,fabricated_citation,Not cited in the judgment.
+Sentenza_V31_207_2021.xml,Q1,D1,norm,art. 19 d.lgs. n. 546/1992,1,False,valid_ocr_error,Present in the judgment but garbled by OCR ('art. 19 divo 5461992').
+Sentenza_V40_875_2022.xml,Q1,D1,norm,art. 3 comma 1 D.Lgs. n. 471/1997 (Disposizioni in materia di accertamento delle imposte sul reddito e di sanzioni amministrative),1,True,fabricated_citation,
+Sentenza_V40_875_2022.xml,Q1,D2,jur,Cassazione n. 12345/2019 (sulla validità della notifica degli atti tributari),1,True,fabricated_citation,
+Sentenza_V40_875_2022.xml,Q2,D3,norm,art. 60 comma 1 D.Lgs. n. 241/1997 (Termini di prescrizione dei crediti tributari),1,True,fabricated_citation,
+Sentenza_V40_875_2022.xml,Q2,D4,jur,Cassazione n. 6789/2018 (sull'interruzione del termine di prescrizione per notifica di atti tributari),1,True,fabricated_citation,
+Sentenza_V63_169_2023.xml,Q1,D3,jur,giurisprudenza consolidata su firma digitale e notifica PEC,1,True,fabricated_citation,Generic reference with no identifiable citation in the judgment.
+Sentenza_Z31_3048_2022.xml,Q1,D3,norm,art. 26 DPR n. 917/1986 (Testo Unico Imposte sui Redditi),1,False,valid_match_missed,The judgment cites 'art. 26' without naming the decree; the LLM correctly inferred the TUIR.
+Sentenza_Z55_4587_2022.xml,Q2,D3,norm,ultimo decreto lavoro (proroga sospensione al 31/08/2021),1,False,valid_match_missed,Vague but real decree referred to in the judgment text.
+Sentenza_U93_56_2022.xml,Q1,D2,princ,principio di legalità degli atti esecutivi,1,True,principle_not_in_text,
+Sentenza_U93_56_2022.xml,Q2,D5,princ,natura dell'ipoteca come atto preliminare,1,True,principle_not_in_text,
+Sentenza_V10_3453_2023.xml,Q1,D1,princ,Principio di legalità procedimentale,1,True,principle_not_in_text,
+Sentenza_V10_3453_2023.xml,Q2,D5,princ,Principio di certezza del diritto,1,True,principle_not_in_text,
+Sentenza_V31_207_2021.xml,Q1,D2,princ,principio di autonomia dell'atto impositivo,1,True,principle_not_in_text,
+Sentenza_V43_3667_2023.xml,Q2,D6,princ,Principio di conservazione degli effetti della dichiarazione di pubblicità,1,True,principle_not_in_text,
+Sentenza_V63_169_2023.xml,Q1,D2,princ,presunzione di conformità dell’atto firmato digitalmente,1,True,principle_not_in_text,
+Sentenza_V50_1992_2021.xml,Q1,D5,princ,Principio di tassabilità delle sole aree edificabili,1,True,principle_not_in_text,
+Sentenza_U91_5452_2021.xml,Q1,D5,princ,fumus boni iuris,1,True,not_a_principle,
+Sentenza_U91_9814_2021.xml,Q1,D3,princ,conservazione posizione giuridica ed economica,1,True,not_a_principle,
+Sentenza_U09_10_2022.xml,Q2,D9,princ,principio di solidarietà tributaria,1,True,not_a_principle,
+Sentenza_U17_119_2022.xml,Q1,D2,princ,onere probatorio,1,True,not_a_principle,
+Sentenza_Z29_513_2022.xml,Q1,D1,princ,Principio di onere della prova,1,True,not_a_principle,
+Sentenza_Z29_513_2022.xml,Q1,D2,princ,Principio di specificità dell'accertamento,1,True,not_a_principle,
+Sentenza_Z29_513_2022.xml,Q2,D4,princ,Principio di onere della prova,1,True,not_a_principle,
+Sentenza_Z29_513_2022.xml,Q2,D5,princ,Principio di specificità dell'accertamento,1,True,not_a_principle,
+Sentenza_V63_169_2023.xml,Q2,D4,princ,sufficienza motivazionale degli atti impositivi,1,True,not_a_principle,
+Sentenza_V22_5547_2023.xml,Q1,D5,princ,presunzione di vantaggiosità,1,True,not_a_principle,
+Sentenza_Z31_3163_2023.xml,Q1,D5,princ,principio di cooperazione tra amministrazione e contribuente,1,True,not_a_principle,
+Sentenza_V40_2713_2023.xml,Q2,D5,princ,Principio di certezza,1,True,not_a_principle,
+Sentenza_Z29_6436_2022.xml,Q1,D3,princ,Principio di corrispondenza tra il chiesto e il pronunciato,1,False,valid_match_missed,Genuine principle applied by the judge; no literal textual match found.
+Sentenza_V31_1512_2022.xml,Q2,D3,princ,Principio di inerenza dei costi,1,False,valid_match_missed,Genuine principle applied by the judge; no literal textual match found.
+Sentenza_Z46_8006_2023.xml,Q2,D8,princ,Principio di affidamento e sicurezza giuridica,1,False,valid_match_missed,Genuine principle (variant wording); no literal textual match found.

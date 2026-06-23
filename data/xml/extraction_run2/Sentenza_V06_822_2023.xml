@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Nullità dell'iscrizione ipotecaria per mancata comunicazione preventiva" id="Q1">
+    <text>Se l'Agente della Riscossione ometta di notificare al contribuente la comunicazione preventiva di iscrizione ipotecaria, ciò comporti la nullità della successiva iscrizione ipotecaria.</text>
+    <esito_questione favorevole_a="contribuente">L'omessa notifica della comunicazione preventiva comporta la nullità dell'iscrizione ipotecaria.</esito_questione>
+    <premesse_fatto>
+      <item>L'Agenzia delle entrate-Riscossione ha iscritto un'ipoteca sull'immobile del ricorrente senza avergli precedentemente notificato la comunicazione preventiva di iscrizione ipotecaria.</item>
+      <item>Il ricorrente ha impugnato l'iscrizione ipotecaria eccependo la violazione dell'art. 50, comma 2, del D.P.R. 602/1973 e l'assenza della comunicazione preventiva.</item>
+      <item>L'Agenzia delle entrate-Riscossione non ha contestato né dimostrato l'avvenuta notifica della comunicazione preventiva.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 77, comma 2-bis del D.P.R. 602/1973"/>
+      <item id="D2" type="jur" ref="Cassazione n. 13314/2021"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 77, comma 2-bis del D.P.R. 602/1973 per dimostrare che l'Agente della Riscossione è tenuto a notificare una comunicazione preventiva al contribuente prima di procedere all'iscrizione ipotecaria.</item>
+      <item id_ref="D2">Il giudice fa riferimento alla sentenza della Cassazione n. 13314/2021 per affermare che l'omessa notifica di un atto presupposto costituisce un vizio procedurale che comporta la nullità dell'atto consequenziale.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice riconosce che l'art. 77, comma 2-bis del D.P.R. 602/1973 impone all'Agente della Riscossione l'obbligo di notificare al contribuente una comunicazione preventiva prima di iscrivere l'ipoteca. La mancata notifica di tale comunicazione, come confermato dalla giurisprudenza (Cass. n. 13314/2021), costituisce un vizio procedurale che determina la nullità dell'iscrizione ipotecaria. Poiché l'Agenzia non ha dimostrato né contestato l'avvenuta notifica, il giudice accoglie il ricorso del contribuente dichiarando la nullità dell'iscrizione.</ragionamento_giudice>
+    <riassunto>L'Agenzia delle entrate-Riscossione ha iscritto un'ipoteca sull'immobile del contribuente senza avergli notificato la comunicazione preventiva richiesta dall'art. 77, comma 2-bis del D.P.R. 602/1973. Il contribuente ha impugnato l'iscrizione, eccependo la violazione della norma. La Cassazione (n. 13314/2021) ha stabilito che l'omessa notifica di un atto presupposto comporta la nullità dell'atto consequenziale. Poiché l'Agenzia non ha dimostrato l'avvenuta notifica, il giudice ha dichiarato la nullità dell'iscrizione ipotecaria, accogliendo il ricorso.</riassunto>
+  </questione>
+</questioni>

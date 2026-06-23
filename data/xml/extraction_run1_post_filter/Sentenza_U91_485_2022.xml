@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Calcolo del contributo unificato in base agli atti impugnati" id="Q1">
+    <text>Se il contribuente impugni un atto che include riferimenti a precedenti cartelle esattoriali non notificate, il valore della causa per il calcolo del contributo unificato debba essere determinato sulla sola intimazione di pagamento ovvero debba comprendere anche il valore delle cartelle esattoriali presupposte.</text>
+    <esito_questione favorevole_a="ufficio">Il valore della causa per il calcolo del contributo unificato deve comprendere anche il valore delle cartelle esattoriali presupposte.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha impugnato un’intimazione di pagamento di € 21.063,68, notificata il 02/06/2018, avverso la sentenza della CTP di Roma n. 581/2020.</item>
+      <item>L’atto d’appello contestava sia l’intimazione di pagamento sia le quattro cartelle esattoriali non notificate.</item>
+      <item>Il contribuente sostiene che il contributo unificato debba basarsi solo sull’intimazione di pagamento, escludendo le cartelle.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 14, comma 3 bis, D.P.R. n. 115/2002" />
+      <item id="D2" type="norm" ref="art. 13, comma 6 quater, D.P.R. n. 115/2002" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l’articolo per stabilire che il valore della causa va calcolato "per ciascun atto impugnato anche in appello".</item>
+      <item id_ref="D2">L’articolo viene richiamato per definire gli scaglioni di valore applicabili al contributo unificato.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice osserva che le contestazioni del contribuente riguardano sia l’intimazione di pagamento sia le cartelle esattoriali presupposte. Pertanto, applicando l’art. 14, comma 3 bis, D.P.R. n. 115/2002, il valore della causa deve comprendere tutti gli atti impugnati, incluso il valore delle cartelle. La richiesta del contribuente di limitare il calcolo alla sola intimazione è infondata, poiché la norma impone di considerare l’intero oggetto del contenzioso.</ragionamento_giudice>
+    <riassunto>Il contribuente impugnava un’intimazione di pagamento, contestando anche quattro cartelle esattoriali non notificate. Egli sosteneva che il contributo unificato dovesse basarsi solo sull’intimazione. Il giudice ha ritenuto applicabile l’art. 14, comma 3 bis, D.P.R. n. 115/2002, il quale stabilisce che il valore della causa va determinato includendo tutti gli atti impugnati. Pertanto, il contributo unificato deve essere calcolato considerando anche il valore delle cartelle, rigettando così il ricorso del contribuente.</riassunto>
+  </questione>
+</questioni>

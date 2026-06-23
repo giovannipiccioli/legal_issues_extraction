@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Legittimità dell'avviso di accertamento TARI per omesso pagamento anziché omessa denuncia" id="Q1">
+    <text>Se il contribuente non abbia mai presentato la denuncia TARI sin dall'inizio dell'attività, l'amministrazione comunale possa legittimamente emettere un avviso di accertamento per omesso pagamento anziché per omessa denuncia.</text>
+    <esito_questione favorevole_a="contribuente">L'avviso di accertamento per omesso pagamento è illegittimo in assenza di una precedente denuncia TARI da parte del contribuente.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente non ha mai presentato la denuncia TARI sin dal 2005, anno di inizio dell'attività.</item>
+      <item>L'amministrazione comunale ha emesso un avviso di accertamento per omesso pagamento anziché per omessa denuncia.</item>
+      <item>L'avviso di accertamento è generico e non specifica le aree tassabili né le modalità di calcolo del tributo.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 71 D.Lgs. n. 507/1993"/>
+      <item id="D2" type="norm" ref="art. 72 comma 1 D.Lgs. n. 507/1993"/>
+      <item id="D3" type="jur" ref="Cassazione n. 7818/2004, n. 19165/2004, n. 5895/2002"/>
+      <item id="D4" type="jur" ref="Cassazione n. 19255/2003, n. 9433/2005"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'art. 71 D.Lgs. 507/1993 prevede l'emissione dell'avviso di accertamento solo in caso di omessa denuncia o denuncia infedele/incompleta.</item>
+      <item id_ref="D2">L'art. 72 comma 1 D.Lgs. 507/1993 consente la liquidazione diretta della tassa solo in base a dati già dichiarati o meccanicamente applicati da ruoli precedenti.</item>
+      <item id_ref="D3">La giurisprudenza citata conferma l'interpretazione delle norme sul procedimento di accertamento TARI.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che, in assenza di una denuncia TARI originaria da parte del contribuente, l'amministrazione non poteva procedere con un avviso di accertamento per omesso pagamento, ma avrebbe dovuto emettere un avviso per omessa denuncia ai sensi dell'art. 71 D.Lgs. 507/1993. Inoltre, l'art. 72 comma 1 non è applicabile poiché mancano dati dichiarati o ruoli precedenti su cui basare la liquidazione. L'avviso emesso è inoltre generico, violando il diritto di difesa del contribuente.</ragionamento_giudice>
+    <riassunto>Il contribuente, un'impresa alberghiera, non aveva mai presentato la denuncia TARI sin dal 2005. Il Comune emise un avviso di accertamento per omesso pagamento, generico e privo di dettagli sul calcolo. Il giudice ha stabilito che, ai sensi degli artt. 71 e 72 D.Lgs. 507/1993 e della relativa giurisprudenza, l'avviso era illegittimo: in assenza di denuncia, l'amministrazione doveva emettere un avviso per omessa denuncia, non per omesso pagamento. L'avviso era inoltre viziato da genericità, pregiudicando il diritto di difesa. Il ricorso è stato accolto e l'atto annullato.</riassunto>
+  </questione>
+</questioni>

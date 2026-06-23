@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Decorrenza del termine di decadenza per l'accertamento di costi deducibili in più anni" id="Q1">
+    <text>Se il contribuente deduca in più anni quote di ammortamento o spese relative a più esercizi, il termine per l'accertamento decorre dall'anno in cui viene effettuata la deduzione o dall'anno in cui le spese vengono sostenute e iscritte in bilancio?</text>
+    <esito_questione favorevole_a="ufficio">Il termine per l'accertamento decorre dall'anno in cui viene effettuata la deduzione</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha dedotto quote di ammortamento e spese relative a più esercizi</item>
+      <item>L'Ufficio ha emesso un avviso di accertamento relativo all'anno d'imposta 2014</item>
+      <item>Il contribuente ha eccepito la decadenza del potere impositivo ex art. 43 DPR n. 600/73</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="jur" ref="Cassazione n. 8500/2021"/>
+      <item id="D2" type="norm" ref="art. 43 DPR n. 600/1973"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">La sentenza delle Sezioni Unite della Cassazione chiarisce che il termine di decadenza va calcolato in base alla dichiarazione in cui il singolo rateo è indicato, non dalla prima iscrizione in bilancio</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice applica il principio stabilito dalle Sezioni Unite, secondo cui il termine di decadenza decorre dall'anno in cui il singolo rateo è stato dedotto nella dichiarazione dei redditi, e non dall'anno in cui le spese sono state sostenute o iscritte in bilancio. Pertanto, l'eccezione di decadenza sollevata dal contribuente è infondata.</ragionamento_giudice>
+    <riassunto>Il contribuente ha eccepito la decadenza del potere impositivo per l'accertamento di costi deducibili in più anni, sostenendo che il termine decorresse dall'iscrizione in bilancio. La Commissione Tributaria, richiamando la sentenza n. 8500/2021 delle Sezioni Unite della Cassazione e l'art. 43 DPR n. 600/1973, ha ritenuto invece che il termine decorra dall'anno in cui il singolo rateo è stato dedotto nella dichiarazione dei redditi, rigettando così l'eccezione del contribuente.</riassunto>
+  </questione>
+  <questione title="Inerenza delle spese per climatizzatori allo studio professionale" id="Q2">
+    <text>Se un professionista acquisti climatizzatori per il proprio studio, tali spese siano integralmente deducibili come inerenti all'attività professionale, ovvero debbano essere limitate in proporzione alle esigenze effettive?</text>
+    <esito_questione favorevole_a="contribuente">Le spese sono deducibili solo nella misura in cui sono congruenti con le esigenze dell'attività professionale</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente ha acquistato 8 climatizzatori per il suo studio professionale</item>
+      <item>Lo studio ha una superficie di 40 mq ed è condiviso con altri professionisti</item>
+      <item>L'Ufficio ha inizialmente erroneamente calcolato 26 climatizzatori, poi rettificato a 10</item>
+      <item>Il contribuente ha dimostrato che i climatizzatori erano destinati allo studio, non alla residenza</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="princ" ref="Principio di inerenza delle spese"/>
+      <item id="D2" type="princ" ref="Principio di congruità"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il principio di inerenza richiede che le spese siano funzionali all'attività professionale</item>
+      <item id_ref="D2">Il principio di congruità impone che le spese siano proporzionate alle effettive esigenze</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice riconosce che i climatizzatori erano effettivamente destinati allo studio, ma ritiene che il numero di 8 appare incongruo rispetto alle dimensioni dello studio (40 mq). Pertanto, accoglie solo parzialmente il ricorso, limitando la deducibilità a metà dei climatizzatori, ritenuti sufficienti per le esigenze professionali.</ragionamento_giudice>
+    <riassunto>Il contribuente aveva dedotto le spese per l'acquisto di 8 climatizzatori per il suo studio professionale. La Commissione Tributaria, applicando i principi di inerenza e congruità, ha ritenuto che, sebbene i climatizzatori fossero effettivamente destinati all'attività professionale, il numero di 8 appare sproporzionato rispetto alle dimensioni dello studio (40 mq). Ha quindi parzialmente accolto il ricorso, limitando la deducibilità alla metà dei climatizzatori.</riassunto>
+  </questione>
+</questioni>

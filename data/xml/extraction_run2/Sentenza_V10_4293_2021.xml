@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<questioni>
+  <questione title="Tempestività del ricorso" id="Q1">
+    <text>Se il ricorrente abbia adeguatamente comprovato la tempestività del ricorso, dimostrando la data di notifica del provvedimento impugnato entro il termine di 60 giorni previsto dalla legge.</text>
+    <esito_questione favorevole_a="ufficio">Il ricorso è inammissibile per mancata dimostrazione della tempestività.</esito_questione>
+    <premesse_fatto>
+      <item>Il ricorrente ha impugnato un provvedimento di fermo amministrativo emesso il 30.12.2019 per omesso versamento della tassa automobilistica relativa al 2012.</item>
+      <item>Il ricorrente ha allegato solo la fotografia del provvedimento impugnato, senza indicare la data di notifica della comunicazione di iscrizione del fermo amministrativo.</item>
+      <item>Il ricorso è stato notificato il 17.3.2020, data non ricompresa nei 60 giorni dalla data di emissione del provvedimento impugnato (30.12.2019).</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 21 d.lgs. n. 546 del 1992"/>
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">L'art. 21 del d.lgs. n. 546/1992 stabilisce il termine di 60 giorni per impugnare un provvedimento amministrativo, decorrenti dalla notifica dello stesso.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che il ricorrente non ha fornito prova della data di notifica del provvedimento impugnato, elemento essenziale per verificare la tempestività del ricorso. L'onere della prova incombe sul ricorrente, il quale si è limitato ad allegare la fotografia del provvedimento senza specificare la data di notifica. Poiché il ricorso è stato notificato il 17.3.2020, data non ricompresa nei 60 giorni dalla data di emissione del provvedimento (30.12.2019), e in assenza di prova contraria, il ricorso è dichiarato inammissibile.</ragionamento_giudice>
+    <riassunto>Il ricorrente ha impugnato un provvedimento di fermo amministrativo emesso il 30.12.2019, ma non ha dimostrato la data di notifica dello stesso, necessaria per verificare la tempestività del ricorso entro i 60 giorni previsti dall'art. 21 d.lgs. n. 546/1992. Il giudice, rilevando l'onere probatorio a carico del ricorrente e l'assenza di elementi per accertare la tempestività, dichiara il ricorso inammissibile e condanna il ricorrente al pagamento delle spese di giudizio.</riassunto>
+  </questione>
+</questioni>

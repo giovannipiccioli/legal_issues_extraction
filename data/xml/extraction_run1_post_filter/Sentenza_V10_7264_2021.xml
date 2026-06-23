@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questioni>
+  <questione title="Legittimazione passiva degli eredi in caso di fallimento del defunto" id="Q1">
+    <text>Se un contribuente deceduto sia stato dichiarato fallito e la procedura fallimentare sia ancora in corso, gli eredi possano essere considerati legittimati passivamente per il pagamento dell'IMU relativa a immobili compresi nel fallimento.</text>
+    <esito_questione favorevole_a="contribuente">Gli eredi non sono legittimati passivamente per il pagamento dell'IMU relativa a immobili compresi nel fallimento del defunto.</esito_questione>
+    <premesse_fatto>
+      <item>Il contribuente deceduto (Nominativo_1) è stato dichiarato fallito con procedura ancora in corso.</item>
+      <item>L'avviso di accertamento IMU è stato notificato agli eredi.</item>
+      <item>La ricorrente ha prodotto un certificato della Cancelleria Fallimentare attestante lo stato del fallimento.</item>
+    </premesse_fatto>
+    <lista_riferimenti_diritto>
+      <item id="D1" type="norm" ref="art. 10 comma 6 d.lgs. n. 504/1992" />
+    </lista_riferimenti_diritto>
+    <motivo_citazione>
+      <item id_ref="D1">Il giudice cita l'art. 10 comma 6 del D.Lgs. 504/92 per stabilire che il curatore fallimentare è il soggetto legittimato al pagamento dell'IMU per gli immobili compresi nel fallimento.</item>
+    </motivo_citazione>
+    <ragionamento_giudice>Il giudice rileva che, ai sensi dell'art. 10 comma 6 del D.Lgs. 504/92, in caso di fallimento, il curatore o il commissario liquidatore sono i soggetti legittimati a presentare la dichiarazione e a versare l'IMU per gli immobili compresi nel fallimento. Poiché la procedura fallimentare era ancora in corso, gli eredi non potevano essere considerati legittimati passivamente per il pagamento dell'IMU relativa agli immobili del defunto. Pertanto, l'avviso di accertamento notificato agli eredi è illegittimo.</ragionamento_giudice>
+    <riassunto>Il contribuente deceduto era stato dichiarato fallito e la procedura fallimentare era ancora in corso. L'avviso di accertamento IMU era stato notificato agli eredi. Ai sensi dell'art. 10 comma 6 del D.Lgs. 504/92, in caso di fallimento, il curatore fallimentare è il soggetto legittimato a versare l'IMU per gli immobili compresi nel fallimento. Poiché la procedura era ancora pendente, gli eredi non potevano essere considerati legittimati passivamente. Il giudice ha quindi annullato l'avviso di accertamento.</riassunto>
+  </questione>
+</questioni>
